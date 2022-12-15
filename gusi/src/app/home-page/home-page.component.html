@@ -1,0 +1,78 @@
+<ds-themed-home-news></ds-themed-home-news>
+<div class="container-xxl">
+  <div class="container-home">
+    <ng-container *ngIf="(site$ | async) as site">
+      <ds-view-tracker [object]="site"></ds-view-tracker>
+    </ng-container>
+    <ds-search-form [inPlaceSearch]="false" [searchPlaceholder]="'home.search-form.placeholder' | translate"></ds-search-form>
+    <h2 style="font-weight: bold;">News</h2>
+    <div style="display:block; width: 100%;">
+      <div class="row" style="margin:10px">
+        <div class="col-12 col-lg-6">
+          <ngb-carousel *ngIf="images">
+            <ng-template ngbSlide>
+              <div class="picsum-img-wrapper d-block w-100">
+                <img class="d-block w-100" [src]="images[0]" alt="Random first slide" />
+              </div>
+              <div class="carousel-caption">
+                <h3>UE ECE Warrior Students Excel in Interschool Tilt!</h3>
+                <p>
+                  Congratulations to the Bachelor of Science in Electronics Engineering (BSECE)
+                  students of the UE College of Engineering-Caloocan who won in various categories
+                  of the PalaIECEPan 2022! The competitions were held last October 13-15, 2022, at
+                  the Brgy. Poblacion Center covered court in Mandaluyong City, and via Zoom.
+                </p>
+              </div>
+            </ng-template>
+<!--            <ng-template ngbSlide>-->
+<!--              <div class="picsum-img-wrapper d-block w-100">-->
+<!--                <img class="d-block w-100" [src]="images[1]" alt="Random second slide" />-->
+<!--              </div>-->
+<!--              <div class="carousel-caption">-->
+<!--                <h3>Warrior CFAD Graduate Wins Best Docu in Int’l Film Festival!l</h3>-->
+<!--                <p>A short documentary by a young filmmaker and a 2018 Bachelor of Fine Arts major in Visual Communication graduate of the UE-->
+<!--                  College of Fine Arts, Architecture and Design (CFAD) graduate, Elvin Jay E. Macanlalay, won the Best Documentary Film award at the-->
+<!--                   13th Kota Kinabalu Film Festival held in Malaysia last September 17-25!</p>-->
+<!--              </div>-->
+<!--            </ng-template>-->
+            <ng-template ngbSlide>
+              <div class="picsum-img-wrapper d-block w-100">
+                <img class="d-block w-100" [src]="images[2]" alt="Random third slide" />
+              </div>
+              <div class="carousel-caption">
+                <h3>CEng’g Caloocan Warriors Win Championship, Shine at National Inter-school Convention!</h3>
+                <p>A group of UE College of Engineering-Caloocan graduates and students of Bachelor of Science in Civil Engineering (BSCE) shone bright at the recently held MIDAS Academic Festival!
+                </p>
+                 <p>
+                  Dubbed as the first convention of MIDAS academic users in the Philippines, the inter-school event was hosted by MIDAS IT Philippines and held last October 22, 2022, at Sequoia Hotel Manila Bay, and had participants from 29 universities and colleges nationwide.
+                  </p>
+              </div>
+            </ng-template>
+          </ngb-carousel>
+        </div>
+        <div class="col-12 col-lg-6 align-items-center">
+          <div class="jumbotron jumbotron-fluid d-flex align-items-center" style="height: 100%; padding-left: 20px; background-color: white;">
+
+            <div class="align-items-center">
+              <ul>
+                <li>Most of the documents here are publicly available, except for some documents which might be restricted. This is
+                   set by the admins of the college of engineering.
+                </li>
+                <li>For the students of  College of Engineering UE - Caloocan, if a document is restricted, you can request access from the author.
+                </li>
+                <li>Faculty, staff and students who wants to view unpublished researches under the College of Engineering UE - Caloocan, should register
+                  for an account via the "Log In" link at the top right.</li>
+                <li>Only under the College of Engineering Students at the UE - Caloocan email accounts will be accepted in the account registration.</li>
+                <li>
+                  Authorization and processing of registered accounts may take 2-3 business days. Further concerns, you may contact the admin thru email.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <ds-top-level-community-list></ds-top-level-community-list>
+    <ds-recent-item-list *ngIf="recentSubmissionspageSize>0"></ds-recent-item-list>
+  </div>
+</div>

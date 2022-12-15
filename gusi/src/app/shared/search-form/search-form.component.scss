@@ -1,0 +1,22 @@
+// temporary fix for bootstrap 4 beta btn color issue
+.btn-secondary {
+  background-color: var(--bs-input-bg);
+  color: var(--bs-input-color);
+}
+
+.scope-button {
+  max-width: var(--ds-search-form-scope-max-width);
+}
+.form-control{
+  border: 1px solid #DA1212;
+  font-weight: bold;
+  
+  :focus{
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 0 0.2rem rgba(95, 67, 67, 0.25);
+  }
+}
+.search-button{
+  color: #fff;
+  background-color: #DA1212;
+  border-color: #DA1212;
+}

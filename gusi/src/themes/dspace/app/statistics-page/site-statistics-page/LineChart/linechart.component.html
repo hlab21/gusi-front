@@ -1,0 +1,62 @@
+<div class="row pt-5 mb-5" *ngIf="!isLoading">
+  <div class="col-lg-12 col-md-12">
+    <div class="card">
+      <div class="card-body h-100">
+        <p class="text-uppercase small mb-2">
+          <strong>Monthly Active Users per Country</strong>
+        </p>
+        <hr />
+        <div class="d-flex text-center justify-content-center w-100 align-items-center mx-auto">
+          <div class="d-none d-md-none d-lg-block" *ngIf="!isLoading">
+            <ngx-charts-area-chart
+              [view]="viewlg"
+              [scheme]="colorScheme"
+              [legend]="legend"
+              [showXAxisLabel]="showXAxisLabel"
+              [showYAxisLabel]="showYAxisLabel"
+              [xAxis]="xAxis"
+              [yAxis]="yAxis"
+              [xAxisLabel]="xAxisLabel"
+              [yAxisLabel]="yAxisLabel"
+              [timeline]="timeline"
+              [results]="linechart"
+              (select)="onSelect($event)">
+            </ngx-charts-area-chart>
+          </div>
+          <div class="d-none d-md-block d-lg-none" *ngIf="!isLoading">
+            <ngx-charts-area-chart
+              [view]="viewmd"
+              [scheme]="colorScheme"
+              [legend]="legend"
+              [showXAxisLabel]="showXAxisLabel"
+              [showYAxisLabel]="showYAxisLabel"
+              [xAxis]="xAxis"
+              [yAxis]="yAxis"
+              [xAxisLabel]="xAxisLabel"
+              [yAxisLabel]="yAxisLabel"
+              [timeline]="timeline"
+              [results]="linechart"
+              (select)="onSelect($event)">
+            </ngx-charts-area-chart>
+          </div>
+          <div class="d-block d-md-none d-lg-none" *ngIf="!isLoading">
+            <ngx-charts-area-chart
+              [view]="viewxxs"
+              [scheme]="colorScheme"
+              [legend]="legend"
+              [showXAxisLabel]="showXAxisLabel"
+              [showYAxisLabel]="showYAxisLabel"
+              [xAxis]="xAxis"
+              [yAxis]="yAxis"
+              [xAxisLabel]="xAxisLabel"
+              [yAxisLabel]="yAxisLabel"
+              [timeline]="timeline"
+              [results]="linechart"
+              (select)="onSelect($event)">
+            </ngx-charts-area-chart>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

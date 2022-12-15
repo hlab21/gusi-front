@@ -1,0 +1,3244 @@
+{
+
+  "401.help": "Sinulla ei ole valtuuksia nähdä sivua. Voit palata etusivulle alla olevalla painikkeella.",
+
+  "401.link.home-page": "Palaa etusivulle",
+
+  "401.unauthorized": "valtuuttamaton",
+
+  "403.help": "Sinulla ei ole oikeutta nähdä sivua. Voit palata etusivulle alla olevalla painikkeella.",
+
+  "403.link.home-page": "Palaa etusivulle",
+
+  "403.forbidden": "kielletty",
+
+  "404.help": "Hakemaasi sivua ei löytynyt. Sivu on voitu siirtää tai poistaa. Painamalla alapuolella olevaa nappia palaat etusivulle. ",
+
+  "404.link.home-page": "Palaa etusivulle",
+
+  "404.page-not-found": "sivua ei löytynyt",
+
+  "admin.curation-tasks.breadcrumbs": "Järjestelmän kuratointitehtävät",
+
+  "admin.curation-tasks.title": "Järjestelmän kuratointitehtävät",
+
+  "admin.curation-tasks.header": "Järjestelmän kuratointitehtävät",
+
+  "admin.registries.bitstream-formats.breadcrumbs": "Formaattirekisteri",
+
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Tiedostoformaatti",
+
+  "admin.registries.bitstream-formats.create.failure.content": "Virhe uutta tiedostoformaattia luotaessa.",
+
+  "admin.registries.bitstream-formats.create.failure.head": "Virhe",
+
+  "admin.registries.bitstream-formats.create.head": "Luo tiedostoformaatti",
+
+  "admin.registries.bitstream-formats.create.new": "Lisää uusi tiedostoformaatti",
+
+  "admin.registries.bitstream-formats.create.success.content": "Uusi tiedostoformaatti luotu.",
+
+  "admin.registries.bitstream-formats.create.success.head": "Valmis",
+
+  "admin.registries.bitstream-formats.delete.failure.amount": "{{ amount }} formaatin poisto epäonnistui",
+
+  "admin.registries.bitstream-formats.delete.failure.head": "Virhe",
+
+  "admin.registries.bitstream-formats.delete.success.amount": "Poistettu {{ amount }} formaatti(a)",
+
+  "admin.registries.bitstream-formats.delete.success.head": "Valmis",
+
+  "admin.registries.bitstream-formats.description": "Tässä luetellaan tiedostoformaatit ja niiden tukitasot.",
+
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Tiedostoformaatti",
+
+  "admin.registries.bitstream-formats.edit.description.hint": "",
+
+  "admin.registries.bitstream-formats.edit.description.label": "Kuvaus",
+
+  "admin.registries.bitstream-formats.edit.extensions.hint": "Tarkenteet ovat tiedostopäätteitä, joita käytetään tallennettujen tiedostojen formaatin automaattiseen tunnistamiseen. Yhtä formaattia voi vastata useampi tiedostopääte.",
+
+  "admin.registries.bitstream-formats.edit.extensions.label": "Tiedostopäätteet",
+
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Lisää tiedostopääte ilman pistettä",
+
+  "admin.registries.bitstream-formats.edit.failure.content": "Virhe tiedostoformaattia muokattaessa.",
+
+  "admin.registries.bitstream-formats.edit.failure.head": "Virhe",
+
+  "admin.registries.bitstream-formats.edit.head": "Tiedostoformaatti: {{ format }}",
+
+  "admin.registries.bitstream-formats.edit.internal.hint": "Sisäisiksi merkittyjä formaatteja käytetään ylläpitotarkoituksiin, ja ne on piilotettu käyttäjiltä.",
+
+  "admin.registries.bitstream-formats.edit.internal.label": "Sisäinen",
+
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "Tiedostoformaatin MIME-tyyppi. MIME-tyypin ei tarvitse olla yksilöllinen.",
+
+  "admin.registries.bitstream-formats.edit.mimetype.label": "MIME-tyyppi",
+
+  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Formaatin yksilöllinen nimi (esim. Microsoft Word XP tai Microsoft Word 2000)",
+
+  "admin.registries.bitstream-formats.edit.shortDescription.label": "Nimi",
+
+  "admin.registries.bitstream-formats.edit.success.content": "Tiedostoformaattia muokattu.",
+
+  "admin.registries.bitstream-formats.edit.success.head": "Valmis",
+
+  "admin.registries.bitstream-formats.edit.supportLevel.hint": "Tukitaso, jonka järjestelmää ylläpitävä instituutio takaa tiedostoformaatille.",
+
+  "admin.registries.bitstream-formats.edit.supportLevel.label": "Tukitaso",
+
+  "admin.registries.bitstream-formats.head": "Tiedostoformaattirekisteri",
+
+  "admin.registries.bitstream-formats.no-items": "Ei tiedostoformaatteja.",
+
+  "admin.registries.bitstream-formats.table.delete": "Poista valittu",
+
+  "admin.registries.bitstream-formats.table.deselect-all": "Poista kaikkien valinta",
+
+  "admin.registries.bitstream-formats.table.internal": "sisäinen",
+
+  "admin.registries.bitstream-formats.table.mimetype": "MIME-tyyppi",
+
+  "admin.registries.bitstream-formats.table.name": "Nimi",
+
+  "admin.registries.bitstream-formats.table.return": "Palaa",
+
+  "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Tunnettu",
+
+  "admin.registries.bitstream-formats.table.supportLevel.SUPPORTED": "Tuettu",
+
+  "admin.registries.bitstream-formats.table.supportLevel.UNKNOWN": "Tuntematon",
+
+  "admin.registries.bitstream-formats.table.supportLevel.head": "Tukitaso",
+
+  "admin.registries.bitstream-formats.title": "DSpace Angular :: Tiedostoformaattirekisteri",
+
+  "admin.registries.metadata.breadcrumbs": "Metadatarekisteri",
+
+  "admin.registries.metadata.description": "Metadatarekisteriin on koottu tässä julkaisuarkistossa käytössä olevat metadatakentät. Kentät voivat jakautua eri skeemoihin. DSpace-alusta edellyttää Qualified Dublin Core -skeeman käyttöä.",
+
+  "admin.registries.metadata.form.create": "Luo metadataskeema",
+
+  "admin.registries.metadata.form.edit": "Muokkaa metadataskeemaa",
+
+  "admin.registries.metadata.form.name": "Nimi",
+
+  "admin.registries.metadata.form.namespace": "Nimiavaruus",
+
+  "admin.registries.metadata.head": "Metadatarekisteri",
+
+  "admin.registries.metadata.schemas.no-items": "Ei metadataskeemoja.",
+
+  "admin.registries.metadata.schemas.table.delete": "Poista valittu",
+
+  "admin.registries.metadata.schemas.table.id": "ID-tunnus",
+
+  "admin.registries.metadata.schemas.table.name": "Nimi",
+
+  "admin.registries.metadata.schemas.table.namespace": "Nimiavaruus",
+
+  "admin.registries.metadata.title": "DSpace Angular :: Metadatarekisteri",
+
+  "admin.registries.schema.breadcrumbs": "Metadataskeema",
+
+  "admin.registries.schema.description": "Tämä on metadataskeema \"{{namespace}}\"-nimiavaruudelle.",
+
+  "admin.registries.schema.fields.head": "Skeeman metadatakentät",
+
+  "admin.registries.schema.fields.no-items": "Ei metadatakenttiä.",
+
+  "admin.registries.schema.fields.table.delete": "Poista valittu",
+
+  "admin.registries.schema.fields.table.field": "Kenttä",
+
+  "admin.registries.schema.fields.table.scopenote": "Soveltamisala",
+
+  "admin.registries.schema.form.create": "Luo metadatakenttä",
+
+  "admin.registries.schema.form.edit": "Muokkaa metadatakenttää",
+
+  "admin.registries.schema.form.element": "Elementti",
+
+  "admin.registries.schema.form.qualifier": "Tarkenne",
+
+  "admin.registries.schema.form.scopenote": "Soveltamisala",
+
+  "admin.registries.schema.head": "Metadataskeema",
+
+  "admin.registries.schema.notification.created": "\"{{prefix}}\"-metadataskeema luotu",
+
+  "admin.registries.schema.notification.deleted.failure": "{{amount}} metadataskeeman poisto epäonnistui ",
+
+  "admin.registries.schema.notification.deleted.success": "{{amount}} metadataskeemaa poistettu",
+
+  "admin.registries.schema.notification.edited": "\"{{prefix}}\"-metadaskeemaa muokattu",
+
+  "admin.registries.schema.notification.failure": "Virhe",
+
+  "admin.registries.schema.notification.field.created": "\"{{field}}\"-metadatakenttä luotu",
+
+  "admin.registries.schema.notification.field.deleted.failure": "{{amount}} metadatakentän poisto epäonnistui",
+
+  "admin.registries.schema.notification.field.deleted.success": "{{amount}} metadatakenttää poistettu",
+
+  "admin.registries.schema.notification.field.edited": "\"{{field}}\"-metadatakentää muokattu",
+
+  "admin.registries.schema.notification.success": "Valmis",
+
+  "admin.registries.schema.return": "Palaa",
+
+  "admin.registries.schema.title": "DSpace Angular :: Metadataskeemarekisteri",
+
+  "admin.access-control.epeople.actions.delete": "Poista käyttäjä",
+
+  "admin.access-control.epeople.actions.impersonate": "Esiinny käyttäjänä",
+
+  "admin.access-control.epeople.actions.reset": "Nollaa salasana",
+
+  "admin.access-control.epeople.actions.stop-impersonating": "Lopeta käyttäjänä esiintyminen",
+
+  "admin.access-control.epeople.title": "DSpace Angular :: Käyttäjät",
+
+  "admin.access-control.epeople.head": "Käyttäjät",
+
+  "admin.access-control.epeople.search.head": "Hae",
+
+  "admin.access-control.epeople.button.see-all": "Selaa kaikkia",
+
+  "admin.access-control.epeople.search.scope.metadata": "Metadata",
+
+  "admin.access-control.epeople.search.scope.email": "Sähköpostiosoite (oikea)",
+
+  "admin.access-control.epeople.search.button": "Hae",
+
+  "admin.access-control.epeople.button.add": "Lisää käyttäjä",
+
+  "admin.access-control.epeople.table.id": "ID",
+
+  "admin.access-control.epeople.table.name": "Nimi",
+
+  "admin.access-control.epeople.table.email": "Sähköpostiosoite (oikea)",
+
+  "admin.access-control.epeople.table.edit": "Muokkaa",
+
+  "admin.access-control.epeople.table.edit.buttons.edit": "Muokkaa \"{{name}}\"",
+
+  "admin.access-control.epeople.table.edit.buttons.remove": "Poista \"{{name}}\"",
+
+  "admin.access-control.epeople.no-items": "Ei näytettäviä käyttäjiä.",
+
+  "admin.access-control.epeople.form.create": "Luo käyttäjä",
+
+  "admin.access-control.epeople.form.edit": "Muokkaa käyttäjää",
+
+  "admin.access-control.epeople.form.firstName": "Etunimi",
+
+  "admin.access-control.epeople.form.lastName": "Sukunimi",
+
+  "admin.access-control.epeople.form.email": "Sähköpostiosoite",
+
+  "admin.access-control.epeople.form.emailHint": "Sähköpostiosoitteen on oltava toimiva osoite",
+
+  "admin.access-control.epeople.form.canLogIn": "Voi kirjautua",
+
+  "admin.access-control.epeople.form.requireCertificate": "Vaatii sertifikaatin",
+
+  "admin.access-control.epeople.form.notification.created.success": "Käyttäjä \"{{name}}\" luotu",
+
+  "admin.access-control.epeople.form.notification.created.failure": "Käyttäjän \"{{name}}\" luonti epäonnistui",
+
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Käyttäjän \"{{name}}\" luonti epäonnistui, sähköpostiosoite \"{{email}}\" on jo käytössä.",
+
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Käyttäjän \"{{name}}\" muokkaus epäonnistui, sähköpostiosoite \"{{email}}\" on jo käytössä.",
+
+  "admin.access-control.epeople.form.notification.edited.success": "Käyttäjä \"{{name}}\" muokattu",
+
+  "admin.access-control.epeople.form.notification.edited.failure": "Käyttäjän \"{{name}}\" muokkaus epäonnistui",
+
+  "admin.access-control.epeople.form.notification.deleted.success": "Käyttäjä \"{{name}}\" poistettu",
+
+  "admin.access-control.epeople.form.notification.deleted.failure": "Käyttäjän \"{{name}}\" poisto epäonnistui",
+
+  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Jäsenenä näissä ryhmissä:",
+
+  "admin.access-control.epeople.form.table.id": "ID-tunnus",
+
+  "admin.access-control.epeople.form.table.name": "Nimi",
+
+  "admin.access-control.epeople.form.memberOfNoGroups": "Tämä käyttäjä ei kuulu mihinkään ryhmään",
+
+  "admin.access-control.epeople.form.goToGroups": "Lisää ryhmiin",
+
+  "admin.access-control.epeople.notification.deleted.failure": "Käyttäjän poisto epäonnistui: \"{{name}}\"",
+
+  "admin.access-control.epeople.notification.deleted.success": "Käyttäjä poistettu: \"{{name}}\"",
+
+  "admin.access-control.groups.title": "DSpace Angular :: Ryhmät",
+
+  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Ryhmän muokkaus",
+
+  "admin.access-control.groups.title.addGroup": "DSpace Angular :: Uusi ryhmä",
+
+  "admin.access-control.groups.head": "Ryhmät",
+
+  "admin.access-control.groups.button.add": "Lisää ryhmä",
+
+  "admin.access-control.groups.search.head": "Hae ryhmiä",
+
+  "admin.access-control.groups.button.see-all": "Selaa kaikkia",
+
+  "admin.access-control.groups.search.button": "Hae",
+
+  "admin.access-control.groups.table.id": "ID",
+
+  "admin.access-control.groups.table.name": "Nimi",
+
+  "admin.access-control.groups.table.members": "Jäsenet",
+
+  "admin.access-control.groups.table.edit": "Muokkaa",
+
+  "admin.access-control.groups.table.edit.buttons.edit": "Muokkaa ryhmää \"{{name}}\"",
+
+  "admin.access-control.groups.table.edit.buttons.remove": "Poista \"{{name}}\"",
+
+  "admin.access-control.groups.no-items": "Ei ryhmiä, joiden nimi tai UUID täsmää",
+
+  "admin.access-control.groups.notification.deleted.success": "Ryhmä \"{{name}}\" poistettu",
+
+  "admin.access-control.groups.notification.deleted.failure.title": "Ryhmän \"{{name}}\" poisto epäonnistui",
+
+  "admin.access-control.groups.notification.deleted.failure.content": "Syy: \"{{cause}}\"",
+
+  "admin.access-control.groups.form.alert.permanent": "Tämä ryhmä on pysyvä, eikä sitä voi muokata tai poistaa. Ryhmään voi kuitenkin lisätä ja poistaa jäseniä tällä sivulla.",
+
+  "admin.access-control.groups.form.alert.workflowGroup": "Tätä ryhmää ei voi muokata eikä poistaa, koska siihen liittyy rooli tallennus- ja työnkulkuprosessissa \"{{name}}\" {{comcol}}. Voit poistaa sen <a href='{{comcolEditRolesRoute}}'>\"Määritä rooleja\"</a> -välilehdellä {{comcol}}-muokkaussivulla. Ryhmään voi kuitenkin lisätä ja poistaa jäseniä tällä sivulla.",
+
+  "admin.access-control.groups.form.head.create": "Luo ryhmä",
+
+  "admin.access-control.groups.form.head.edit": "Muokkaa ryhmää",
+
+  "admin.access-control.groups.form.groupName": "Ryhmän nimi",
+
+  "admin.access-control.groups.form.groupDescription": "Kuvaus",
+
+  "admin.access-control.groups.form.notification.created.success": "Ryhmä \"{{name}}\" luotu",
+
+  "admin.access-control.groups.form.notification.created.failure": "Ryhmän \"{{name}}\" luonti epäonnistui",
+
+  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Ryhmän \"{{name}}\" luonti epäonnistui. Tarkista, että nimi ei ole käytössä.",
+
+  "admin.access-control.groups.form.notification.edited.failure": "Ryhmän \"{{name}}\" muokkaus epäonnistui",
+
+  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Nimi \"{{name}}\" on jo käytössä!",
+
+  "admin.access-control.groups.form.notification.edited.success": "Ryhmää \"{{name}}\" muokattu",
+
+  "admin.access-control.groups.form.actions.delete": "Poista ryhmä",
+
+  "admin.access-control.groups.form.delete-group.modal.header": "Poista ryhmä \"{{ dsoName }}\"",
+
+  "admin.access-control.groups.form.delete-group.modal.info": "Haluatko varmasti poistaa ryhmän \"{{ dsoName }}\"",
+
+  "admin.access-control.groups.form.delete-group.modal.cancel": "Peruuta",
+
+  "admin.access-control.groups.form.delete-group.modal.confirm": "Poista",
+
+  "admin.access-control.groups.form.notification.deleted.success": "Ryhmä \"{{ name }}\" poistettu",
+
+  "admin.access-control.groups.form.notification.deleted.failure.title": "Ryhmän \"{{ name }}\" poisto epäonnistui",
+
+  "admin.access-control.groups.form.notification.deleted.failure.content": "Syy: \"{{ cause }}\"",
+
+  "admin.access-control.groups.form.members-list.head": "Käyttäjät",
+
+  "admin.access-control.groups.form.members-list.search.head": "Lisää käyttäjiä",
+
+  "admin.access-control.groups.form.members-list.button.see-all": "Selaa kaikkia",
+
+  "admin.access-control.groups.form.members-list.headMembers": "Nykyiset jäsenet",
+
+  "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadata",
+
+  "admin.access-control.groups.form.members-list.search.scope.email": "Sähköpostiosoite (oikea)",
+
+  "admin.access-control.groups.form.members-list.search.button": "Hae",
+
+  "admin.access-control.groups.form.members-list.table.id": "ID",
+
+  "admin.access-control.groups.form.members-list.table.name": "Nimi",
+
+  "admin.access-control.groups.form.members-list.table.edit": "Poista / Lisää",
+
+  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Poista jäsen \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.success.addMember": "Jäsen lisätty: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Jäsenen lisäys epäonnistui: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Jäsen poistettu: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Jäsenen poisto epäonnistui: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Lisää jäsen \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "Ei aktiivista ryhmää, syötä ensin nimi.",
+
+  "admin.access-control.groups.form.members-list.no-members-yet": "Ryhmässä ei ole vielä jäseniä, hae ja lisää.",
+
+  "admin.access-control.groups.form.members-list.no-items": "Haku ei palauttanut käyttäjiä",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure": "Tapahtui  virhe: \"{{cause}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.head": "Ryhmät",
+
+  "admin.access-control.groups.form.subgroups-list.search.head": "Lisää alaryhmä",
+
+  "admin.access-control.groups.form.subgroups-list.button.see-all": "Selaa kaikkia",
+
+  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Nykyiset alaryhmät",
+
+  "admin.access-control.groups.form.subgroups-list.search.button": "Hae",
+
+  "admin.access-control.groups.form.subgroups-list.table.id": "ID",
+
+  "admin.access-control.groups.form.subgroups-list.table.name": "Nimi",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit": "Poista / Lisää",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Poista alaryhmä nimeltään \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Lisää alarymä nimellä \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Nykyinen ryhmä",
+
+  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Lisätty alaryhmä: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Alaryhmän lisäys epäonnistui: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Alaryhmä poistettu: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Alaryhmän poisto epäonnistui: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "Ei nykyistä aktiivista ryhmää, tallenna ensin nimi.",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "Tämä on nykyinen ryhmä, lisäys ei ole mahdollista.",
+
+  "admin.access-control.groups.form.subgroups-list.no-items": "Ei ryhmiä, joiden nimi tai UUID täsmää",
+
+  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "Ryhmällä ei ole alaryhmiä.",
+
+  "admin.access-control.groups.form.return": "Palaa ryhmiin",
+
+  "admin.search.breadcrumbs": "Ylläpitäjän haku",
+
+  "admin.search.collection.edit": "Muokkaa",
+
+  "admin.search.community.edit": "Muokkaa",
+
+  "admin.search.item.delete": "Poista",
+
+  "admin.search.item.edit": "Muokkaa",
+
+  "admin.search.item.make-private": "Tee yksityiseksi",
+
+  "admin.search.item.make-public": "Tee julkiseksi",
+
+  "admin.search.item.move": "Siirrä",
+
+  "admin.search.item.reinstate": "Palauta käyttöön",
+
+  "admin.search.item.withdraw": "Poista käytöstä",
+
+  "admin.search.title": "Ylläpitäjän haku",
+
+  "administrativeView.search.results.head": "Ylläpitäjän haku",
+
+  "admin.workflow.breadcrumbs": "Hallinnoi työnkulkua",
+
+  "admin.workflow.title": "Hallinnoi työnkulkua",
+
+  "admin.workflow.item.workflow": "Työnkulku",
+
+  "admin.workflow.item.delete": "Poista",
+
+  "admin.workflow.item.send-back": "Lähetä takaisin",
+
+  "admin.metadata-import.breadcrumbs": "Importoi metadata",
+
+  "admin.metadata-import.title": "Importoi metadata",
+
+  "admin.metadata-import.page.header": "Importoi metadata",
+
+  "admin.metadata-import.page.help": "Voit pudottaa tähän tai selata CSV-tiedostoja, joilla voit tehdä metadatatoimintoja usealle tietueelle",
+
+  "admin.metadata-import.page.dropMsg": "Pudota CSV-metadata importoimista varten",
+
+  "admin.metadata-import.page.dropMsgReplace": "Pudota korvataksesi importoitava CSV-metadata",
+
+  "admin.metadata-import.page.button.return": "Paluu",
+
+  "admin.metadata-import.page.button.proceed": "Jatka",
+
+  "admin.metadata-import.page.error.addFile": "Valitse ensin tiedosto!",
+
+  "auth.errors.invalid-user": "Virheellinen sähköpostiosoite tai salasana.",
+
+  "auth.messages.expired": "Istuntosi on vanhentunut. Kirjaudu uudelleen.",
+
+  "bitstream.edit.bitstream": "Tiedosto: ",
+
+  "bitstream.edit.form.description.hint": "Voit lisätä lyhyen kuvauksen tiedostosta, esimerkiksi \"<i>Pääartikkeli</i>\" tai \"<i>Testidatan tulkinta</i>\".",
+
+  "bitstream.edit.form.description.label": "Kuvaus",
+
+  "bitstream.edit.form.embargo.hint": "Ensimmäinen päivä, jona tietue on saatavilla. <b>Päivämäärää ei voi muokata tällä lomakkeella.</b> Embargon päivämäärä asetetaan seuraavasti: Valitse <i>Tietueen tila</i>-välilehti ja sieltä <i>Käyttöoikeudet...</i>, luo tai muokkaa olemassa olevaa <i>READ</i>-käytäntöä ja aseta <i>Alkupäivämäärä</i>.",
+
+  "bitstream.edit.form.embargo.label": "Embargo tiettyyn päivämäärään asti",
+
+  "bitstream.edit.form.fileName.hint": "Vaihda tiedoston tiedostonimi. Huomaa, että tämä muuttaa näkyvää tiedoston URL-osoitetta, mutta vanhat linkit toimivat, kunhan järjestys-ID ei muutu.",
+
+  "bitstream.edit.form.fileName.label": "Tiedostonimi",
+
+  "bitstream.edit.form.newFormat.label": "Kuvaile uusi formaatti",
+
+  "bitstream.edit.form.newFormat.hint": "Tiedoston luonnissa käytetty sovellus ja versionumero (esim. \"<i>ACMESoft SuperApp version 1.5</i>\").",
+
+  "bitstream.edit.form.primaryBitstream.label": "Ensisijainen tiedosto",
+
+  "bitstream.edit.form.selectedFormat.hint": "Jos formaatti ei ole yllä olevassa luettelossa,  <b>valitse yltä \"Formaatti ei ole luettelossa\"</b> ja kuvaile se kohdassa \"Kuvaile uusi formaatti\".",
+
+  "bitstream.edit.form.selectedFormat.label": "Valittu formaatti",
+
+  "bitstream.edit.form.selectedFormat.unknown": "Formaatti ei ole luettelossa",
+
+  "bitstream.edit.notifications.error.format.title": "Virhe tallennettaessa tiedoston formaattia",
+
+  "bitstream.edit.notifications.saved.content": "Muutokset tiedostoon on tallennettu.",
+
+  "bitstream.edit.notifications.saved.title": "Tiedosto tallennettu",
+
+  "bitstream.edit.title": "Muokkaa tiedostoa",
+
+  "browse.comcol.by.author": "Tekijän mukaan",
+
+  "browse.comcol.by.dateissued": "Julkaisuajan mukaan",
+
+  "browse.comcol.by.subject": "Asiasanan mukaan",
+
+  "browse.comcol.by.title": "Nimekkeen mukaan",
+
+  "browse.comcol.head": "Selaa",
+
+  "browse.empty": "Ei tietueita.",
+
+  "browse.metadata.author": "Tekijä",
+
+  "browse.metadata.dateissued": "Julkaisuaika",
+
+  "browse.metadata.subject": "Asiasana",
+
+  "browse.metadata.title": "Nimeke",
+
+  "browse.metadata.author.breadcrumbs": "Selaa tekijän mukaan",
+
+  "browse.metadata.dateissued.breadcrumbs": "Selaa päivämäärän mukaan",
+
+  "browse.metadata.subject.breadcrumbs": "Selaa asiasanan mukaan",
+
+  "browse.metadata.title.breadcrumbs": "Selaa nimekkeen mukaan",
+
+  "browse.startsWith.choose_start": "(Valitse alku)",
+
+  "browse.startsWith.choose_year": "(Valitse vuosi)",
+
+  "browse.startsWith.jump": "Hyppää indeksin kohtaan:",
+
+  "browse.startsWith.months.april": "Huhtikuu",
+
+  "browse.startsWith.months.august": "Elokuu",
+
+  "browse.startsWith.months.december": "Joulukuu",
+
+  "browse.startsWith.months.february": "Helmikuu",
+
+  "browse.startsWith.months.january": "Tammikuu",
+
+  "browse.startsWith.months.july": "Heinäkuu",
+
+  "browse.startsWith.months.june": "Kesäkuu",
+
+  "browse.startsWith.months.march": "Maaliskuu",
+
+  "browse.startsWith.months.may": "Toukokuu",
+
+  "browse.startsWith.months.none": "(Valitse kuukausi)",
+
+  "browse.startsWith.months.november": "Marraskuu",
+
+  "browse.startsWith.months.october": "Lokakuu",
+
+  "browse.startsWith.months.september": "Syyskuu",
+
+  "browse.startsWith.submit": "Ok",
+
+  "browse.startsWith.type_date": "Tai anna päiväys (vuosi-kuukausi):",
+
+  "browse.startsWith.type_text": "Tai anna muutama alkukirjain:",
+
+  "browse.title": "Selataan {{ collection }}-kokoelmaa {{ field }}-kentän arvolla {{ value }}",
+
+  "chips.remove": "Poista chip",
+
+  "collection.create.head": "Luo kokoelma",
+
+  "collection.create.notifications.success": "Kokoelma luotu",
+
+  "collection.create.sub-head": "Luo kokoelma {{ parent }}-yhteisöön",
+
+  "collection.curate.header": "Kuratoi kokoelmaa: {{collection}}",
+
+  "collection.delete.cancel": "Peruuta",
+
+  "collection.delete.confirm": "Vahvista",
+
+  "collection.delete.head": "Poista kokoelma",
+
+  "collection.delete.notification.fail": "Kokoelman poisto epäonnistui",
+
+  "collection.delete.notification.success": "Kokoelma poistettu",
+
+  "collection.delete.text": "Haluatko varmasti poistaa kokoelman \"{{ dso }}\"",
+
+  "collection.edit.delete": "Poista kokoelma",
+
+  "collection.edit.head": "Muokkaa kokoelmaa",
+
+  "collection.edit.breadcrumbs": "Muokkaa kokoelmaa",
+
+  "collection.edit.tabs.mapper.head": "Tietueliitosväline",
+
+  "collection.edit.tabs.item-mapper.title": "Kokoelman muokkaus - Tietueliitosväline",
+
+  "collection.edit.item-mapper.cancel": "Peruuta",
+
+  "collection.edit.item-mapper.collection": "Kokoelma: \"<b>{{name}}</b>\"",
+
+  "collection.edit.item-mapper.confirm": "Liitä valitut tietueet",
+
+  "collection.edit.item-mapper.description": "Tällä työkalulla kokoelmien ylläpitäjät voivat liittää tietueita muista kokoelmista tähän kokoelmaan. Voit hakea tietueita muista kokoelmista ja liittää ne tähän kokoelmaan tai selata luetteloa tähän kokoelmaan liitetyistä tietueista.",
+
+  "collection.edit.item-mapper.head": "Tietueliitosväline - Liitä tietueita muista kokoelmista",
+
+  "collection.edit.item-mapper.no-search": "Anna hakulauseke",
+
+  "collection.edit.item-mapper.notifications.map.error.content": "Virheitä liitettäessä {{amount}} tietuetta.",
+
+  "collection.edit.item-mapper.notifications.map.error.head": "Virheitä liitoksissa",
+
+  "collection.edit.item-mapper.notifications.map.success.content": "Liitetty {{amount}} tietuetta.",
+
+  "collection.edit.item-mapper.notifications.map.success.head": "Liitos valmis",
+
+  "collection.edit.item-mapper.notifications.unmap.error.content": "Virheitä {{amount}} tietueen liitoksia poistettaessa.",
+
+  "collection.edit.item-mapper.notifications.unmap.error.head": "Poista virheelliset liitokset",
+
+  "collection.edit.item-mapper.notifications.unmap.success.content": "Poistettu {{amount}} tietueen liitokset.",
+
+  "collection.edit.item-mapper.notifications.unmap.success.head": "Liitosten poisto valmis",
+
+  "collection.edit.item-mapper.remove": "Poista valitut tietueliitokset",
+
+  "collection.edit.item-mapper.tabs.browse": "Selaa liitettyjä tietueita",
+
+  "collection.edit.item-mapper.tabs.map": "Liitä uusia tietueita",
+
+  "collection.edit.logo.label": "Kokoelman logo",
+
+  "collection.edit.logo.notifications.add.error": "Kokoelman logon lataus epäonnistui. Tarkista sisältö ennen kuin yrität uudelleen.",
+
+  "collection.edit.logo.notifications.add.success": "Kokoelman logo ladattu.",
+
+  "collection.edit.logo.notifications.delete.success.title": "Logo poistettu",
+
+  "collection.edit.logo.notifications.delete.success.content": "Kokoelman logo poistettu",
+
+  "collection.edit.logo.notifications.delete.error.title": "Virhe logoa poistettaessa",
+
+  "collection.edit.logo.upload": "Pudota kokoelman logo ladattavaksi",
+
+  "collection.edit.notifications.success": "Kokoelman muokkaus onnistui",
+
+  "collection.edit.return": "Palaa",
+
+  "collection.edit.tabs.curate.head": "Kuratoi",
+
+  "collection.edit.tabs.curate.title": "Kokoelman muokkaus - Kuratoi",
+
+  "collection.edit.tabs.authorizations.head": "Käyttöoikeudet",
+
+  "collection.edit.tabs.authorizations.title": "Kokoelman muokkaus - Käyttöoikeudet",
+
+  "collection.edit.tabs.metadata.head": "Muokkaa metadataa",
+
+  "collection.edit.tabs.metadata.title": "Kokoelman muokkaus - Metadata",
+
+  "collection.edit.tabs.roles.head": "Määritä rooleja",
+
+  "collection.edit.tabs.roles.title": "Kokoelman muokkaus - Roolit",
+
+  "collection.edit.tabs.source.external": "Tämän kokoeleman sisältö haravoidaan ulkoisesta lähteestä",
+
+  "collection.edit.tabs.source.form.errors.oaiSource.required": "Kohdekokoelman joukko-ID on annettava.",
+
+  "collection.edit.tabs.source.form.harvestType": "Haravoitava sisältö",
+
+  "collection.edit.tabs.source.form.head": "Aseta ulkoinen lähde",
+
+  "collection.edit.tabs.source.form.metadataConfigId": "Metadataformaatti",
+
+  "collection.edit.tabs.source.form.oaiSetId": "OAI-kohtainen joukko-ID",
+
+  "collection.edit.tabs.source.form.oaiSource": "OAI-tarjoaja",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_BITSTREAMS": "Haravoi metadata ja tiedostot (vaatii ORE-tuen)",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_REF": "Haravoi metadata ja tiedostojen osoitteet (vaatii ORE-tuen)",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_ONLY": "Haravoi vain metadata",
+
+  "collection.edit.tabs.source.head": "Sisältölähde",
+
+  "collection.edit.tabs.source.notifications.discarded.content": "Muutokset hylätty. Valitse 'Kumoa' palauttaaksesi muutokset",
+
+  "collection.edit.tabs.source.notifications.discarded.title": "Muutokset hylätty",
+
+  "collection.edit.tabs.source.notifications.invalid.content": "Muutoksia ei tallennettu. Tarkista kaikkien kenttien oikeellisuus ennen tallennusta.",
+
+  "collection.edit.tabs.source.notifications.invalid.title": "Virheellinen metadata",
+
+  "collection.edit.tabs.source.notifications.saved.content": "Muutokset kokoelman sisältölähteeseen on tallennettu.",
+
+  "collection.edit.tabs.source.notifications.saved.title": "Sisältölähde tallennettu",
+
+  "collection.edit.tabs.source.title": "Kokoelman muokkaus - Sisältölähde",
+
+  "collection.edit.template.add-button": "Lisää",
+
+  "collection.edit.template.breadcrumbs": "Tietueen mallipohja",
+
+  "collection.edit.template.cancel": "Peruuta",
+
+  "collection.edit.template.delete-button": "Poista",
+
+  "collection.edit.template.edit-button": "Muokkaa",
+
+  "collection.edit.template.head": "Muokkaa kokoelman \"{{ collection }}\" mallitietuetta",
+
+  "collection.edit.template.label": "Mallitietue",
+
+  "collection.edit.template.notifications.delete.error": "Tietueen mallipohjan poisto epäonnistui",
+
+  "collection.edit.template.notifications.delete.success": "Tietueen mallipohja poistettu",
+
+  "collection.edit.template.title": "Muokkaa mallitietuetta",
+
+  "collection.form.abstract": "Lyhyt kuvaus",
+
+  "collection.form.description": "Johdantoteksti (HTML)",
+
+  "collection.form.errors.title.required": "Anna kokoelman nimi",
+
+  "collection.form.license": "Lisenssi",
+
+  "collection.form.provenance": "Provenanssi",
+
+  "collection.form.rights": "Tekijänoikeusteksti (HTML)",
+
+  "collection.form.tableofcontents": "Uutiset (HTML)",
+
+  "collection.form.title": "Nimi",
+
+  "collection.listelement.badge": "Kokoelma",
+
+  "collection.page.browse.recent.head": "Viimeksi lisätyt",
+
+  "collection.page.browse.recent.empty": "Ei tietueita",
+
+  "collection.page.edit": "Muokkaa tätä kokoelmaa",
+
+  "collection.page.handle": "Kokoelman pysyvä URL-osoite",
+
+  "collection.page.license": "Lisenssi",
+
+  "collection.page.news": "Uutiset",
+
+  "collection.select.confirm": "Vahvista valinta",
+
+  "collection.select.empty": "Ei kokoelmia",
+
+  "collection.select.table.title": "Nimeke",
+
+  "collection.source.update.notifications.error.content": "Annetut asetukset on testattu. Ne eivät toimi.",
+
+  "collection.source.update.notifications.error.title": "Palvelinvirhe",
+
+  "communityList.tabTitle": "DSpace - Yhteisöluettelo",
+
+  "communityList.title": "Luettelo yhteisöistä",
+
+  "communityList.showMore": "Näytä lisää",
+
+  "community.create.head": "Luo yhteisö",
+
+  "community.create.notifications.success": "Yhteisö luotu",
+
+  "community.create.sub-head": "Luo alayhteisö {{ parent }}-yhteisölle",
+
+  "community.curate.header": "Kuratoi yhteisöä: {{community}}",
+
+  "community.delete.cancel": "Peruuta",
+
+  "community.delete.confirm": "Vahvista",
+
+  "community.delete.head": "Poista yhteisö",
+
+  "community.delete.notification.fail": "Yhteisön poisto epäonnistui",
+
+  "community.delete.notification.success": "Yhteisö poistettu",
+
+  "community.delete.text": "Haluatko varmasti poistaa yhteisön \"{{ dso }}\"",
+
+  "community.edit.delete": "Poista tämä yhteisö",
+
+  "community.edit.head": "Muokkaa yhteisöä",
+
+  "community.edit.breadcrumbs": "Muokkaa yhteisöä",
+
+  "community.edit.logo.label": "Yhteisön logo",
+
+  "community.edit.logo.notifications.add.error": "Yhteisön logon lataus epäonnistui. Tarkista sisältö ennen kuin yrität uudelleen.",
+
+  "community.edit.logo.notifications.add.success": "Yhteisön logo ladattu.",
+
+  "community.edit.logo.notifications.delete.success.title": "Logo poistettu",
+
+  "community.edit.logo.notifications.delete.success.content": "Yhteisön logo poistettu",
+
+  "community.edit.logo.notifications.delete.error.title": "Virhe logoa poistettaessa",
+
+  "community.edit.logo.upload": "Pudota yhteisön logo ladattavaksi",
+
+  "community.edit.notifications.success": "Yhteisön muokkaus onnistui",
+
+  "community.edit.notifications.unauthorized": "Sinulla ei ole oikeuksia tehdä tätä muutosta",
+
+  "community.edit.notifications.error": "Virhe muokattaessa yhteisöä",
+
+  "community.edit.return": "Palaa",
+
+  "community.edit.tabs.curate.head": "Kuratoi",
+
+  "community.edit.tabs.curate.title": "Yhteisön muokkaus - Kuratoi",
+
+  "community.edit.tabs.metadata.head": "Muokkaa metadataa",
+
+  "community.edit.tabs.metadata.title": "Yhteisön muokkaus - Metadata",
+
+  "community.edit.tabs.roles.head": "Määritä rooleja",
+
+  "community.edit.tabs.roles.title": "Yhteisön muokkaus - Roolit",
+
+  "community.edit.tabs.authorizations.head": "Käyttöoikeudet",
+
+  "community.edit.tabs.authorizations.title": "Yhteisön muokkaus - Käyttöoikeudet",
+
+  "community.listelement.badge": "Yhteisö",
+
+  "comcol-role.edit.no-group": "Ei mitään",
+
+  "comcol-role.edit.create": "Luo",
+
+  "comcol-role.edit.restrict": "Rajoita",
+
+  "comcol-role.edit.delete": "Poista",
+
+  "comcol-role.edit.community-admin.name": "Ylläpitäjät",
+
+  "comcol-role.edit.collection-admin.name": "Ylläpitäjät",
+
+  "comcol-role.edit.community-admin.description": "Yhteisön ylläpitäjät voivat luoda alayhteisöjä tai kokoelmia ja hallita niitä sekä myöntää niihin hallintaoikeuksia. He päättävät, kuka saa tallentaa tietueita alakokoelmiin, muokata metadataa (tallennuksen jälkeen) ja lisätä (liittää) olemassa olevia tietueita muista kokoelmista (käyttöoikeuksien puitteissa).",
+
+  "comcol-role.edit.collection-admin.description": "Kokoelman ylläpitäjät päättävät, kuka saa tallentaa tietueita alakokoelmiin, muokata metadataa (tallennuksen jälkeen) ja lisätä (liittää) olemassa olevia tietueita muista kokoelmista (k.o. kokoelman käyttöoikeuksien puitteissa).",
+
+  "comcol-role.edit.submitters.name": "Tallentajat",
+
+  "comcol-role.edit.submitters.description": "Käyttäjät ja ryhmät, joilla on oikeus tallentaa uusia tietueita tähän kokoelmaan",
+
+  "comcol-role.edit.item_read.name": "Tietueen oletuslukuoikeus",
+
+  "comcol-role.edit.item_read.description": "Käyttäjät ja ryhmät, jotka voivat lukea tähän kokoelmaan tallennettuja uusia tietueita. Muutokset eivät tule käyttöön taannehtivasti. Olemassa olevat tietueet näkyvät niille, joilla oli lukuoikeus tietueiden lisäyshetkellä.",
+
+  "comcol-role.edit.item_read.anonymous-group": "Uusien tietuiden oletuslukuoikeus on tällä hetkellä Anonymous.",
+
+  "comcol-role.edit.bitstream_read.name": "Tiedostojen oletuslukuoikeus",
+
+  "comcol-role.edit.bitstream_read.description": "Yhteisön ylläpitäjät voivat luoda alayhteisöjä tai kokoelmia ja hallita niitä sekä myöntää niihin hallintaoikeuksia. He päättävät, kuka saa tallentaa tietueita alakokoelmiin, muokata metadataa (tallennuksen jälkeen) ja lisätä (liittää) olemassa olevia tietueita muista kokoelmista (käyttöoikeuksien puitteissa).",
+
+  "comcol-role.edit.bitstream_read.anonymous-group": "Uusien tiedostojen oletuslukuoikeus on tällä hetkellä Anonymous.",
+
+  "comcol-role.edit.editor.name": "Muokkaajat",
+
+  "comcol-role.edit.editor.description": "Muokkaajat voivat muokata uusien tallennusten metadataa sekä hyväksyä tai hylätä tallennukset.",
+
+  "comcol-role.edit.finaleditor.name": "Loppumuokkaajat",
+
+  "comcol-role.edit.finaleditor.description": "Loppumuokkaajat voivat muokata uusien tallennusten metadataa. He eivät voi hylätä tallennuksia.",
+
+  "comcol-role.edit.reviewer.name": "Tarkastajat",
+
+  "comcol-role.edit.reviewer.description": "Tarkastajat voivat hyväksyä tai hylätä uudet tallennukset. He eivät voi muokata tallennusten metadataa.",
+
+  "community.form.abstract": "Lyhyt kuvaus",
+
+  "community.form.description": "Johdantoteksti (HTML)",
+
+  "community.form.errors.title.required": "Anna kokoelman nimi",
+
+  "community.form.rights": "Tekijänoikeusteksti (HTML)",
+
+  "community.form.tableofcontents": "Uutiset (HTML)",
+
+  "community.form.title": "Nimi",
+
+  "community.page.edit": "Muokkaa yhteisöä",
+
+  "community.page.handle": "Yhteisön pysyvä URL-osoite",
+
+  "community.page.license": "Lisenssi",
+
+  "community.page.news": "Uutiset",
+
+  "community.all-lists.head": "Alayhteisöt ja kokoelmat",
+
+  "community.sub-collection-list.head": "Yhteisön kokoelmat",
+
+  "community.sub-community-list.head": "Yhteisön alayhteisöt",
+
+  "cookies.consent.accept-all": "Hyväksy kaikki",
+
+  "cookies.consent.accept-selected": "Hyväksy valitut",
+
+  "cookies.consent.app.opt-out.description": "Tämä sovellus ladataan oletuksena (mutta voit kieltää sen)",
+
+  "cookies.consent.app.opt-out.title": "(kiellä)",
+
+  "cookies.consent.app.purpose": "tarkoitus",
+
+  "cookies.consent.app.required.description": "Tämä sovellus on aina pakollinen",
+
+  "cookies.consent.app.required.title": "(aina pakollinen)",
+
+  "cookies.consent.update": "Viime käyntisi jälkeen on tehty muutoksia. Ole hyvä ja päivitä suostumuksesi.",
+
+  "cookies.consent.close": "Sulje",
+
+  "cookies.consent.decline": "Kieltäydy",
+
+  "cookies.consent.content-notice.description": "Keräämme ja käsittelemme tietojasi seuraaviin tarkoituksiin: <strong>todentaminen, asetukset, kuittaus ja tilastot</strong>. <br/> Lisätietoa saat lukemalla tämän: {privacyPolicy}.",
+
+  "cookies.consent.content-notice.learnMore": "Räätälöi",
+
+  "cookies.consent.content-modal.description": "Tässä voit tarkastella ja räätälöidä meidän sinusta keräämäämme tietoa.",
+
+  "cookies.consent.content-modal.privacy-policy.name": "yksilönsuoja",
+
+  "cookies.consent.content-modal.privacy-policy.text": "Lisätietoja saadaksesi lue: {privacyPolicy}.",
+
+  "cookies.consent.content-modal.title": "Keräämämme tieto",
+
+  "cookies.consent.app.title.authentication": "Todentaminen",
+
+  "cookies.consent.app.description.authentication": "Vaadittu kirjautumista varten",
+
+  "cookies.consent.app.title.preferences": "Asetukset",
+
+  "cookies.consent.app.description.preferences": "Vaadittu asetustesi tallentamista varten",
+
+  "cookies.consent.app.title.acknowledgement": "Kuittaus",
+
+  "cookies.consent.app.description.acknowledgement": "Vaadittu kuittaustesi ja hyväksyntäsi tallentamista varten",
+
+  "cookies.consent.app.title.google-analytics": "Google Analytics",
+
+  "cookies.consent.app.description.google-analytics": "Sallii tilastollisen datan seurannan",
+
+  "cookies.consent.purpose.functional": "Toiminnallinen",
+
+  "cookies.consent.purpose.statistical": "Tilastollinen",
+
+  "curation-task.task.checklinks.label": "Tarkista metadatan linkit",
+
+  "curation-task.task.noop.label": "Ei toimintaa",
+
+  "curation-task.task.profileformats.label": "Tiedostoformaattiprofiilit",
+
+  "curation-task.task.requiredmetadata.label": "Tarkista pakollinen metadata",
+
+  "curation-task.task.translate.label": "Microsoft-kääntäjä",
+
+  "curation-task.task.vscan.label": "Virusskannaus",
+
+  "curation.form.task-select.label": "Tehtävä:",
+
+  "curation.form.submit": "Aloita",
+
+  "curation.form.submit.success.head": "Kuratointitehtävä aloitettu",
+
+  "curation.form.submit.success.content": "Sinut siirretään vastaavalle prosessin sivulle.",
+
+  "curation.form.submit.error.head": "Kuratointitehtävän suoritus epäonnistui",
+
+  "curation.form.submit.error.content": "Virhe kuratointitehtävää aloitettaessa.",
+
+  "curation.form.handle.label": "Handle:",
+
+  "curation.form.handle.hint": "Vinkki: Syötä [oma-handle-prefix]/0 suorittaaksesi tehtävän koko sivustolla (kaikki tehtävät eivät tue tätä toimintoa)",
+
+  "dso-selector.create.collection.head": "Uusi kokoelma",
+
+  "dso-selector.create.collection.sub-level": "Luo uusi kokoelma tänne: ",
+
+  "zxzcommunity.head": "Uusi yhteisö",
+
+  "dso-selector.create.community.sub-level": "Luo uusi yhteisö tänne: ",
+
+  "dso-selector.create.community.top-level": "Luo uusi ylätason yhteisö",
+
+  "dso-selector.create.item.head": "Uusi tietue",
+
+  "dso-selector.create.item.sub-level": "Luo uusi tietue tänne: ",
+
+  "dso-selector.create.submission.head": "Uusi tallennus",
+
+  "dso-selector.edit.collection.head": "Muokkaa kokoelmaa",
+
+  "dso-selector.edit.community.head": "Muokkaa yhteisöä",
+
+  "dso-selector.edit.item.head": "Muokkaa tietuetta",
+
+  "dso-selector.export-metadata.dspaceobject.head": "Eksportoi metadata täältä: ",
+
+  "dso-selector.no-results": "Ei {{ type }}-tyyppiä.",
+
+  "dso-selector.placeholder": "Hae {{ type }}-tyyppiä",
+
+  "confirmation-modal.export-metadata.header": "Eksportoi {{ dsoName }}:n metadata",
+
+  "confirmation-modal.export-metadata.info": "Haluatko varmasti eksportoida {{ dsoName }}:n metadatan",
+
+  "confirmation-modal.export-metadata.cancel": "Peruuta",
+
+  "confirmation-modal.export-metadata.confirm": "Eksportoi",
+
+  "confirmation-modal.delete-eperson.header": "Poista käyttäjä \"{{ dsoName }}\"",
+
+  "confirmation-modal.delete-eperson.info": "Haluatko varmasti poistaa käyttäjän \"{{ dsoName }}\"",
+
+  "confirmation-modal.delete-eperson.cancel": "Peruuta",
+
+  "confirmation-modal.delete-eperson.confirm": "Poista",
+
+  "error.bitstream": "Virhe tiedostoa noudettaessa",
+
+  "error.browse-by": "Virhe tietueita noudettaessa",
+
+  "error.collection": "Virhe kokoelmaa noudettaessa",
+
+  "error.collections": "Virhe kokoelmia noudettaessa",
+
+  "error.community": "Virhe yhteisöä noudettaessa",
+
+  "error.identifier": "Ei tunnistetta vastaavaa tietuetta",
+
+  "error.default": "Virhe",
+
+  "error.item": "Virhe tietuetta noudettaessa",
+
+  "error.items": "Virhe tietueita noudettaessa",
+
+  "error.objects": "Virhe kohteita noudettaessa",
+
+  "error.recent-submissions": "Virhe viimeksi lisättyjä julkaisuja noudettaessa",
+
+  "error.search-results": "Virhe hakutuloksia noudettaessa",
+
+  "error.sub-collections": "Virhe alakokoelmia noudettaessa",
+
+  "error.sub-communities": "Virhe alayhteisöjä noudettaessa",
+
+  "error.submission.sections.init-form-error": "Virhe osiota alustettaessa, tarkista syöttölomakkeesi asetukset. Lisätietoja alla: <br> <br>",
+
+  "error.top-level-communities": "Virhe ylätason yhteisöjä noudettaessa",
+
+  "error.validation.license.notgranted": "Tallennusprosessia ei voi päättää, ellet hyväksy julkaisulisenssiä. Voit myös tallentaa tiedot ja jatkaa tallennusta myöhemmin tai poistaa kaikki syöttämäsi tiedot.",
+
+  "error.validation.pattern": "Syötteen on noudatettava seuraavaa kaavaa: {{ pattern }}.",
+
+  "error.validation.filerequired": "Tiedoston lataus on pakollinen",
+
+  "file-section.error.header": "Virhe tietueen tiedostoja noudettaessa",
+
+  "footer.copyright": "tekijänoikeus © 2002-{{ year }}",
+
+  "footer.link.dspace": "DSpace-ohjelmisto",
+
+  "footer.link.lyrasis": "LYRASIS",
+
+  "footer.link.cookies": "Evästeasetukset",
+
+  "footer.link.privacy-policy": "Yksilönsuoja",
+
+  "footer.link.end-user-agreement": "Käyttöehdot",
+
+  "forgot-email.form.header": "Unohtunut salasana",
+
+  "forgot-email.form.info": "Rekisteröi käyttäjätili voidaksesi tilata sähköposti-ilmoituksia kokoelmien päivityksistä ja lisätä uusia tietueita julkaisuarkistoon.",
+
+  "forgot-email.form.email": "Sähköpostiosoite *",
+
+  "forgot-email.form.email.error.required": "Anna sähköpostiosoite",
+
+  "forgot-email.form.email.error.pattern": "Anna oikea sähköpostiosoite",
+
+  "forgot-email.form.email.hint": "Osoite varmistetaan, ja se toimii käyttäjätunnuksenasi kirjautumisessa.",
+
+  "forgot-email.form.submit": "Lähetä",
+
+  "forgot-email.form.success.head": "Varmistusviesti lähetetty",
+
+  "forgot-email.form.success.content": "Viesti on lähetetty osoitteeseen {{ email }}. Viestissä on URL-osoite ja lisäohjeita.",
+
+  "forgot-email.form.error.head": "Virhe sähköpostiosoitetta rekisteröitäessä",
+
+  "forgot-email.form.error.content": "Virhe rekisteröitäessä tätä sähköpostiosoitetta: {{ email }}",
+
+  "forgot-password.title": "Unohtunut salasana",
+
+  "forgot-password.form.head": "Unohtunut salasana",
+
+  "forgot-password.form.info": "Syötä uusi salasana alla olevaan kenttään ja vahvista se kirjoittamalla salasana uudelleen seuraavaan kenttään. Salasanan on oltava vähintään kuusi merkkiä pitkä.",
+
+  "forgot-password.form.card.security": "Turvallisuus",
+
+  "forgot-password.form.identification.header": "Tunnistautuminen",
+
+  "forgot-password.form.identification.email": "Sähköpostiosoite: ",
+
+  "forgot-password.form.label.password": "Salasana",
+
+  "forgot-password.form.label.passwordrepeat": "Kirjoita uudelleen vahvistaaksesi",
+
+  "forgot-password.form.error.empty-password": "Syötä salasana alla olevaan kenttään",
+
+  "forgot-password.form.error.matching-passwords": "Salasanat eivät täsmää.",
+
+  "forgot-password.form.error.password-length": "Salasanan on oltava vähintään 6 merkkiä pitkä.",
+
+  "forgot-password.form.notification.error.title": "Virhe uutta salasanaa lähetettäessä",
+
+  "forgot-password.form.notification.success.content": "Salasanan nollaus onnistui. Sinut on kirjattu sisään.",
+
+  "forgot-password.form.notification.success.title": "Salasana nollattu",
+
+  "forgot-password.form.submit": "Lähetä salasana",
+
+  "form.add": "Lisää",
+
+  "form.add-help": "Valitse lisätäksesi nykyisen kohteen ja toisen kohteen",
+
+  "form.cancel": "Peruuta",
+
+  "form.clear": "Tyhjennä",
+
+  "form.clear-help": "Napauta tästä poistaaksesi valitun arvon",
+
+  "form.edit": "Muokkaa",
+
+  "form.edit-help": "Napauta tästä muokataksesi valittua arvoa",
+
+  "form.first-name": "Etunimi",
+
+  "form.group-collapse": "Sulje",
+
+  "form.group-collapse-help": "Sulje napauttamalla",
+
+  "form.group-expand": "Laajenna",
+
+  "form.group-expand-help": "Avaa napauttamalla lisätäksesi uusia elementtejä",
+
+  "form.last-name": "Sukunimi",
+
+  "form.loading": "Ladataan...",
+
+  "form.lookup": "Hakeminen",
+
+  "form.lookup-help": "Valitse hakeaksesi olemassa olevaa relaatiota",
+
+  "form.no-results": "Ei tuloksia",
+
+  "form.no-value": "Ei syötettyä arvoa",
+
+  "form.other-information": {},
+
+  "form.remove": "Poista",
+
+  "form.save": "Tallenna",
+
+  "form.save-help": "Tallenna muutokset",
+
+  "form.search": "Hae",
+
+  "form.search-help": "Valitse etsiäksesi olemassa olevaa vastaavuutta",
+
+  "form.submit": "Lähetä",
+
+  "home.description": "",
+
+  "home.breadcrumbs": "Etusivu",
+
+  "home.title": "DSpace Angular :: Etusivu",
+
+  "home.top-level-communities.head": "Julkaisuarkiston yhteisöt",
+
+  "home.top-level-communities.help": "Valitse yhteisö, jonka kokoelmia haluat selata.",
+
+  "info.end-user-agreement.accept": "Olen lukenut ja hyväksyn käyttöehdot",
+
+  "info.end-user-agreement.accept.error": "Virhe hyväksyttäessä käyttöehtoja",
+
+  "info.end-user-agreement.accept.success": "Käyttöehdot päivitetty",
+
+  "info.end-user-agreement.breadcrumbs": "Käyttöehdot",
+
+  "info.end-user-agreement.buttons.cancel": "Peruuta",
+
+  "info.end-user-agreement.buttons.save": "Tallenna",
+
+  "info.end-user-agreement.head": "Käyttöehdot",
+
+  "info.end-user-agreement.title": "Käyttöehdot",
+
+  "info.privacy.breadcrumbs": "Tietosuojalauseke",
+
+  "info.privacy.head": "Tietosuojalauseke",
+
+  "info.privacy.title": "Tietosuojalauseke",
+
+  "item.alerts.private": "Tietue on yksityinen",
+
+  "item.alerts.withdrawn": "Tietue on poistettu käytöstä",
+
+  "item.edit.authorizations.heading": "Tässä voit tarkastella ja muokata tietuekäytäntöjä sekä tietueen yksittäisten komponenttien eli nippujen ja tiedostojen käytäntöjä. Tietue on nippujen säiliö ja niput ovat tiedostojen säiliöitä. Säiliöillä on yleensä LISÄYS/POISTO/LUKU/KIRJOITUS-käytännöt, mutta tiedostoihin sovelletaan vain LUKU/KIRJOITUS-käytäntöjä.",
+
+  "item.edit.authorizations.title": "Muokkaa tietuekäytäntöjä",
+
+  "item.badge.private": "Yksityinen",
+
+  "item.badge.withdrawn": "Poistettu käytöstä",
+
+  "item.bitstreams.upload.bundle": "Nippu",
+
+  "item.bitstreams.upload.bundle.placeholder": "Valitse nippu",
+
+  "item.bitstreams.upload.bundle.new": "Luo nippu",
+
+  "item.bitstreams.upload.bundles.empty": "Tällä tietueella ei ole nippua, johon tiedoston voisi ladata.",
+
+  "item.bitstreams.upload.cancel": "Peruuta",
+
+  "item.bitstreams.upload.drop-message": "Pudota ladattava tiedosto",
+
+  "item.bitstreams.upload.item": "Tietue: ",
+
+  "item.bitstreams.upload.notifications.bundle.created.content": "Uusi nippu on luotu.",
+
+  "item.bitstreams.upload.notifications.bundle.created.title": "Luotu nippu",
+
+  "item.bitstreams.upload.notifications.upload.failed": "Lataus epäonnistui. Tarkista sisältö ennen kuin yrität uudelleen.",
+
+  "item.bitstreams.upload.title": "Lataa tiedosto",
+
+  "item.edit.bitstreams.bundle.edit.buttons.upload": "Lataus",
+
+  "item.edit.bitstreams.bundle.displaying": "Näytetään  {{ amount }} / {{ total }} tiedostoa.",
+
+  "item.edit.bitstreams.bundle.load.all": "Lataa kaikki ({{ total }})",
+
+  "item.edit.bitstreams.bundle.load.more": "Lataa lisää",
+
+  "item.edit.bitstreams.bundle.name": "NIPPU: {{ name }}",
+
+  "item.edit.bitstreams.discard-button": "Hylkää",
+
+  "item.edit.bitstreams.edit.buttons.download": "Lataa",
+
+  "item.edit.bitstreams.edit.buttons.drag": "Raahaa",
+
+  "item.edit.bitstreams.edit.buttons.edit": "Muokkaa",
+
+  "item.edit.bitstreams.edit.buttons.remove": "Poista",
+
+  "item.edit.bitstreams.edit.buttons.undo": "Peruuta muutokset",
+
+  "item.edit.bitstreams.empty": "Tietueeseen ei liity tiedostoja. Valitse latauspainike luodaksesi tiedoston.",
+
+  "item.edit.bitstreams.headers.actions": "Toiminnot",
+
+  "item.edit.bitstreams.headers.bundle": "Nippu",
+
+  "item.edit.bitstreams.headers.description": "Kuvaus",
+
+  "item.edit.bitstreams.headers.format": "Formaatti",
+
+  "item.edit.bitstreams.headers.name": "Nimi",
+
+  "item.edit.bitstreams.notifications.discarded.content": "Muutokset hylätty. Valitse 'Kumoa' palauttaaksesi muutokset",
+
+  "item.edit.bitstreams.notifications.discarded.title": "Muutokset hylätty",
+
+  "item.edit.bitstreams.notifications.move.failed.title": "Virhe siirrettäessä tiedostoja",
+
+  "item.edit.bitstreams.notifications.move.saved.content": "Tietueen tiedostojen ja nippujen siirtomuutokset on tallennettu.",
+
+  "item.edit.bitstreams.notifications.move.saved.title": "Siirtomuutokset tallennettu",
+
+  "item.edit.bitstreams.notifications.outdated.content": "Toinen käyttäjä on muuttanut parhaillaan muokkaamaasi tietuetta. Tekemäsi muutokset on hylätty ristiriitojen estämiseksi",
+
+  "item.edit.bitstreams.notifications.outdated.title": "Muutokset vanhentuneet",
+
+  "item.edit.bitstreams.notifications.remove.failed.title": "Virhe tiedostoa poistettaessa",
+
+  "item.edit.bitstreams.notifications.remove.saved.content": "Tietueen tiedostojen poistomuutokset on tallennettu.",
+
+  "item.edit.bitstreams.notifications.remove.saved.title": "Poistomuutokset tallennettu",
+
+  "item.edit.bitstreams.reinstate-button": "Kumoa",
+
+  "item.edit.bitstreams.save-button": "Tallenna",
+
+  "item.edit.bitstreams.upload-button": "Lataa",
+
+  "item.edit.delete.cancel": "Peruuta",
+
+  "item.edit.delete.confirm": "Poista",
+
+  "item.edit.delete.description": "Haluatko varmasti poistaa tiedoston pysyvästi?",
+
+  "item.edit.delete.error": "Virhe tietuetta poistettaessa",
+
+  "item.edit.delete.header": "Poista tietue: {{ id }}",
+
+  "item.edit.delete.success": "Tietue poistettu",
+
+  "item.edit.head": "Muokkaa tietuetta",
+
+  "item.edit.breadcrumbs": "Muokkaa tietuetta",
+
+  "item.edit.tabs.mapper.head": "Kokoelmaliitosväline",
+
+  "item.edit.tabs.item-mapper.title": "Tietueen muokkaus - Kokoelmaliitosväline",
+
+  "item.edit.item-mapper.buttons.add": "Liitä tietue valittuihin kokoelmiin",
+
+  "item.edit.item-mapper.buttons.remove": "Poista tietueen liitos valituista kokoelmista",
+
+  "item.edit.item-mapper.cancel": "Peruuta",
+
+  "item.edit.item-mapper.description": "Tällä työkalulla kokoelmien ylläpitäjät voivat liittää tietueen muihin kokoelmiin. Voit hakea kokoelmia ja liittää aineiston niihin tai selata luetteloa kokoelmista, joihin aineisto on liitetty.",
+
+  "item.edit.item-mapper.head": "Tietueliitosväline - Liitä tietue kokoelmiin",
+
+  "item.edit.item-mapper.item": "Tietue: \"<b>{{name}}</b>\"",
+
+  "item.edit.item-mapper.no-search": "Anna hakulauseke",
+
+  "item.edit.item-mapper.notifications.add.error.content": "Virhe liitettäessä tietuetta {{amount}} kokoelmaan.",
+
+  "item.edit.item-mapper.notifications.add.error.head": "Virhe liitettäessä",
+
+  "item.edit.item-mapper.notifications.add.success.content": "Tietue liitetty {{amount}} kokoelmaan.",
+
+  "item.edit.item-mapper.notifications.add.success.head": "Liitos valmis",
+
+  "item.edit.item-mapper.notifications.remove.error.content": "Virheitä poistettaessa liitosta {{amount}} kokoelmaan.",
+
+  "item.edit.item-mapper.notifications.remove.error.head": "Virheellisten liitosten poisto",
+
+  "item.edit.item-mapper.notifications.remove.success.content": "Poistettu tietueen liitos {{amount}} kokoelmasta.",
+
+  "item.edit.item-mapper.notifications.remove.success.head": "Liitos poistettu",
+
+  "item.edit.item-mapper.tabs.browse": "Selaa liitettyjä kokoelmia",
+
+  "item.edit.item-mapper.tabs.map": "Liitä uusia kokoelmia",
+
+  "item.edit.metadata.add-button": "Lisää",
+
+  "item.edit.metadata.discard-button": "Hylkää",
+
+  "item.edit.metadata.edit.buttons.edit": "Muokkaa",
+
+  "item.edit.metadata.edit.buttons.remove": "Poista",
+
+  "item.edit.metadata.edit.buttons.undo": "Kumoa muutokset",
+
+  "item.edit.metadata.edit.buttons.unedit": "Lopeta muokkaus",
+
+  "item.edit.metadata.empty": "Tietueessa ei ole metadataa. Valitse Lisää lisätäksesi metadataa.",
+
+  "item.edit.metadata.headers.edit": "Muokkaa",
+
+  "item.edit.metadata.headers.field": "Kenttä",
+
+  "item.edit.metadata.headers.language": "Kieli",
+
+  "item.edit.metadata.headers.value": "Arvo",
+
+  "item.edit.metadata.metadatafield.invalid": "Valitse oikea metadatakenttä",
+
+  "item.edit.metadata.notifications.discarded.content": "Muutokset hylätty. Valitse 'Kumoa' palauttaaksesi muutokset",
+
+  "item.edit.metadata.notifications.discarded.title": "Muutokset hylätty",
+
+  "item.edit.metadata.notifications.error.title": "Tapahtui virhe",
+
+  "item.edit.metadata.notifications.invalid.content": "Muutoksia ei tallennettu. Tarkista kaikkien kenttien oikeellisuus ennen tallennusta.",
+
+  "item.edit.metadata.notifications.invalid.title": "Virheellinen metadata",
+
+  "item.edit.metadata.notifications.outdated.content": "Toinen käyttäjä on muuttanut parhaillaan muokkaamaasi tietuetta. Tekemäsi muutokset on hylätty ristiriitojen estämiseksi",
+
+  "item.edit.metadata.notifications.outdated.title": "Muutokset vanhentuneet",
+
+  "item.edit.metadata.notifications.saved.content": "Muutokset tietueen metadataan tallennettu.",
+
+  "item.edit.metadata.notifications.saved.title": "Metadata tallennettu",
+
+  "item.edit.metadata.reinstate-button": "Peruuta",
+
+  "item.edit.metadata.save-button": "Tallenna",
+
+  "item.edit.modify.overview.field": "Kenttä",
+
+  "item.edit.modify.overview.language": "Kieli",
+
+  "item.edit.modify.overview.value": "Arvo",
+
+  "item.edit.move.cancel": "Peruuta",
+
+  "item.edit.move.description": "Valitse kokoelma, johon haluat siirtää tietueen. Voit antaa hakulausekkeen kokoelmien määrän pienentämiseksi.",
+
+  "item.edit.move.error": "Virhe tietuetta siirrettäessä",
+
+  "item.edit.move.head": "Siirrä tietue: {{id}}",
+
+  "item.edit.move.inheritpolicies.checkbox": "Peri käytännöt",
+
+  "item.edit.move.inheritpolicies.description": "Peri kohdekokoelman oletuskäytännöt",
+
+  "item.edit.move.move": "Siirrä",
+
+  "item.edit.move.processing": "Siirretään...",
+
+  "item.edit.move.search.placeholder": "Anna hakulauseke kokoelmien etsimiseksi",
+
+  "item.edit.move.success": "Tietue siirretty",
+
+  "item.edit.move.title": "Siirrä tietue",
+
+  "item.edit.private.cancel": "Peruuta",
+
+  "item.edit.private.confirm": "Muuta yksityiseksi",
+
+  "item.edit.private.description": "Haluatko varmasti muuttaa tietueen yksityiseksi?",
+
+  "item.edit.private.error": "Virhe muutettaessa tietuetta yksityiseksi",
+
+  "item.edit.private.header": "Muuta yksityiseksi tietue: {{ id }}",
+
+  "item.edit.private.success": "Tietue on yksityinen",
+
+  "item.edit.public.cancel": "Peruuta",
+
+  "item.edit.public.confirm": "Muuta julkiseksi",
+
+  "item.edit.public.description": "Haluatko varmasti muuttaa tietueen julkiseksi?",
+
+  "item.edit.public.error": "Virhe muutettaessa tietuetta julkiseksi",
+
+  "item.edit.public.header": "Muuta julkiseksi tietue: {{ id }}",
+
+  "item.edit.public.success": "Tietue on julkinen",
+
+  "item.edit.reinstate.cancel": "Peruuta",
+
+  "item.edit.reinstate.confirm": "Palauta",
+
+  "item.edit.reinstate.description": "Haluatko varmasti palauttaa tietueen käyttöön?",
+
+  "item.edit.reinstate.error": "Virhe palautettaessa tietuetta käyttöön",
+
+  "item.edit.reinstate.header": "Palauta käyttöön tietue: {{ id }}",
+
+  "item.edit.reinstate.success": "Tietue palautettu käyttöön",
+
+  "item.edit.relationships.discard-button": "Hylkää",
+
+  "item.edit.relationships.edit.buttons.add": "Lisää",
+
+  "item.edit.relationships.edit.buttons.remove": "Poista",
+
+  "item.edit.relationships.edit.buttons.undo": "Peruuta muutokset",
+
+  "item.edit.relationships.no-relationships": "Ei yhteyksiä",
+
+  "item.edit.relationships.notifications.discarded.content": "Muutoksesi hylättiin. Valitse 'Peruuta' palauttaaksesi ne.",
+
+  "item.edit.relationships.notifications.discarded.title": "Muutokset hylätty",
+
+  "item.edit.relationships.notifications.failed.title": "Virhe yhteyksiä muokattaessa",
+
+  "item.edit.relationships.notifications.outdated.content": "Toinen käyttäjä on muuttanut parhaillaan muokkaamaasi tietuetta. Tekemäsi muutokset on hylätty ristiriitojen estämiseksi",
+
+  "item.edit.relationships.notifications.outdated.title": "Muutokset vanhentuneet",
+
+  "item.edit.relationships.notifications.saved.content": "Muutokset tietueen yhteyksiin tallennettu.",
+
+  "item.edit.relationships.notifications.saved.title": "Yhteydet tallennettu",
+
+  "item.edit.relationships.reinstate-button": "Peruuta",
+
+  "item.edit.relationships.save-button": "Tallenna",
+
+  "item.edit.relationships.no-entity-type": "Lisää 'dspace.entity.type' -metadataa aktivoidaksesi yhteydet tietueessa",
+
+  "item.edit.tabs.bitstreams.head": "Tietueen tiedostot",
+
+  "item.edit.tabs.bitstreams.title": "Tietueen muokkaus - Tiedostot",
+
+  "item.edit.tabs.curate.head": "Kuratoi",
+
+  "item.edit.tabs.curate.title": "Tietueen muokkaus - Kuratointi",
+
+  "item.edit.tabs.metadata.head": "Tietueen metadata",
+
+  "item.edit.tabs.metadata.title": "Tietueen muokkaus -  Metadata",
+
+  "item.edit.tabs.relationships.head": "Tietueen yhteydet",
+
+  "item.edit.tabs.relationships.title": "Tietueen muokkaus - Yhteydet",
+
+  "item.edit.tabs.status.buttons.authorizations.button": "Käyttöoikeudet...",
+
+  "item.edit.tabs.status.buttons.authorizations.label": "Muokkaa tietueen käyttöoikeussääntöjä",
+
+  "item.edit.tabs.status.buttons.delete.button": "Poista pysyvästi",
+
+  "item.edit.tabs.status.buttons.delete.label": "Poista tietue kokonaan",
+
+  "item.edit.tabs.status.buttons.mappedCollections.button": "Liitetyt kokoelmat",
+
+  "item.edit.tabs.status.buttons.mappedCollections.label": "Hallinnoi liitettyjä kokoelmia",
+
+  "item.edit.tabs.status.buttons.move.button": "Siirrä...",
+
+  "item.edit.tabs.status.buttons.move.label": "Siirrä tietue toiseen kokoelmaan",
+
+  "item.edit.tabs.status.buttons.private.button": "Muuta yksityiseksi...",
+
+  "item.edit.tabs.status.buttons.private.label": "Muuta tietue yksityiseksi",
+
+  "item.edit.tabs.status.buttons.public.button": "Muuta julkiseksi...",
+
+  "item.edit.tabs.status.buttons.public.label": "Muuta tietue julkiseksi",
+
+  "item.edit.tabs.status.buttons.reinstate.button": "Palauta käyttöön...",
+
+  "item.edit.tabs.status.buttons.reinstate.label": "Palauta tietue arkistoon",
+
+  "item.edit.tabs.status.buttons.withdraw.button": "Poista käytöstä...",
+
+  "item.edit.tabs.status.buttons.withdraw.label": "Poista tietue käytöstä",
+
+  "item.edit.tabs.status.description": "Tervetuloa tietueen hallintasivulle. Täällä voit poistaa käytöstä, palauttaa käyttöön, siirtää tai poistaa tietueen. Voit myös päivittää tai lisätä uutta metadataa / tiedostoja muilla välilehdillä.",
+
+  "item.edit.tabs.status.head": "Tietueen tila",
+
+  "item.edit.tabs.status.labels.handle": "Handle-tunnus",
+
+  "item.edit.tabs.status.labels.id": "Tietueen sisäinen ID-tunnus",
+
+  "item.edit.tabs.status.labels.itemPage": "Tietueen tiedot",
+
+  "item.edit.tabs.status.labels.lastModified": "Viimeksi muokattu",
+
+  "item.edit.tabs.status.title": "Tietueen muokkaus -  Tila",
+
+  "item.edit.tabs.versionhistory.head": "Versiohistoria",
+
+  "item.edit.tabs.versionhistory.title": "Tietueen muokkaus - Versiohistoria",
+
+  "item.edit.tabs.versionhistory.under-construction": "Uusien versioiden muokkaus tai lisäys ei ole vielä mahdollista käyttöliittymässä.",
+
+  "item.edit.tabs.view.head": "Näytä tietue",
+
+  "item.edit.tabs.view.title": "Tietueen muokkaus -  Näytä",
+
+  "item.edit.withdraw.cancel": "Peruuta",
+
+  "item.edit.withdraw.confirm": "Poista käytöstä",
+
+  "item.edit.withdraw.description": "Haluatko varmasti poistaa tietueen käytöstä?",
+
+  "item.edit.withdraw.error": "Virhe tietuetta käytöstä poistettaessa",
+
+  "item.edit.withdraw.header": "Poistettu käytöstä tietue: {{ id }}",
+
+  "item.edit.withdraw.success": "Tietue poistettu käytöstä",
+
+  "item.listelement.badge": "Tietue",
+
+  "item.page.description": "Kuvaus",
+
+  "item.page.edit": "Muokkaa tietuetta",
+
+  "item.page.journal-issn": "Kausijulkaisun ISSN",
+
+  "item.page.journal-title": "Kausijulkaisun nimi",
+
+  "item.page.publisher": "Julkaisija",
+
+  "item.page.titleprefix": "Tietue: ",
+
+  "item.page.volume-title": "Vuosikerran nimi",
+
+  "item.search.results.head": "Tietuehaun tulokset",
+
+  "item.search.title": "DSpace Angular :: Tietuehaku",
+
+  "item.page.abstract": "Tiivistelmä",
+
+  "item.page.author": "Tekijät",
+
+  "item.page.citation": "Viittaus",
+
+  "item.page.collections": "Kokoelmat",
+
+  "item.page.date": "Päivämäärä",
+
+  "item.page.files": "Tiedostot",
+
+  "item.page.filesection.description": "Kuvaus:",
+
+  "item.page.filesection.download": "Lataa",
+
+  "item.page.filesection.format": "Formaatti:",
+
+  "item.page.filesection.name": "Nimi:",
+
+  "item.page.filesection.size": "Koko:",
+
+  "item.page.journal.search.title": "Artikkelit tässä julkaisussa",
+
+  "item.page.link.full": "Tietueen kaikki tiedot",
+
+  "item.page.link.simple": "Tietueen suppeat tiedot",
+
+  "item.page.person.search.title": "Tekijän artikkelit",
+
+  "item.page.related-items.view-more": "Näytä lisää",
+
+  "item.page.related-items.view-less": "Näytä vähemmän",
+
+  "item.page.relationships.isAuthorOfPublication": "Julkaisut",
+
+  "item.page.relationships.isJournalOfPublication": "Julkaisut",
+
+  "item.page.relationships.isOrgUnitOfPerson": "Tekijät",
+
+  "item.page.relationships.isOrgUnitOfProject": "Tutkimusprojektit",
+
+  "item.page.subject": "Avainsanat",
+
+  "item.page.uri": "URL-osoite",
+
+  "item.page.bitstreams.view-more": "Näytä lisää",
+
+  "item.page.bitstreams.collapse": "Sulje",
+
+  "item.page.filesection.original.bundle": "Alkuperäinen nippu",
+
+  "item.page.filesection.license.bundle": "Lisenssinippu",
+
+  "item.preview.dc.identifier.uri": "Tunnus:",
+
+  "item.preview.dc.contributor.author": "Tekijät:",
+
+  "item.preview.dc.date.issued": "Julkaisuajankohta:",
+
+  "item.preview.dc.description.abstract": "Tiivistelmä:",
+
+  "item.preview.dc.identifier.other": "Muu tunnus:",
+
+  "item.preview.dc.language.iso": "Kieli:",
+
+  "item.preview.dc.subject": "Asiasanat:",
+
+  "item.preview.dc.title": "Nimeke:",
+
+  "item.preview.person.familyName": "Sukunimi:",
+
+  "item.preview.person.givenName": "Nimi:",
+
+  "item.preview.person.identifier.orcid": "ORCID-tunniste:",
+
+  "item.select.confirm": "Vahvista valinta",
+
+  "item.select.empty": "Ei tietueita",
+
+  "item.select.table.author": "Tekijä",
+
+  "item.select.table.collection": "Kokoelma",
+
+  "item.select.table.title": "Nimeke",
+
+  "item.version.history.empty": "Tietueesta ei ole muita versioita.",
+
+  "item.version.history.head": "Versiohistoria",
+
+  "item.version.history.return": "Palaa",
+
+  "item.version.history.selected": "Valittu versio",
+
+  "item.version.history.table.version": "Versio",
+
+  "item.version.history.table.item": "Tietue",
+
+  "item.version.history.table.editor": "Toimittaja",
+
+  "item.version.history.table.date": "Päivämäärä",
+
+  "item.version.history.table.summary": "Yhteenveto",
+
+  "item.version.notice": "Tämä ei ole tietueen uusin versio. Uusin versio löytyy <a href='{{destination}}'>täältä</a>.",
+
+  "journal.listelement.badge": "Kausijulkaisu",
+
+  "journal.page.description": "Kuvaus",
+
+  "journal.page.edit": "Muokkaa tietuetta",
+
+  "journal.page.editor": "Päätoimittaja",
+
+  "journal.page.issn": "ISSN-tunnus",
+
+  "journal.page.publisher": "Julkaisija",
+
+  "journal.page.titleprefix": "Kausijulkaisu: ",
+
+  "journal.search.results.head": "Kausijulkaisuhaun tulokset",
+
+  "journal.search.title": "DSpace Angular :: Kausijulkaisuhaku",
+
+  "journalissue.listelement.badge": "Kausijulkaisun numero",
+
+  "journalissue.page.description": "Kuvaus",
+
+  "journalissue.page.edit": "Muokkaa tietuetta",
+
+  "journalissue.page.issuedate": "Julkaisuaika",
+
+  "journalissue.page.journal-issn": "Kausijulkaisun ISSN-tunnus",
+
+  "journalissue.page.journal-title": "Kausijulkaisun nimi",
+
+  "journalissue.page.keyword": "Asiasanat",
+
+  "journalissue.page.number": "Numero",
+
+  "journalissue.page.titleprefix": "Kausijulkaisun numero: ",
+
+  "journalvolume.listelement.badge": "Kausijulkaisun vuosikerta",
+
+  "journalvolume.page.description": "Kuvaus",
+
+  "journalvolume.page.edit": "Muokkaa tietuetta",
+
+  "journalvolume.page.issuedate": "Julkaisuaika",
+
+  "journalvolume.page.titleprefix": "Kausijulkaisun vuosikerta: ",
+
+  "journalvolume.page.volume": "Vuosikerta",
+
+  "loading.bitstream": "Ladataan tiedostoa...",
+
+  "loading.bitstreams": "Ladataan tiedostoja...",
+
+  "loading.browse-by": "Ladataan tietueita...",
+
+  "loading.browse-by-page": "Ladataan sivua...",
+
+  "loading.collection": "Ladataan kokoelmaa...",
+
+  "loading.collections": "Ladataan kokoelmia...",
+
+  "loading.content-source": "Ladataan sisältölähdettä...",
+
+  "loading.community": "Ladataan yhteisöä...",
+
+  "loading.default": "Ladataan...",
+
+  "loading.item": "Ladataan tietuetta...",
+
+  "loading.items": "Ladataan tietueita...",
+
+  "loading.mydspace-results": "Ladataan tietueita...",
+
+  "loading.objects": "Ladataan...",
+
+  "loading.recent-submissions": "Ladataan viimeksi lisättyjä...",
+
+  "loading.search-results": "Ladataan hakutuloksia...",
+
+  "loading.sub-collections": "Ladataan alakokoelmia...",
+
+  "loading.sub-communities": "Ladataan alayhteisöjä...",
+
+  "loading.top-level-communities": "Ladataan ylätason yhteisöjä...",
+
+  "login.form.email": "Sähköpostiosoite",
+
+  "login.form.forgot-password": "Unohditko salasanasi?",
+
+  "login.form.header": "Kirjaudu sisään",
+
+  "login.form.new-user": "Uusi käyttäjä? Rekisteröidy tästä.",
+
+  "login.form.or-divider": "tai",
+
+  "login.form.password": "Salasana",
+
+  "login.form.shibboleth": "Shibboleth-kirjautuminen",
+
+  "login.form.submit": "Kirjaudu sisään",
+
+  "login.title": "Sisäänkirjautuminen",
+
+  "login.breadcrumbs": "Sisäänkirjautuminen",
+
+  "logout.form.header": "Kirjaudu ulos",
+
+  "logout.form.submit": "Kirjaudu ulos",
+
+  "logout.title": "Uloskirjautuminen",
+
+  "menu.header.admin": "Ylläpitäjä",
+
+  "menu.header.image.logo": "Arkiston logo",
+
+  "menu.section.access_control": "Pääsyoikeudet",
+
+  "menu.section.access_control_authorizations": "Käyttöoikeudet",
+
+  "menu.section.access_control_groups": "Ryhmät",
+
+  "menu.section.access_control_people": "Käyttäjät",
+
+  "menu.section.admin_search": "Ylläpitäjän haku",
+
+  "menu.section.browse_community": "Tämä yhteisö",
+
+  "menu.section.browse_community_by_author": "Tekijän mukaan",
+
+  "menu.section.browse_community_by_issue_date": "Julkaisuajankohdan mukaan",
+
+  "menu.section.browse_community_by_title": "Nimekkeen mukaan",
+
+  "menu.section.browse_global": "Koko julkaisuarkisto",
+
+  "menu.section.browse_global_by_author": "Tekijän mukaan",
+
+  "menu.section.browse_global_by_dateissued": "Julkaisuajankohdan mukaan",
+
+  "menu.section.browse_global_by_subject": "Asiasanan mukaan",
+
+  "menu.section.browse_global_by_title": "Nimekkeen mukaan",
+
+  "menu.section.browse_global_communities_and_collections": "Yhteisöt & kokoelmat",
+
+  "menu.section.control_panel": "Hallintapaneeli",
+
+  "menu.section.curation_task": "Kuratointitehtävä",
+
+  "menu.section.edit": "Muokkaa",
+
+  "menu.section.edit_collection": "Kokoelma",
+
+  "menu.section.edit_community": "Yhteisö",
+
+  "menu.section.edit_item": "Tietue",
+
+  "menu.section.export": "Eksportoi",
+
+  "menu.section.export_collection": "Kokoelma",
+
+  "menu.section.export_community": "Yhteisö",
+
+  "menu.section.export_item": "Tietue",
+
+  "menu.section.export_metadata": "Metadata",
+
+  "menu.section.icon.access_control": "Pääsyoikeudet",
+
+  "menu.section.icon.admin_search": "Ylläpitäjän haku",
+
+  "menu.section.icon.control_panel": "Hallintapaneeli",
+
+  "menu.section.icon.curation_task": "Kuratointi",
+
+  "menu.section.icon.edit": "Muokkaus",
+
+  "menu.section.icon.export": "Eksportointi",
+
+  "menu.section.icon.find": "Haku",
+
+  "menu.section.icon.import": "Importointi",
+
+  "menu.section.icon.new": "Uusi",
+
+  "menu.section.icon.pin": "Kiinnitä sivupalkki",
+
+  "menu.section.icon.processes": "Prosessit",
+
+  "menu.section.icon.registries": "Rekisterit",
+
+  "menu.section.icon.statistics_task": "Tilastot",
+
+  "menu.section.icon.unpin": "Vapauta sivupalkki",
+
+  "menu.section.import": "Importoi",
+
+  "menu.section.import_batch": "Importoi useamman tiedoston erä (ZIP)",
+
+  "menu.section.import_metadata": "Metadata",
+
+  "menu.section.new": "Uusi",
+
+  "menu.section.new_collection": "Kokoelma",
+
+  "menu.section.new_community": "Yhteisö",
+
+  "menu.section.new_item": "Tietue",
+
+  "menu.section.new_item_version": "Tietueen versio",
+
+  "menu.section.new_process": "Prosessi",
+
+  "menu.section.pin": "Kiinnitä sivupalkki",
+
+  "menu.section.unpin": "Vapauta sivupalkki",
+
+  "menu.section.processes": "Prosessit",
+
+  "menu.section.registries": "Rekisterit",
+
+  "menu.section.registries_format": "Formaatti",
+
+  "menu.section.registries_metadata": "Metadata",
+
+  "menu.section.statistics": "Tilastot",
+
+  "menu.section.statistics_task": "Tilastointitehtävä",
+
+  "menu.section.toggle.access_control": "Vaihda Pääsyoikeudet-osion tilaa",
+
+  "menu.section.toggle.control_panel": "Vaihda Hallintapaneeli-osion tilaa",
+
+  "menu.section.toggle.curation_task": "Vaihda Kuratointitehtävä-osion tilaa",
+
+  "menu.section.toggle.edit": "Vaihda Muokkaus-osion tilaa",
+
+  "menu.section.toggle.export": "Vaihda Eksportointi-osion tilaa",
+
+  "menu.section.toggle.find": "Vaihda Haku-osion tilaa",
+
+  "menu.section.toggle.import": "Vaihda Importointi-osion tilaa",
+
+  "menu.section.toggle.new": "Vaihda Uusi-osion tilaa",
+
+  "menu.section.toggle.registries": "Vaihda Rekisterit-osion tilaa",
+
+  "menu.section.toggle.statistics_task": "Vaihda Tilastointitehtävä-osion tilaa",
+
+  "menu.section.workflow": "Hallinnoi työnkulkua",
+
+  "mydspace.description": "",
+
+  "mydspace.general.text-here": "tässä",
+
+  "mydspace.messages.controller-help": "Valitse tämä, jos haluat lähettää viestin tietueen tallentajalle.",
+
+  "mydspace.messages.description-placeholder": "Kirjoita viestisi tähän...",
+
+  "mydspace.messages.hide-msg": "Piilota viesti",
+
+  "mydspace.messages.mark-as-read": "Merkitse luetuksi",
+
+  "mydspace.messages.mark-as-unread": "Merkitse lukemattomaksi",
+
+  "mydspace.messages.no-content": "Ei sisältöä.",
+
+  "mydspace.messages.no-messages": "Ei viestejä.",
+
+  "mydspace.messages.send-btn": "Lähetä",
+
+  "mydspace.messages.show-msg": "Näytä viesti",
+
+  "mydspace.messages.subject-placeholder": "Asiasana...",
+
+  "mydspace.messages.submitter-help": "Valitse tämä, jos haluat lähettää viestin tarkastajalle.",
+
+  "mydspace.messages.title": "Viestit",
+
+  "mydspace.messages.to": "Vastaanottaja",
+
+  "mydspace.new-submission": "Uusi tallennus",
+
+  "mydspace.new-submission-external": "Importoi metadataa ulkoisesta lähteestä",
+
+  "mydspace.new-submission-external-short": "Importoi metadataa",
+
+  "mydspace.results.head": "Tallennuksesi",
+
+  "mydspace.results.no-abstract": "Ei tiivistelmää",
+
+  "mydspace.results.no-authors": "Ei tekijöitä",
+
+  "mydspace.results.no-collections": "Ei kokoelmia",
+
+  "mydspace.results.no-date": "Ei päivämäärää",
+
+  "mydspace.results.no-files": "Ei tiedostoja",
+
+  "mydspace.results.no-results": "Ei tietueita",
+
+  "mydspace.results.no-title": "Ei nimikettä",
+
+  "mydspace.results.no-uri": "Ei URL-osoitetta",
+
+  "mydspace.show.workflow": "Kaikki tehtävät",
+
+  "mydspace.show.workspace": "Tallennuksesi",
+
+  "mydspace.status.archived": "Arkistoitu",
+
+  "mydspace.status.validation": "Tarkastaminen",
+
+  "mydspace.status.waiting-for-controller": "Odotetaan tarkastajaa",
+
+  "mydspace.status.workflow": "Työnkulku",
+
+  "mydspace.status.workspace": "Työtila",
+
+  "mydspace.title": "Oma DSpace",
+
+  "mydspace.upload.upload-failed": "Virhe uutta työtilaa luotaessa. Tarkista ladattava sisältö ennen kuin yrität uudelleen.",
+
+  "mydspace.upload.upload-failed-manyentries": "Tiedostoa ei voida käsitellä. Vain yksi kohde on sallittu, mutta niitä on useita.",
+
+  "mydspace.upload.upload-failed-moreonefile": "Pyyntöä ei voida käsitellä. Vain yksi tiedosto sallittu.",
+
+  "mydspace.upload.upload-multiple-successful": "{{qty}} uutta työtilaa luotu.",
+
+  "mydspace.upload.upload-successful": "Uusi työtila luotu. Napauta tästä muokataksesi sitä.",
+
+  "mydspace.view-btn": "Näytä",
+
+  "nav.browse.header": "Koko julkaisuarkisto",
+
+  "nav.community-browse.header": "Yhteisön mukaan",
+
+  "nav.language": "Kielivalinta",
+
+  "nav.login": "Kirjaudu sisään",
+
+  "nav.logout": "Kirjaudu ulos",
+
+  "nav.mydspace": "Omat tiedot",
+
+  "nav.profile": "Profiili",
+
+  "nav.search": "Hae",
+
+  "nav.statistics.header": "Tilastot",
+
+  "nav.stop-impersonating": "Lopeta käyttäjänä esiintyminen",
+
+  "orgunit.listelement.badge": "Organisaatioyksikkö",
+
+  "orgunit.page.city": "Kaupunki",
+
+  "orgunit.page.country": "Maa",
+
+  "orgunit.page.dateestablished": "Perustamispäivämäärä",
+
+  "orgunit.page.description": "Kuvaus",
+
+  "orgunit.page.edit": "Muokkaa tietuetta",
+
+  "orgunit.page.id": "ID-tunnus",
+
+  "orgunit.page.titleprefix": "Organisaatioyksikkö: ",
+
+  "pagination.results-per-page": "Tuloksia sivulla",
+
+  "pagination.showing.detail": "{{ range }} / {{ total }}",
+
+  "pagination.showing.label": "Näytetään ",
+
+  "pagination.sort-direction": "Lajitteluvalinnat",
+
+  "person.listelement.badge": "Käyttäjä",
+
+  "person.listelement.no-title": "Nimeä ei löytynyt",
+
+  "person.page.birthdate": "Syntymäaika",
+
+  "person.page.edit": "Muokkaa tietuetta",
+
+  "person.page.email": "Sähköpostiosoite",
+
+  "person.page.firstname": "Etunimi",
+
+  "person.page.jobtitle": "Tehtävänimike",
+
+  "person.page.lastname": "Sukunimi",
+
+  "person.page.link.full": "Näytä kaikki metadata",
+
+  "person.page.orcid": "ORCID-tunniste",
+
+  "person.page.staffid": "Henkilökunnan ID-tunnus",
+
+  "person.page.titleprefix": "Käyttäjä: ",
+
+  "person.search.results.head": "Käyttäjähaun tulokset",
+
+  "person.search.title": "DSpace Angular :: Käyttäjähaku",
+
+  "process.new.select-parameters": "Parametrit",
+
+  "process.new.cancel": "Peruuta",
+
+  "process.new.submit": "Lähetä",
+
+  "process.new.select-script": "Skripti",
+
+  "process.new.select-script.placeholder": "Valitse skripti...",
+
+  "process.new.select-script.required": "Skripti on pakollinen",
+
+  "process.new.parameter.file.upload-button": "Valitse tiedosto...",
+
+  "process.new.parameter.file.required": "Valitse tiedosto, ole hyvä",
+
+  "process.new.parameter.string.required": "Parametrin arvo on pakollinen tieto",
+
+  "process.new.parameter.type.value": "arvo",
+
+  "process.new.parameter.type.file": "tiedosto",
+
+  "process.new.parameter.required.missing": "Seuraavat parametrit ovat pakollisia, mutta niitä ei ole annettu:",
+
+  "process.new.notification.success.title": "Valmis",
+
+  "process.new.notification.success.content": "Prosessi luotu",
+
+  "process.new.notification.error.title": "Virhe",
+
+  "process.new.notification.error.content": "Virhe prosessia luotaessa",
+
+  "process.new.header": "Luo uusi prosessi",
+
+  "process.new.title": "Luo uusi prosessi",
+
+  "process.new.breadcrumbs": "Luo uusi prosessi",
+
+  "process.detail.arguments": "Muuttujat",
+
+  "process.detail.arguments.empty": "Prosessiin ei liity muuttujia",
+
+  "process.detail.back": "Paluu",
+
+  "process.detail.output": "Prosessin tulos",
+
+  "process.detail.logs.button": "Nouda prosessin tulos",
+
+  "process.detail.logs.loading": "Noudetaan",
+
+  "process.detail.logs.none": "Prosessilla ei tulosta",
+
+  "process.detail.output-files": "Tulostiedostot",
+
+  "process.detail.output-files.empty": "Prosessilla ei ole tulostiedostoja",
+
+  "process.detail.script": "Skripti",
+
+  "process.detail.title": "Prosessi: {{ id }} - {{ name }}",
+
+  "process.detail.start-time": "Aloitusaika",
+
+  "process.detail.end-time": "Lopetusaika",
+
+  "process.detail.status": "Tila",
+
+  "process.detail.create": "Luo vastaava prosessi",
+
+  "process.overview.table.finish": "Lopetusaika",
+
+  "process.overview.table.id": "Prosessin ID",
+
+  "process.overview.table.name": "Nimi",
+
+  "process.overview.table.start": "Aloitusaika",
+
+  "process.overview.table.status": "Tila",
+
+  "process.overview.table.user": "Käyttäjä",
+
+  "process.overview.title": "Prosessien yleiskatsaukset",
+
+  "process.overview.breadcrumbs": "Prosessien yleiskatsaukset",
+
+  "process.overview.new": "Uusi",
+
+  "profile.breadcrumbs": "Päivitä profiili",
+
+  "profile.card.identify": "Tunnistaudu",
+
+  "profile.card.security": "Suojaus",
+
+  "profile.form.submit": "Päivitä profiili",
+
+  "profile.groups.head": "Ryhmät, joihin kuulut",
+
+  "profile.head": "Päivitä profiili",
+
+  "profile.metadata.form.error.firstname.required": "Etunimi on pakollinen",
+
+  "profile.metadata.form.error.lastname.required": "Sukunimi on pakollinen",
+
+  "profile.metadata.form.label.email": "Sähköpostiosoite",
+
+  "profile.metadata.form.label.firstname": "Etunimi",
+
+  "profile.metadata.form.label.language": "Kieli",
+
+  "profile.metadata.form.label.lastname": "Sukunimi",
+
+  "profile.metadata.form.label.phone": "Puhelinnumero",
+
+  "profile.metadata.form.notifications.success.content": "Muutokset profiiliin on tallennettu.",
+
+  "profile.metadata.form.notifications.success.title": "Profiili tallennettu",
+
+  "profile.notifications.warning.no-changes.content": "Profiilia ei muutettu.",
+
+  "profile.notifications.warning.no-changes.title": "Ei muutoksia",
+
+  "profile.security.form.error.matching-passwords": "Salasanat eivät täsmää.",
+
+  "profile.security.form.error.password-length": "Salasanan on oltava vähintään 6 merkkiä pitkä.",
+
+  "profile.security.form.info": "Voit kirjoittaa uuden salasanan alla olevaan kenttään ja varmentaa sen kirjoittamalla sen uudelleen seuraavaan kenttään. Salasanan pituus on vähintään kuusi merkkiä.",
+
+  "profile.security.form.label.password": "Salasana",
+
+  "profile.security.form.label.passwordrepeat": "Kirjoita uudelleen",
+
+  "profile.security.form.notifications.success.content": "Muuttunut salasana on tallennettu.",
+
+  "profile.security.form.notifications.success.title": "Salasana tallennettu",
+
+  "profile.security.form.notifications.error.title": "Virhe salasanaa muutettaessa",
+
+  "profile.security.form.notifications.error.not-long-enough": "Salasanan on oltava vähintään 6 merkkiä pitkä.",
+
+  "profile.security.form.notifications.error.not-same": "Annetut salasanat eivät täsmää.",
+
+  "profile.title": "Päivitä profiili",
+
+  "project.listelement.badge": "Tutkimusprojekti",
+
+  "project.page.contributor": "Muut tekijät",
+
+  "project.page.description": "Kuvaus",
+
+  "project.page.edit": "Muokkaa tietuetta",
+
+  "project.page.expectedcompletion": "Odotettu päätös",
+
+  "project.page.funder": "Rahoittajat",
+
+  "project.page.id": "ID-tunnus",
+
+  "project.page.keyword": "Asiasanat",
+
+  "project.page.status": "Tila",
+
+  "project.page.titleprefix": "Tutkimusprojekti: ",
+
+  "project.search.results.head": "Projektihaun tulokset",
+
+  "publication.listelement.badge": "Julkaisu",
+
+  "publication.page.description": "Kuvaus",
+
+  "publication.page.edit": "Muokkaa tietuetta",
+
+  "publication.page.journal-issn": "Kausijulkaisun ISSN-tunnus",
+
+  "publication.page.journal-title": "Kausijulkaisun nimi",
+
+  "publication.page.publisher": "Julkaisija",
+
+  "publication.page.titleprefix": "Julkaisu: ",
+
+  "publication.page.volume-title": "Vuosikerran nimi",
+
+  "publication.search.results.head": "Aineistohaun tulokset",
+
+  "publication.search.title": "DSpace Angular :: Aineistohaku",
+
+  "register-email.title": "Uuden käyttäjän rekisteröinti",
+
+  "register-page.create-profile.header": "Luo profiili",
+
+  "register-page.create-profile.identification.header": "Tunnistaudu",
+
+  "register-page.create-profile.identification.email": "Sähköpostiosoite",
+
+  "register-page.create-profile.identification.first-name": "Etunimi *",
+
+  "register-page.create-profile.identification.first-name.error": "Anna etunimi, ole hyvä",
+
+  "register-page.create-profile.identification.last-name": "Sukunimi *",
+
+  "register-page.create-profile.identification.last-name.error": "Anna sukunimi, ole hyvä",
+
+  "register-page.create-profile.identification.contact": "Puhelinnumero",
+
+  "register-page.create-profile.identification.language": "Kieli",
+
+  "register-page.create-profile.security.header": "Suojaus",
+
+  "register-page.create-profile.security.info": "Syötä salasana alla olevaan kenttään ja vahvista se kirjoittamalla salasana uudelleen seuraavaan kenttään. Salasanan on oltava vähintään kuusi merkkiä pitkä.",
+
+  "register-page.create-profile.security.label.password": "Salasana *",
+
+  "register-page.create-profile.security.label.passwordrepeat": "Salasana uudelleen *",
+
+  "register-page.create-profile.security.error.empty-password": "Anna salasana alla olevaan kenttään, ole hyvä.",
+
+  "register-page.create-profile.security.error.matching-passwords": "Salasanat eivät täsmää.",
+
+  "register-page.create-profile.security.error.password-length": "Salasanan on oltava vähintään 6 merkkiä pitkä.",
+
+  "register-page.create-profile.submit": "Viimeistele rekisteröinti",
+
+  "register-page.create-profile.submit.error.content": "Tapahtui virhe uuden käyttäjän rekisteröinnissä.",
+
+  "register-page.create-profile.submit.error.head": "Rekisteröinti epäonnistui",
+
+  "register-page.create-profile.submit.success.content": "Rekisteröinti onnistui. Olet kirjautunut sisään.",
+
+  "register-page.create-profile.submit.success.head": "Rekisteröinti valmis",
+
+  "register-page.registration.header": "Uuden käyttäjän rekisteröinti",
+
+  "register-page.registration.info": "Rekisteröi käyttäjätili voidaksesi tilata sähköposti-ilmoituksia kokoelmien päivityksistä ja lisätä uusia tietueita julkaisuarkistoon.",
+
+  "register-page.registration.email": "Sähköpostiosoite *",
+
+  "register-page.registration.email.error.required": "Anna sähköpostiosoite",
+
+  "register-page.registration.email.error.pattern": "Anna toimiva sähköpostiosoite, ole hyvä",
+
+  "register-page.registration.email.hint": "Osoite varmistetaan, ja se toimii käyttäjätunnuksenasi kirjautumisessa.",
+
+  "register-page.registration.submit": "Rekisteröi",
+
+  "register-page.registration.success.head": "Varmistusviesti lähetetty",
+
+  "register-page.registration.success.content": "Viesti on lähetetty osoitteeseen {{ email }}. Viestissä on URL-osoite ja lisäohjeita.",
+
+  "register-page.registration.error.head": "Virhe sähköpostiosoitetta rekisteröitäessä",
+
+  "register-page.registration.error.content": "Virhe rekisteröitäessä tätä sähköpostiosoitetta: {{ email }}",
+
+  "relationships.add.error.relationship-type.content": "Ei {{ type }}-tyyppistä yhteysvastaavuutta kahden tietueen välillä",
+
+  "relationships.add.error.server.content": "Palvelin palautti virheen",
+
+  "relationships.add.error.title": "Yhteyttä ei voi lisätä",
+
+  "relationships.isAuthorOf": "Tekijät",
+
+  "relationships.isAuthorOf.Person": "Tekijät (henkilöt)",
+
+  "relationships.isAuthorOf.OrgUnit": "Tekijät (organisaatioyksiköt)",
+
+  "relationships.isIssueOf": "Kausijulkaisun numerot",
+
+  "relationships.isJournalIssueOf": "Kausijulkaisun numero",
+
+  "relationships.isJournalOf": "Kausijulkaisut",
+
+  "relationships.isOrgUnitOf": "Organisaatioyksiköt",
+
+  "relationships.isPersonOf": "Tekijät",
+
+  "relationships.isProjectOf": "Tutkimusprojektit",
+
+  "relationships.isPublicationOf": "Julkaisut",
+
+  "relationships.isPublicationOfJournalIssue": "Artikkelit",
+
+  "relationships.isSingleJournalOf": "Kausijulkaisu",
+
+  "relationships.isSingleVolumeOf": "Kausijulkaisun vuosikerta",
+
+  "relationships.isVolumeOf": "Kausijulkaisun vuosikerrat",
+
+  "relationships.isContributorOf": "Muut tekijät",
+
+  "resource-policies.add.button": "Lisää",
+
+  "resource-policies.add.for.": "Lisää uusi käytäntö",
+
+  "resource-policies.add.for.bitstream": "Lisää uusi tiedostoa koskeva käytäntö",
+
+  "resource-policies.add.for.bundle": "Lisää uusi nippua koskeva käytäntö",
+
+  "resource-policies.add.for.item": "Lisää uusi tietuetta koskeva käytäntö",
+
+  "resource-policies.add.for.community": "Lisää uusi yhteisöä koskeva käytäntö",
+
+  "resource-policies.add.for.collection": "Lisää uusi kokoelmaa koskeva käytäntö",
+
+  "resource-policies.create.page.heading": "Luo uusi resurssikäytäntö tälle: ",
+
+  "resource-policies.create.page.failure.content": "Virhe resurssikäytäntöä luotaessa",
+
+  "resource-policies.create.page.success.content": "Toiminto onnistui",
+
+  "resource-policies.create.page.title": "Luo uusi resurssikäytäntö",
+
+  "resource-policies.delete.btn": "Poista valitut",
+
+  "resource-policies.delete.btn.title": "Poista valitut resurssikäytännöt",
+
+  "resource-policies.delete.failure.content": "Virhe poistettaessa valittuja resurssikäytäntöjä.",
+
+  "resource-policies.delete.success.content": "Toiminto onnistui",
+
+  "resource-policies.edit.page.heading": "Muokkaa resurssikäytäntöä ",
+
+  "resource-policies.edit.page.failure.content": "Virhe muokattaessa resurssikäytäntöä.",
+
+  "resource-policies.edit.page.success.content": "Toiminto onnistui",
+
+  "resource-policies.edit.page.title": "Muokkaa resurssikäytäntöä",
+
+  "resource-policies.form.action-type.label": "Valitse toimenpiteen tyyppi",
+
+  "resource-policies.form.action-type.required": "Sinun on valittava resurssikäytännön toimenpide.",
+
+  "resource-policies.form.eperson-group-list.label": "Käyttäjä tai ryhmä, jolle oikeus myönnetään",
+
+  "resource-policies.form.eperson-group-list.select.btn": "Valitse",
+
+  "resource-policies.form.eperson-group-list.tab.eperson": "Hae käyttäjää",
+
+  "resource-policies.form.eperson-group-list.tab.group": "Hae ryhmää",
+
+  "resource-policies.form.eperson-group-list.table.headers.action": "Toimenpide",
+
+  "resource-policies.form.eperson-group-list.table.headers.id": "ID-tunnus",
+
+  "resource-policies.form.eperson-group-list.table.headers.name": "Nimi",
+
+  "resource-policies.form.date.end.label": "Loppupäivämäärä",
+
+  "resource-policies.form.date.start.label": "Alkupäivämäärä",
+
+  "resource-policies.form.description.label": "Kuvaus",
+
+  "resource-policies.form.name.label": "Nimi",
+
+  "resource-policies.form.policy-type.label": "Valitse käytäntötyyppi",
+
+  "resource-policies.form.policy-type.required": "Sinun on valittava käytäntötyyppi.",
+
+  "resource-policies.table.headers.action": "Toimenpide",
+
+  "resource-policies.table.headers.date.end": "Loppupäivämäärä",
+
+  "resource-policies.table.headers.date.start": "Alkupäivämäärä",
+
+  "resource-policies.table.headers.edit": "Muokkaa",
+
+  "resource-policies.table.headers.edit.group": "Muokkaa ryhmää",
+
+  "resource-policies.table.headers.edit.policy": "Muokkaa käytäntöä",
+
+  "resource-policies.table.headers.eperson": "Käyttäjä",
+
+  "resource-policies.table.headers.group": "Ryhmä",
+
+  "resource-policies.table.headers.id": "ID-tunnus",
+
+  "resource-policies.table.headers.name": "Nimi",
+
+  "resource-policies.table.headers.policyType": "tyyppi",
+
+  "resource-policies.table.headers.title.for.bitstream": "Tiedostokäytännöt",
+
+  "resource-policies.table.headers.title.for.bundle": "Nippukäytännöt",
+
+  "resource-policies.table.headers.title.for.item": "Tietuekäytännöt",
+
+  "resource-policies.table.headers.title.for.community": "Yhteisökäytännöt",
+
+  "resource-policies.table.headers.title.for.collection": "Kokoelmakäytännöt",
+
+  "search.description": "",
+
+  "search.switch-configuration.title": "Näytä",
+
+  "search.title": "DSpace Angular :: Hae",
+
+  "search.breadcrumbs": "Hae",
+
+  "search.filters.applied.f.author": "Tekijä",
+
+  "search.filters.applied.f.dateIssued.max": "Loppupäivämäärä",
+
+  "search.filters.applied.f.dateIssued.min": "Alkupäivämäärä",
+
+  "search.filters.applied.f.dateSubmitted": "Tallennusajankohta",
+
+  "search.filters.applied.f.discoverable": "Yksityinen",
+
+  "search.filters.applied.f.entityType": "Tietueen tyyppi",
+
+  "search.filters.applied.f.has_content_in_original_bundle": "On tiedostoja",
+
+  "search.filters.applied.f.itemtype": "Tyyppi",
+
+  "search.filters.applied.f.namedresourcetype": "Tila",
+
+  "search.filters.applied.f.subject": "Asiasana",
+
+  "search.filters.applied.f.submitter": "Tallentaja",
+
+  "search.filters.applied.f.jobTitle": "Tehtävänimike",
+
+  "search.filters.applied.f.birthDate.max": "Viimeisin syntymäaika",
+
+  "search.filters.applied.f.birthDate.min": "Varhaisin syntymäaika",
+
+  "search.filters.applied.f.withdrawn": "Poistettu käytöstä",
+
+  "search.filters.filter.author.head": "Tekijä",
+
+  "search.filters.filter.author.placeholder": "Tekijän nimi",
+
+  "search.filters.filter.birthDate.head": "Syntymäaika",
+
+  "search.filters.filter.birthDate.placeholder": "Syntymäaika",
+
+  "search.filters.filter.creativeDatePublished.head": "Julkaisuajankohta",
+
+  "search.filters.filter.creativeDatePublished.placeholder": "Julkaisuajankohta",
+
+  "search.filters.filter.creativeWorkEditor.head": "Toimittaja",
+
+  "search.filters.filter.creativeWorkEditor.placeholder": "Toimittaja",
+
+  "search.filters.filter.creativeWorkKeywords.head": "Asiasana",
+
+  "search.filters.filter.creativeWorkKeywords.placeholder": "Asiasana",
+
+  "search.filters.filter.creativeWorkPublisher.head": "Julkaisija",
+
+  "search.filters.filter.creativeWorkPublisher.placeholder": "Julkaisija",
+
+  "search.filters.filter.dateIssued.head": "Päivämäärä",
+
+  "search.filters.filter.dateIssued.max.placeholder": "Alkupäivämäärä",
+
+  "search.filters.filter.dateIssued.min.placeholder": "Loppupäivämäärä",
+
+  "search.filters.filter.dateSubmitted.head": "Tallennusajankohta",
+
+  "search.filters.filter.dateSubmitted.placeholder": "Tallennnusajankohta",
+
+  "search.filters.filter.discoverable.head": "Yksityinen",
+
+  "search.filters.filter.withdrawn.head": "Poistettu käytöstä",
+
+  "search.filters.filter.entityType.head": "Tietueen tyyppi",
+
+  "search.filters.filter.entityType.placeholder": "Tietueen tyyppi",
+
+  "search.filters.filter.has_content_in_original_bundle.head": "On tiedostoja",
+
+  "search.filters.filter.itemtype.head": "Tyyppi",
+
+  "search.filters.filter.itemtype.placeholder": "Tyyppi",
+
+  "search.filters.filter.jobTitle.head": "Tehtävänimike",
+
+  "search.filters.filter.jobTitle.placeholder": "Tehtävänimike",
+
+  "search.filters.filter.knowsLanguage.head": "Tunnettu kieli",
+
+  "search.filters.filter.knowsLanguage.placeholder": "Tunnettu kieli",
+
+  "search.filters.filter.namedresourcetype.head": "Tila",
+
+  "search.filters.filter.namedresourcetype.placeholder": "Tila",
+
+  "search.filters.filter.objectpeople.head": "Käyttäjät",
+
+  "search.filters.filter.objectpeople.placeholder": "Käyttäjät",
+
+  "search.filters.filter.organizationAddressCountry.head": "Maa",
+
+  "search.filters.filter.organizationAddressCountry.placeholder": "Maa",
+
+  "search.filters.filter.organizationAddressLocality.head": "Kaupunki",
+
+  "search.filters.filter.organizationAddressLocality.placeholder": "Kaupunki",
+
+  "search.filters.filter.organizationFoundingDate.head": "Perustamispäivämäärä",
+
+  "search.filters.filter.organizationFoundingDate.placeholder": "Perustamispäivämäärä",
+
+  "search.filters.filter.scope.head": "Rajaus",
+
+  "search.filters.filter.scope.placeholder": "Haun tarkennus",
+
+  "search.filters.filter.show-less": "Sulje",
+
+  "search.filters.filter.show-more": "Näytä lisää",
+
+  "search.filters.filter.subject.head": "Asiasana",
+
+  "search.filters.filter.subject.placeholder": "Asiasana",
+
+  "search.filters.filter.submitter.head": "Tallentaja",
+
+  "search.filters.filter.submitter.placeholder": "Tallentaja",
+
+  "search.filters.entityType.JournalIssue": "Kausijulkaisun numero",
+
+  "search.filters.entityType.JournalVolume": "Kausijulkaisun vuosikerta",
+
+  "search.filters.entityType.OrgUnit": "Organisaatioyksikkö",
+
+  "search.filters.has_content_in_original_bundle.true": "Kyllä",
+
+  "search.filters.has_content_in_original_bundle.false": "Ei",
+
+  "search.filters.discoverable.true": "Ei",
+
+  "search.filters.discoverable.false": "Kyllä",
+
+  "search.filters.withdrawn.true": "Kyllä",
+
+  "search.filters.withdrawn.false": "Ei",
+
+  "search.filters.head": "Suodattimet",
+
+  "search.filters.reset": "Tyhjennä suodattimet",
+
+  "search.form.search": "Hae",
+
+  "search.form.search_dspace": "Hae arkistosta",
+
+  "search.form.search_mydspace": "Hae omista tiedoista",
+
+  "search.results.head": "Hakutulokset",
+
+  "search.results.no-results": "Ei hakutuloksia. Jos sinulla on hakuongelmia, voit",
+
+  "search.results.no-results-link": "käyttää lainausmerkkejä",
+
+  "search.results.empty": "Ei hakutuloksia.",
+
+  "search.sidebar.close": "Paluu tuloksiin",
+
+  "search.sidebar.filters.title": "Suodattimet",
+
+  "search.sidebar.open": "Hakutyökalut",
+
+  "search.sidebar.results": "tulokset",
+
+  "search.sidebar.settings.rpp": "Tulosta sivulla",
+
+  "search.sidebar.settings.sort-by": "Järjestä",
+
+  "search.sidebar.settings.title": "Asetukset",
+
+  "search.view-switch.show-detail": "Näytä lisätiedot",
+
+  "search.view-switch.show-grid": "Näydä ruudukkona",
+
+  "search.view-switch.show-list": "Näytä luettelona",
+
+  "sorting.ASC": "Laskeva",
+
+  "sorting.DESC": "Nouseva",
+
+  "sorting.dc.title.ASC": "Nimeke (A-Ö)",
+
+  "sorting.dc.title.DESC": "Nimeke (Ö-A)",
+
+  "sorting.score.DESC": "Relevanssi",
+
+  "statistics.title": "Tilastot",
+
+  "statistics.header": "{{ scope }}:n tilastot",
+
+  "statistics.breadcrumbs": "Tilastot",
+
+  "statistics.page.no-data": "Ei dataa",
+
+  "statistics.table.no-data": "Ei dataa",
+
+  "statistics.table.title.TotalVisits": "Käyntejä  yhteensä",
+
+  "statistics.table.title.TotalVisitsPerMonth": "Käyntejä kuukaudessa",
+
+  "statistics.table.title.TotalDownloads": "Tiedostokäyntejä",
+
+  "statistics.table.title.TopCountries": "Eniten katseluita maittain",
+
+  "statistics.table.title.TopCities": "Eniten katseluita kaupungeittain",
+
+  "statistics.table.header.views": "Katseluita",
+
+  "submission.edit.title": "Muokkaa tallennusta",
+
+  "submission.general.cannot_submit": "Sinulla ei ole oikeuksia aineiston tallentamiseen.",
+
+  "submission.general.deposit": "Tallenna",
+
+  "submission.general.discard.confirm.cancel": "Peruuta",
+
+  "submission.general.discard.confirm.info": "Tätä operaatiota ei voi perua. Oletko varma?",
+
+  "submission.general.discard.confirm.submit": "Kyllä, olen varma",
+
+  "submission.general.discard.confirm.title": "Hylkää tallennus",
+
+  "submission.general.discard.submit": "Hylkää",
+
+  "submission.general.save": "Tallenna",
+
+  "submission.general.save-later": "Tallenna myöhemmäksi",
+
+  "submission.import-external.page.title": "Importoi metadata ulkoisesta lähteestä",
+
+  "submission.import-external.title": "Importoi metadata ulkoisesta lähteestä",
+
+  "submission.import-external.page.hint": "Anna hakulauseke etsiäksesi verkosta arkistoon importoitavia tietueita.",
+
+  "submission.import-external.back-to-my-dspace": "Paluu omiin tietoihin",
+
+  "submission.import-external.search.placeholder": "Hae ulkoisesta lähteestä",
+
+  "submission.import-external.search.button": "Hae",
+
+  "submission.import-external.search.button.hint": "Anna muutama hakusana",
+
+  "submission.import-external.search.source.hint": "Valitse ulkoinen lähde",
+
+  "submission.import-external.source.arxiv": "arXiv",
+
+  "submission.import-external.source.loading": "Ladataan ...",
+
+  "submission.import-external.source.sherpaJournal": "SHERPA-kausijulkaisut",
+
+  "submission.import-external.source.sherpaPublisher": "SHERPA-kustantajat",
+
+  "submission.import-external.source.orcid": "ORCID-tunniste",
+
+  "submission.import-external.source.pubmed": "Pubmed",
+
+  "submission.import-external.source.lcname": "Library of Congress -nimet",
+
+  "submission.import-external.preview.title": "Tietueen esikatselu",
+
+  "submission.import-external.preview.subtitle": "Alla oleva metadata importoitiin ulkoisesta lähteestä. Sillä esitäytetään metadata, kun aloitat tallennuksen.",
+
+  "submission.import-external.preview.button.import": "Aloita tallentaminen",
+
+  "submission.import-external.preview.error.import.title": "Tallennusvirhe",
+
+  "submission.import-external.preview.error.import.body": "Virhe importoitaessa tietuetta ulkoisesta lähteestä.",
+
+  "submission.sections.describe.relationship-lookup.close": "Sulje",
+
+  "submission.sections.describe.relationship-lookup.external-source.added": "Paikallinen kohde lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.isAuthorOfPublication": "Importoi tekijä ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal": "Importoi kausijulkaisu ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Issue": "Importoi kausijulkaisun numero ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Volume": "Importoi kausijulkaisun vuosikerta ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.title": "Importoi tekijä ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.local-entity": "Paikallinen tekijä lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.new-entity": "Ulkoinen tekijä importoitu ja lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority": "Auktoriteetti",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority.new": "Importoi uudeksi paikalliseksi auktoriteettikohteeksi",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.cancel": "Peruuta",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.collection": "Valitse kokoelma, johon uudet kohteet importoidaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities": "Kokonaisuudet",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities.new": "Importoi uudeksi paikalliseksi kokonaisuudeksi",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "Importointi Library of Congress -nimestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcid": "Importointi ORCIDista",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importointi Sherpa-julkaisusta",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "Importointi Sherpa-julkaisijalta",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.pubmed": "Importointi PubMedista",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.arxiv": "Importointi arXivista",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.import": "Importoi",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.title": "Importoi kausijulkaisu ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.local-entity": "Paikallinen kausijulkaisu lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.new-entity": "Ulkoinen kausijulkaisu importoitu ja lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.title": "Importoi kausijulkaisun numero ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.local-entity": "Paikallinen kausijulkaisun numero lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.new-entity": "Ulkoinen kausijulkaisun numero importoitu ja lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.title": "Importoi kausijulkaisun vuosikerta ulkoisesta lähteestä",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.local-entity": "Paikallinen kausijulkaisun vuosikerta lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.new-entity": "Ulkoinen kausijulkaisun vuosikerta importoitu ja lisätty valintaan",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.select": "Valitse paikallinen vastaavuus:",
+
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-all": "Poista kaikkien valinta",
+
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Poista sivun valinta",
+
+  "submission.sections.describe.relationship-lookup.search-tab.loading": "Ladataan...",
+
+  "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Hakulauseke",
+
+  "submission.sections.describe.relationship-lookup.search-tab.search": "Ok",
+
+  "submission.sections.describe.relationship-lookup.search-tab.select-all": "Valitse kaikki",
+
+  "submission.sections.describe.relationship-lookup.search-tab.select-page": "Valitse sivu",
+
+  "submission.sections.describe.relationship-lookup.selected": "Valittu {{ size }} tietuetta",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isAuthorOfPublication": "Paikalliset tekijät ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalOfPublication": "Paikalliset kausijulkaisut ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Project": "Paikalliset projektit ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Publication": "Paikalliset julkaisut ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Person": "Paikalliset tekijät ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.OrgUnit": "Paikalliset organisaatioyksiköt ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataPackage": "Paikalliset datapaketit ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataFile": "Paikalliset datatiedostot ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Journal": "Paikalliset kausijulkaisut ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalIssueOfPublication": "Paikalliset kausijulkaisun numerot ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalIssue": "Paikalliset kausijulkaisun numerot ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalVolumeOfPublication": "Paikalliset kausijulkaisun vuosikerrat ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalVolume": "Paikalliset kausijulkaisun vuosikerrat ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaJournal": "Sherpa-kausijulkaisut ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaPublisher": "Sherpa-julkaisijat ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.orcid": "ORCID-tunnisteet ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.lcname": "Library of Congress -nimet ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.pubmed": "PubMed ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.arxiv": "arXiv ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfPublication": "Hae rahoittajatahoja",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Hae rahoitusta",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Hae organisaatioyksiköitä",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Nykyinen valinta ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalIssueOfPublication": "Kausijulkaisun numerot",
+
+  "submission.sections.describe.relationship-lookup.title.JournalIssue": "Kausijulkaisun numerot",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalVolumeOfPublication": "Kausijulkaisun vuosikerrat",
+
+  "submission.sections.describe.relationship-lookup.title.JournalVolume": "Kausijulkaisun vuosikerrat",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalOfPublication": "Kausijulkaisut",
+
+  "submission.sections.describe.relationship-lookup.title.isAuthorOfPublication": "Tekijät",
+
+  "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfPublication": "Rahoittajataho",
+
+  "submission.sections.describe.relationship-lookup.title.Project": "Projektit",
+
+  "submission.sections.describe.relationship-lookup.title.Publication": "Julkaisut",
+
+  "submission.sections.describe.relationship-lookup.title.Person": "Tekijät",
+
+  "submission.sections.describe.relationship-lookup.title.OrgUnit": "Organisaatioyksiköt",
+
+  "submission.sections.describe.relationship-lookup.title.DataPackage": "Datapaketit",
+
+  "submission.sections.describe.relationship-lookup.title.DataFile": "Datatiedostot",
+
+  "submission.sections.describe.relationship-lookup.title.Funding Agency": "Rahoittajataho",
+
+  "submission.sections.describe.relationship-lookup.title.isFundingOfPublication": "Rahoitus",
+
+  "submission.sections.describe.relationship-lookup.title.isChildOrgUnitOf": "Ylempi organisaatioyksikkö",
+
+  "submission.sections.describe.relationship-lookup.search-tab.toggle-dropdown": "Vaihda valikon tilaa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.settings": "Asetukset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.no-selection": "Valinta on tyhjä.",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Valitut tekijät",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Valitut kausijulkaisut",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalVolumeOfPublication": "Valittu kausijulkaisun vuosikerta",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Project": "Valitut projektit",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Publication": "Valitut julkaisut",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Person": "Valitut tekijät",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.OrgUnit": "Valitut organisaatioyksiköt",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataPackage": "Valitut datapaketit",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataFile": "Valitut datatiedostot",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Journal": "Valitut kausijulkaisut",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalIssueOfPublication": "Valittu numero",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalVolume": "Valittu kausijulkaisun vuosikerta",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingAgencyOfPublication": "Valittu rahoittajataho",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingOfPublication": "Valittu rahoitus",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalIssue": "Valittu numero",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isChildOrgUnitOf": "Valittu organisaatioyksikkö",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Hakutulokset",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Haluatko tallentaa nimen \"{{ value }}\" käyttäjän vaihtoehtoiseksi nimeksi, jota muutkin voivat käyttää uudelleen myös tulevissa tallennuksissa? Ellet tallenna nimeä, voit silti käyttää sitä tässä tallennuksessa.",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Tallenna uusi vaihtoehtoinen nimi",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Käytä vain tässä tallennuksessa",
+
+  "submission.sections.ccLicense.type": "Lisenssityyppi",
+
+  "submission.sections.ccLicense.select": "Valitse lisenssityyppi…",
+
+  "submission.sections.ccLicense.change": "Vaihda lisenssityyppi…",
+
+  "submission.sections.ccLicense.none": "Ei lisenssejä",
+
+  "submission.sections.ccLicense.option.select": "Valitse vaihtoehto…",
+
+  "submission.sections.ccLicense.link": "Olet valinunt seuraavan lisenssin:",
+
+  "submission.sections.ccLicense.confirmation": "Myönnän yllä olevan lisenssin",
+
+  "submission.sections.general.add-more": "Lisää enemmän",
+
+  "submission.sections.general.collection": "Kokoelma",
+
+  "submission.sections.general.deposit_error_notice": "Ongelma tietueen tallentamisessa, yritä myöhemmin uudelleen.",
+
+  "submission.sections.general.deposit_success_notice": "Tallennus onnistui.",
+
+  "submission.sections.general.discard_error_notice": "Ongelma tietueen hylkäämisessä, yritä myöhemmin uudelleen.",
+
+  "submission.sections.general.discard_success_notice": "Tallennus hylätty.",
+
+  "submission.sections.general.metadata-extracted": "Uusi metadata poimittu ja lisätty <strong>{{sectionId}}</strong>-osioon.",
+
+  "submission.sections.general.metadata-extracted-new-section": "Uusi <strong>{{sectionId}}</strong>-osio lisätty tallennukseen.",
+
+  "submission.sections.general.no-collection": "Ei kokoelmia",
+
+  "submission.sections.general.no-sections": "Ei vaihtoehtoja",
+
+  "submission.sections.general.save_error_notice": "Ongelma tietueen tallentamisessa, yritä myöhemmin uudelleen.",
+
+  "submission.sections.general.save_success_notice": "Tallennus onnistui.",
+
+  "submission.sections.general.search-collection": "Hae kokoelmaa",
+
+  "submission.sections.general.sections_not_valid": "Tallennuksessa keskeneräisiä osioita.",
+
+  "submission.sections.submit.progressbar.CClicense": "Creative commons -lisenssi",
+
+  "submission.sections.submit.progressbar.describe.recycle": "Kierrätä",
+
+  "submission.sections.submit.progressbar.describe.stepcustom": "Kuvaile",
+
+  "submission.sections.submit.progressbar.describe.stepone": "Kuvaile",
+
+  "submission.sections.submit.progressbar.describe.steptwo": "Kuvaile",
+
+  "submission.sections.submit.progressbar.detect-duplicate": "Mahdollisia kaksoiskappaleita",
+
+  "submission.sections.submit.progressbar.license": "Tallennuslisenssi",
+
+  "submission.sections.submit.progressbar.upload": "Lataa tiedostoja",
+
+  "submission.sections.upload.delete.confirm.cancel": "Peruuta",
+
+  "submission.sections.upload.delete.confirm.info": "Tätä toimintoa ei voi peruuttaa. Oletko varma?",
+
+  "submission.sections.upload.delete.confirm.submit": "Kyllä, olen varma",
+
+  "submission.sections.upload.delete.confirm.title": "Poista tiedosto",
+
+  "submission.sections.upload.delete.submit": "Poista",
+
+  "submission.sections.upload.drop-message": "Pudota tiedostot liittääksesi ne tietueeseen",
+
+  "submission.sections.upload.form.access-condition-label": "Pääsyoikeustyyppi",
+
+  "submission.sections.upload.form.date-required": "Päivämäärä on pakollinen tieto.",
+
+  "submission.sections.upload.form.from-label": "Pääsyoikeus alkaa",
+
+  "submission.sections.upload.form.from-placeholder": "Alkaen",
+
+  "submission.sections.upload.form.group-label": "Ryhmä",
+
+  "submission.sections.upload.form.group-required": "Ryhmä on pakollinen tieto.",
+
+  "submission.sections.upload.form.until-label": "Pääsyoikeus päättyy",
+
+  "submission.sections.upload.form.until-placeholder": "Asti",
+
+  "submission.sections.upload.header.policy.default.nolist": "{{collectionName}}-kokoelmaan ladatut tiedostot ovat seuraavien ryhmien saatavilla:",
+
+  "submission.sections.upload.header.policy.default.withlist": "Yksittäisten tiedostojen pääsyrajoitusten lisäksi {{collectionName}}-kokoelmaan ladatut tiedostot ovat seuraavien ryhmien saatavilla:",
+
+  "submission.sections.upload.info": "Tietueen kaikki tiedostot on lueteltu tässä. Voit päivittää tiedoston metadataa ja pääsyehtoja tai <strong>ladata lisää tiedostoja raahaamalla ne mihin hyvänsä sivun kohtaan</strong>",
+
+  "submission.sections.upload.no-entry": "Ei",
+
+  "submission.sections.upload.no-file-uploaded": "Tiedostoa ei vielä ladattu.",
+
+  "submission.sections.upload.save-metadata": "Tallenna metadata",
+
+  "submission.sections.upload.undo": "Peruuta",
+
+  "submission.sections.upload.upload-failed": "Lataus epäonnistui",
+
+  "submission.sections.upload.upload-successful": "Lataus valmis",
+
+  "submission.submit.title": "Julkaisu",
+
+  "submission.workflow.generic.delete": "Poista",
+
+  "submission.workflow.generic.delete-help": "Valitse \"Poista\" hylätäksesi tietueen. Poisto pyydetään vielä vahvistamaan.",
+
+  "submission.workflow.generic.edit": "Muokkaa",
+
+  "submission.workflow.generic.edit-help": "Valitse tämä muuttaaksesi tietueen metadataa.",
+
+  "submission.workflow.generic.view": "Näytä",
+
+  "submission.workflow.generic.view-help": "Valitse tämä katsoaksesi tietueen metadataa.",
+
+  "submission.workflow.tasks.claimed.approve": "Hyväksy",
+
+  "submission.workflow.tasks.claimed.approve_help": "Jos olet tarkistanut tietueen, ja se on kelvollinen kokoelmaan lisättäväksi, valitse \"Hyväksy\".",
+
+  "submission.workflow.tasks.claimed.edit": "Muokkaa",
+
+  "submission.workflow.tasks.claimed.edit_help": "Valitse tämä muuttaaksesi tietueen metadataa.",
+
+  "submission.workflow.tasks.claimed.reject.reason.info": "Syötä kenttään syy tallennuksen hylkäämiselle. Kerro myös, voiko tallentaja korjata ongelman ja lähettää aineiston uudelleen.",
+
+  "submission.workflow.tasks.claimed.reject.reason.placeholder": "Kuvaa hylkäyksen syy",
+
+  "submission.workflow.tasks.claimed.reject.reason.submit": "Hylkää tietue",
+
+  "submission.workflow.tasks.claimed.reject.reason.title": "Syy",
+
+  "submission.workflow.tasks.claimed.reject.submit": "Hylkää",
+
+  "submission.workflow.tasks.claimed.reject_help": "Jos olet tarkistanut tietueen, ja se <strong>ei</strong> on kelvollinen kokoelmaan lisättäväksi, valitse \"Hylkää\". Tämän jälkeen sinua pyydetään kertomaan, miksi tietue ei ole kelvollinen sekä voiko tallentaja tehdä muutoksia ja lähettää aineiston uudelleen.",
+
+  "submission.workflow.tasks.claimed.return": "Palauta tehtäväjonoon",
+
+  "submission.workflow.tasks.claimed.return_help": "Palauta tehtävä tehtäväjonoon, jotta toinen käyttäjä voi suorittaa tehtävän.",
+
+  "submission.workflow.tasks.generic.error": "Virhe toimintoa suoritettaessa...",
+
+  "submission.workflow.tasks.generic.processing": "Käsitellään...",
+
+  "submission.workflow.tasks.generic.submitter": "Tallentaja",
+
+  "submission.workflow.tasks.generic.success": "Toiminto onnistui",
+
+  "submission.workflow.tasks.pool.claim": "Ota itsellesi",
+
+  "submission.workflow.tasks.pool.claim_help": "Ota tehtävä itsellesi.",
+
+  "submission.workflow.tasks.pool.hide-detail": "Piilota lisätiedot",
+
+  "submission.workflow.tasks.pool.show-detail": "Näytä lisätiedot",
+
+  title: "Julkaisuarkisto",
+
+  "vocabulary-treeview.header": "Hierarkkinen puunäkymä",
+
+  "vocabulary-treeview.load-more": "Lataa lisää",
+
+  "vocabulary-treeview.search.form.reset": "Nollaa",
+
+  "vocabulary-treeview.search.form.search": "Hae",
+
+  "vocabulary-treeview.search.no-result": "Ei tietueita",
+
+  "vocabulary-treeview.tree.description.nsi": "The Norwegian Science Index",
+
+  "vocabulary-treeview.tree.description.srsc": "Tutkimusaiheiden kategoriat",
+
+  "uploader.browse": "selaa",
+
+  "uploader.drag-message": "Raahaa tiedostot tähän",
+
+  "uploader.or": " tai",
+
+  "uploader.processing": "Käsitellään",
+
+  "uploader.queue-length": "Jonon pituus",
+
+  "virtual-metadata.delete-item.info": "Valitse tyypit, joiden virtuaalisen metadatan haluat tallentaa varsinaiseksi metadataksi",
+
+  "virtual-metadata.delete-item.modal-head": "Relaation virtuaalinen metadata",
+
+  "virtual-metadata.delete-relationship.modal-head": "Valitse tietueet, joiden virtuaalisen metadatan haluat tallentaa varsinaiseksi metadataksi",
+
+  "workflowAdmin.search.results.head": "Hallinnoi työnkulkua",
+
+  "workflow-item.delete.notification.success.title": "Poistettu",
+
+  "workflow-item.delete.notification.success.content": "Tarkastamaton tietue poistettu",
+
+  "workflow-item.delete.notification.error.title": "Tapahtui virhe",
+
+  "workflow-item.delete.notification.error.content": "Tarkastamatonta tietuetta ei voitu poistaa",
+
+  "workflow-item.delete.title": "Poista tarkastamaton tietue",
+
+  "workflow-item.delete.header": "Poista tarkastamaton tietue",
+
+  "workflow-item.delete.button.cancel": "Peruuta",
+
+  "workflow-item.delete.button.confirm": "Poista",
+
+  "workflow-item.send-back.notification.success.title": "Lähetetty takaisin tallentajalle",
+
+  "workflow-item.send-back.notification.success.content": "Tarkastamaton tietue lähetetty takaisin tallentajalle",
+
+  "workflow-item.send-back.notification.error.title": "Tapahtui virhe",
+
+  "workflow-item.send-back.notification.error.content": "Tarkastamatonta tietuetta ei voitu lähettää takaisin tallentajalle",
+
+  "workflow-item.send-back.title": "Lähetä tarkastamaton tietue takaisin tallentajalle",
+
+  "workflow-item.send-back.header": "Lähetä tarkastamaton tietue takaisin tallentajalle",
+
+  "workflow-item.send-back.button.cancel": "Peruuta",
+
+  "workflow-item.send-back.button.confirm": "Lähetä takaisin",
+}

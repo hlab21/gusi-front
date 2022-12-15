@@ -1,0 +1,150 @@
+<div class="container-fluid">
+  <div class="container">
+    <h2>{{ 'info.faqs.head' | translate }}</h2>
+  </div>
+  <div class="container  pb-4">
+    <div style="background-color:#DA1212; width:100%; height:5px"></div>
+  </div>
+  <div class="container text-justify">
+    <ngb-accordion #a="ngbAccordion" activeIds="custom-panel-1">
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  What is GUSI?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          <b>GUSI</b> is the College of Engineering, University of the East - Caloocan's digital repository. Its purpose 
+          is to showcase research materials — that is, unpublished researches — produced by the College of Engineering 
+          students of University of the East - Caloocan and make them more accessible to the students, faculty and admin 
+          of College of Engineering, University of the East - Caloocan.
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  How can I access GUSI?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          To access GUSI, you only need to go to this link (<a href="./">coe.repository-uecal.com</a>)
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  How can I submit my works in GUSI?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          The admin will be the only one with access to upload your works. The professors will manage 
+          your work before turning it over to the administration.
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  Do I need to register?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          Yes, you can register by using UE Email Account. 
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  Can I access the full-text of theses and disserations?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>  
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          Yes, you can. You only need to request for it to the admin and wait for their approval.
+        </ng-template>
+      </ngb-panel>
+      <ngb-panel>
+        <ng-template ngbPanelHeader let-opened="opened">
+          <div class="w-100">
+            <div class="accordion-button custom-header" [class.collapsed]="!opened">
+              <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+                <div class="w-100 d-flex justify-content-between collapse-toggle">
+                  Are all theses, dissertations, and research works in the library included in GUSI?
+                  <div class="text-right d-flex">
+                    <div class="ml-3 d-inline-block">
+                      <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                      <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            </div>
+          </div>
+        </ng-template>
+        <ng-template ngbPanelContent>
+          Not all theses and research are available at this time because we are only starting and expanding 
+          the repository. But going forward, we'll make sure to submit everything.
+        </ng-template>
+      </ngb-panel>
+    </ngb-accordion>
+  </div>
+</div>
+

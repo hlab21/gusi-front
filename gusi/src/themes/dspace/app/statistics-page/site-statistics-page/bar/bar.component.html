@@ -1,0 +1,73 @@
+
+<div class="card" *ngIf="!isLoading">
+  <div class="card-body h-100">
+    <p class="text-uppercase small mb-2">
+      <strong>Active Users Per City</strong>
+    </p>
+    <hr />
+    <div class="text-center justify-content-center align-items-center" *ngIf="!isLoading">
+      <div class="d-flex text-center justify-content-center w-100 align-items-center mx-auto">
+        <div class="d-none d-md-none d-lg-block" *ngIf="!isLoading">
+          <ngx-charts-bar-vertical
+            [view]="viewlg"
+            [scheme]="colorScheme"
+            [results]="bar"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [legend]="showLegend"
+            [legendPosition]="legendPosition"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [showGridLines]="showGridLines"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            (select)="onSelect($event)">
+          </ngx-charts-bar-vertical>
+        </div>
+        <div class="d-none d-md-block d-lg-none" *ngIf="!isLoading">
+          <ngx-charts-bar-vertical
+            [view]="viewmd"
+            [scheme]="colorScheme"
+            [results]="bar"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [legend]="showLegend"
+            [legendPosition]="legendPosition"
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            (select)="onSelect($event)">
+          </ngx-charts-bar-vertical>
+        </div>
+        <div class="d-block d-md-none d-lg-none" *ngIf="!isLoading">
+          <ngx-charts-bar-vertical
+            [view]="viewxxs"
+            [scheme]="colorScheme"
+            [results]="bar"
+            [gradient]="gradient"
+            [xAxis]="showXAxis"
+            [yAxis]="showYAxis"
+            [legend]="false"
+
+            [showXAxisLabel]="showXAxisLabel"
+            [showYAxisLabel]="showYAxisLabel"
+            [xAxisLabel]="xAxisLabel"
+            [yAxisLabel]="yAxisLabel"
+            (select)="onSelect($event)">
+          </ngx-charts-bar-vertical>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+<div class="container-fluid">
+  <div class="container"><h2>End-User-License-Agreement (EULA)</h2></div>
+  <div class="container  pb-4">
+    <div style="background-color:#DA1212; width:100%; height:5px"></div>
+  </div>
+  <div class="container">
+    <ds-end-user-agreement-content class="text-justify"></ds-end-user-agreement-content>
+  
+    <form class="form-user-agreement-accept mt-4" (ngSubmit)="submit()" novalidate>
+      <input class="ml-1 mr-2" type="checkbox" id="user-agreement-accept" [(ngModel)]="accepted" [ngModelOptions]="{standalone: true}">
+      <label class="col-form-label-lg" for="user-agreement-accept">{{ 'info.end-user-agreement.accept' | translate }}</label>
+  
+      <div class="d-flex mt-4">
+        <button id="button-cancel" type="button" (click)="cancel()" class="btn btn-outline-secondary mr-auto">{{ 'info.end-user-agreement.buttons.cancel' | translate }}</button>
+        <button id="button-save" type="submit" class="btn btn-primary" [disabled]="!accepted">{{ 'info.end-user-agreement.buttons.save' | translate }}</button>
+      </div>
+    </form>
+  </div>
+
+</div>
+

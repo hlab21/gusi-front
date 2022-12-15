@@ -1,0 +1,166 @@
+
+<div class="container">
+  <ng-container *ngVar="(scope$ | async) as scope">
+    <h2 *ngIf="scope"
+        class="header"
+        id="{{ scope.id }}">
+      {{ 'statistics.header' | translate: { scope: getName(scope) } }}
+    </h2>
+  </ng-container>
+  <ng-container *ngVar="reports$ | async as reports">
+    <ng-container *ngIf="!reports">
+      <ds-themed-loading></ds-themed-loading>
+    </ng-container>
+    <ng-container *ngIf="reports">
+      <ds-statistics-table *ngFor="let report of reports"
+                           [report]="report"
+                           class="m-2 {{ report.id }}">
+      </ds-statistics-table>
+      <div *ngIf="!(hasData$ | async)">
+        {{ 'statistics.page.no-data' | translate }}
+      </div>
+    </ng-container>
+  </ng-container>
+  <ngb-accordion #a="ngbAccordion" activeIds="custom-panel-1">
+    <ngb-panel>
+      <ng-template ngbPanelHeader let-opened="opened">
+        <div class="w-100">
+          <div class="accordion-button custom-header" [class.collapsed]="!opened">
+            <button ngbPanelToggle class="p-0 btn btn-link container-fluid text-start ps-0">
+              <div class="w-100 d-flex justify-content-between collapse-toggle">
+                Site Dashboard
+                <div class="text-right d-flex">
+                  <div class="ml-3 d-inline-block">
+                    <span *ngIf="!opened" class="fas fa-chevron-down fa-fw"></span>
+                    <span *ngIf="opened" class="fas fa-chevron-up fa-fw"></span>
+                  </div>
+                </div>
+              </div>
+            </button>
+          </div>
+        </div>
+      </ng-template>
+      <ng-template ngbPanelContent>
+        <div class="row" *ngIf="ActiveViewers && ActiveViewersLM && ScreenPageViews && ScreenPageViewsLM && Sessions && SessionsLM">
+          <div class="col-lg-4 col-md-6 mb-4" *ngIf="ActiveViewers && ActiveViewersLM">
+            <div class="card">
+              <div class="card-body">
+                <p class="text-uppercase small mb-2">
+                  <strong>ACTIVE USERS</strong>
+                </p>
+                <h5 class="mb-0">
+                  <strong class="pr-2" *ngIf="ActiveViewers && ActiveViewersLM" >{{ActiveViewers}}</strong>
+                  <small class="text-danger ms-2" *ngIf="ActiveViewers < ActiveViewersLM">
+                    <i class="fas fa-arrow-down fa-sm pe-1"></i>{{this.getPercentage(this.ActiveViewersLM, this.ActiveViewers)}}%</small>
+                  <small class="text-success ms-2" *ngIf="ActiveViewers >= ActiveViewersLM">
+                    <i class="fas fa-arrow-up fa-sm pe-1"></i>{{this.getPercentage(this.ActiveViewersLM, this.ActiveViewers)}}%</small>
+                </h5>
+
+                <hr />
+
+                <p class="text-uppercase text-muted small mb-2">
+                  Last Month
+                </p>
+                <h5 *ngIf="ActiveViewersLM" >{{ActiveViewersLM}}</h5>
+              </div>
+            </div>
+            <!-- Card -->
+          </div>
+
+          <div class="col-lg-4 col-md-6 mb-4" *ngIf="ScreenPageViews && ScreenPageViewsLM">
+            <div class="card">
+              <div class="card-body">
+                <p class="text-uppercase small mb-2">
+                  <strong>SCREEN PAGE VIEWS</strong>
+                </p>
+                <h5 class="mb-0">
+                  <strong class="pr-2" *ngIf="ScreenPageViews && ScreenPageViewsLM" >{{ScreenPageViews}}</strong>
+                  <small class="text-danger ms-2" *ngIf="ScreenPageViews < ScreenPageViewsLM">
+                    <i class="fas fa-arrow-down fa-sm pe-1"></i>{{this.getPercentage(this.ScreenPageViewsLM, this.ScreenPageViews)}}%</small>
+                  <small class="text-success ms-2" *ngIf="ScreenPageViews >= ScreenPageViewsLM">
+                    <i class="fas fa-arrow-up fa-sm pe-1"></i>{{this.getPercentage(this.ScreenPageViewsLM, this.ScreenPageViews)}}%</small>
+                </h5>
+                <hr />
+                <p class="text-uppercase text-muted small mb-2">
+                  Last Month
+                </p>
+                <h5 *ngIf="ScreenPageViewsLM" >{{ScreenPageViewsLM}}</h5>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-12 mb-4" *ngIf="Sessions && SessionsLM">
+            <div class="card">
+              <div class="card-body">
+                <p class="text-uppercase small mb-2">
+                  <strong>SESSIONS</strong>
+                </p>
+                <h5 class="mb-0">
+                  <strong class="pr-2" *ngIf="Sessions && SessionsLM" >{{Sessions}}</strong>
+                  <small class="text-danger ms-2" *ngIf="Sessions < SessionsLM">
+                    <i class="fas fa-arrow-down fa-sm pe-1"></i>{{this.getPercentage(this.SessionsLM, this.Sessions)}}%</small>
+                  <small class="text-success ms-2" *ngIf="Sessions >= SessionsLM">
+                    <i class="fas fa-arrow-up fa-sm pe-1"></i>{{this.getPercentage(this.SessionsLM, this.Sessions)}}%</small>
+                </h5>
+
+                <hr />
+
+                <p class="text-uppercase text-muted small mb-2">
+                  Last Month
+                </p>
+                <h5 *ngIf="SessionsLM" >{{SessionsLM}}</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row pt-5">
+          <div class="col-lg-6 col-md-12 mb-4">
+            <ds-bar-page></ds-bar-page>
+          </div>
+          <div class="col-lg-6 col-md-12 mb-4">
+            <ds-pie-page></ds-pie-page>
+          </div>
+          <div class="col-lg-12 col-md-12 mb-4">
+            <ds-piegrid-page></ds-piegrid-page>
+          </div>
+        </div>
+        <ds-browseros-page></ds-browseros-page>
+        <ds-linechart-page></ds-linechart-page>
+        <div *ngIf="RealtimeRes.length != 0">
+          <div class="text-center justify-content-center">
+            <p class="text-uppercase small mb-2">
+              <strong>Realtime Statistics</strong>
+            </p>
+          </div>
+          <table *ngIf="RealtimeRes.length != 0" class="table align-middle mb-0 bg-white">
+
+            <thead class="bg-light">
+            <tr >
+              <!--      <th>#</th>-->
+              <th>Country</th>
+              <th>City</th>
+              <th>Active Users</th>
+            </tr>
+            </thead>
+            <ng-container *ngFor="let data of RealtimeRes">
+              <tbody>
+              <tr>
+                <td>
+                  <p class="fw-normal mb-1">{{data.dimensionValues[0].value}}</p>
+                </td>
+                <td>
+                  <p class="fw-normal mb-1">{{data.dimensionValues[1].value}}</p>
+                </td>
+                <td>
+                  <p class="fw-normal mb-1">{{data.metricValues[0].value}}</p>
+                </td>
+              </tr>
+              </tbody>
+            </ng-container>
+          </table>
+        </div>
+      </ng-template>
+    </ngb-panel>
+  </ngb-accordion>
+</div>
+

@@ -1,0 +1,13 @@
+a{
+    color:#DA1212;
+}
+a:hover, a:focus{
+    color:#DA1212;
+}
+a:focus, a.focus {
+    text-decoration: underline;
+    box-shadow: none;
+}
+a:disabled{
+    color:#DA1212;
+}

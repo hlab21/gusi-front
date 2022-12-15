@@ -1,0 +1,3374 @@
+{
+
+  "repository.title.prefixDSpace": "Gusi ::",
+
+  "collection.edit.item-mapper-search-form.placeholder": "Pesquisar Item a Mapear...",
+
+  "idle.modal.header": "A sua sessão está prestes a expirar!",
+
+  "idle.modal.info": "A sua sessão está prestes a expirar, pretende sair ou continuar a sessão?",
+
+  "idle.modal.log-out": "Sair",
+
+  "idle.modal.extend-session": "Continuar a Sessão",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isProjectOfPublication.added.new-entity": "Nova Entidade Adicionada!",
+
+  "item.preview.project.funder.name": "Financiador",
+
+  "item.preview.project.funder.identifier": "Identificador do Financiador",
+
+  "item.preview.oaire.awardNumber": "ID de Financiamento",
+
+  "item.preview.dc.title.alternative": "Acrónimo",
+
+  "item.preview.dc.coverage.spatial": "Jurisdição",
+
+  "item.preview.oaire.fundingStream": "Linha de Financiamento",
+
+  "submission.import-external.source.openAIREFunding": "Financiamento API OpenAIRE",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.isProjectOfPublication": "Projeto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isProjectOfPublication.title": "Projeto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.openAIREFunding": "Financiamento API OpenAIRE",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.openAIREFunding": "Financiamento API OpenAIRE",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.openAIREFunding": "Financiamento API OpenAIRE",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isProjectOfPublication": "Projeto",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isProjectOfPublication": "Projetos",
+
+  "submission.sections.describe.relationship-lookup.title.isProjectOfPublication": "Projetos",
+
+  "relationships.isContributorOf.OrgUnit": "Contribuidor (Unidade organizacional)",
+
+  "relationships.isContributorOf.Person": "Contribuidor",
+
+  "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfProject": "Financiador de Projeto",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfProject": "Financiador de Projeto",
+
+  "relationships.isFundingAgencyOf.OrgUnit": "Financiador",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Pesquisar...",
+
+  "submission.general.info.saved": "Informação Guardada",
+
+  "bitstream.edit.authorizations.link": "Editar Polítcas de Ficheiros",
+
+  "bitstream.edit.return": "Voltar",
+
+  "submission.edit.breadcrumbs": "Editar Submissão",
+
+  "search.filters.filter.subject.label": "Pesquisar Assunto",
+
+  "search.filters.filter.entityType.label": "Pesquisar Tipo",
+
+  "search.filters.filter.author.label": "Pesquisar Autor",
+
+  "sorting.dc.date.accessioned.ASC": "Data de Disponibilização Ascendente",
+
+  "sorting.dc.date.accessioned.DESC": "Data de Disponibilização Descendente",
+
+  "search.search-form.placeholder": "Pesquisar ...",
+
+  "item.edit.item-mapper.search-form.placeholder": "Pesquisar coleções...",
+
+  "item.edit.return": "Voltar",
+
+  "repository.title.prefix": "DSpace ::",
+
+  "thumbnail.person.placeholder": "Sem Fotografia de Perfil",
+
+  "admin.access-control.groups.breadcrumbs": "Grupos",
+
+  "admin.access-control.groups.search.placeholder": "Pesquisar Grupos...",
+
+  "admin.access-control.epeople.breadcrumbs": "Utilizador",
+
+  "admin.access-control.epeople.search.placeholder": "Pesquisar Utilizadores...",
+
+  "admin.access-control.epeople.form.return": "Voltar",
+
+  "submission.submit.breadcrumbs": "Nova Submissão",
+
+  "search.filters.filter.namedresourcetype.label": "Pesquisar Estado",
+
+  "sorting.dc.date.issued.ASC": "Data de Publicação Ascendente",
+
+  "sorting.dc.date.issued.DESC": "Data de Publicação Descendente",
+
+  "sorting.score.ASC": "Menos Relevante",
+
+  "search.filters.filter.dateIssued.min.label": "Início",
+
+  "search.filters.filter.dateIssued.max.label": "Fim",
+
+  "search.filters.search.submit": "Enviar",
+
+  "default.search.results.head": "Resultados da Pesquisa",
+
+  "communityList.breadcrumbs": "Lista de Comunidades",
+
+  "browse.previous.button": "Anterior",
+
+  "browse.next.button": "Próximo",
+
+  "pagination.options.description": "Opções de Paginação",
+
+  "mydspace.breadcrumbs": "Área Pessoal",
+
+  "thumbnail.default.placeholder": "Sem Miniatura",
+
+  "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Pesquisar ...",
+
+  "home.search-form.placeholder": "Pesquisar ...",
+
+  "mydspace.search-form.placeholder": "Pesquisar na Área Pessoal ...",
+
+  "401.help": "Não está autorizado a aceder a esta página. Use o botão abaixo para regressar à página inicial.",
+
+  "401.link.home-page": "Regresso à página inicial",
+
+  "401.unauthorized": "Não Autorizado",
+
+  "403.help": "Não está autorizado a aceder a esta página. Use o botão abaixo para regressar à página inicial.",
+
+  "403.link.home-page": "Regresso à página inicial",
+
+  "403.forbidden": "Não Autorizado",
+
+  "404.help": "Não pudemos encontrar a página pela qual procura. A página pode ter sido movida ou apagada. Você pode utilizar o botão abaixo para voltar a página inicial. ",
+
+  "404.link.home-page": "Leve-me a página inicial",
+
+  "404.page-not-found": "Página não encontrada",
+
+  "admin.curation-tasks.breadcrumbs": "Tarefas de Curadoria",
+
+  "admin.curation-tasks.title": "Tarefas de Curadoria",
+
+  "admin.curation-tasks.header": "Tarefas de Curadoria",
+
+  "admin.registries.bitstream-formats.breadcrumbs": "Registo de Formatos de Ficheiro",
+
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Registo de Formatos de Ficheiro",
+
+  "admin.registries.bitstream-formats.create.failure.content": "Um erro ocorreu durante a criação do novo formato de ficheiro.",
+
+  "admin.registries.bitstream-formats.create.failure.head": "Falha",
+
+  "admin.registries.bitstream-formats.create.head": "Criar formato de Ficheiro",
+
+  "admin.registries.bitstream-formats.create.new": "Adicionar um novo formato de ficheiro",
+
+  "admin.registries.bitstream-formats.create.success.content": "O novo formato de ficheiro foi criado com sucesso.",
+
+  "admin.registries.bitstream-formats.create.success.head": "Sucesso",
+
+  "admin.registries.bitstream-formats.delete.failure.amount": "Falha ao remover {{ amount }} formato(s)",
+
+  "admin.registries.bitstream-formats.delete.failure.head": "Falha",
+
+  "admin.registries.bitstream-formats.delete.success.amount": "Removeu {{ amount }} formato(s) com sucesso",
+
+  "admin.registries.bitstream-formats.delete.success.head": "Sucesso",
+
+  "admin.registries.bitstream-formats.description": "Esta lista de formatos de ficheiro apresenta informações sobre formatos de ficheiros conhecidos e os seus níveis de suporte.",
+
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Formatos de Ficheiro",
+
+  "admin.registries.bitstream-formats.edit.description.hint": "",
+
+  "admin.registries.bitstream-formats.edit.description.label": "Descrição",
+
+  "admin.registries.bitstream-formats.edit.extensions.hint": "Extensões são extensões de ficheiro que são usadas para identificar automaticamente o formato dos ficheiros enviados. Pode informar várias extensões para cada formato.",
+
+  "admin.registries.bitstream-formats.edit.extensions.label": "Extensões de ficheiro",
+
+  "admin.registries.bitstream-formats.edit.extensions.placeholder": "Indique uma extenção de ficheiro sem o ponto",
+
+  "admin.registries.bitstream-formats.edit.failure.content": "Ocorreu um erro ao editar o formato de bitstream.",
+
+  "admin.registries.bitstream-formats.edit.failure.head": "Falha",
+
+  "admin.registries.bitstream-formats.edit.head": "Formato de bitstream: {{ format }}",
+
+  "admin.registries.bitstream-formats.edit.internal.hint": "Formatos marcados como internos são ocultos para o Utilizador, usados por motivos administrativos.",
+
+  "admin.registries.bitstream-formats.edit.internal.label": "Interno",
+
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "O MIME type associado a este formato não tem que ser único.",
+
+  "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
+
+  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Um nome único para este formato (exemplo. Microsoft Word XP ou Microsoft Word 2000)",
+
+  "admin.registries.bitstream-formats.edit.shortDescription.label": "Nome",
+
+  "admin.registries.bitstream-formats.edit.success.content": "O formato de bitstream foi editado com sucesso.",
+
+  "admin.registries.bitstream-formats.edit.success.head": "Sucesso",
+
+  "admin.registries.bitstream-formats.edit.supportLevel.hint": "O nível de suporte que a sua instituição promete para este formato.",
+
+  "admin.registries.bitstream-formats.edit.supportLevel.label": "Nível de suporte",
+
+  "admin.registries.bitstream-formats.head": "Registo de Formato de Ficheiro",
+
+  "admin.registries.bitstream-formats.no-items": "Nenhum formato de bitstream para exibir.",
+
+  "admin.registries.bitstream-formats.table.delete": "Apagar selecionado(s)",
+
+  "admin.registries.bitstream-formats.table.deselect-all": "Desselecionar todos",
+
+  "admin.registries.bitstream-formats.table.internal": "Interno",
+
+  "admin.registries.bitstream-formats.table.mimetype": "MIME Type",
+
+  "admin.registries.bitstream-formats.table.name": "Nome",
+
+  "admin.registries.bitstream-formats.table.return": "Voltar",
+
+  "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Conhecido",
+
+  "admin.registries.bitstream-formats.table.supportLevel.SUPPORTED": "Com suporte",
+
+  "admin.registries.bitstream-formats.table.supportLevel.UNKNOWN": "Desconhecido",
+
+  "admin.registries.bitstream-formats.table.supportLevel.head": "Nível de Suporte",
+
+  "admin.registries.bitstream-formats.title": "DSpace :: Registo de Formato de Ficheiro",
+
+  "admin.registries.metadata.breadcrumbs": "Registo de Metadados",
+
+  "admin.registries.metadata.description": "O registo de metadados mantém a lista de todos os campos de metadados disponíveis no repositório. Estes campos podem ser divididos em multiplos esquemas. No entanto, o DSpace requer esquemas de Dublin Core qualificados.",
+
+  "admin.registries.metadata.form.create": "Criar Esquema de Metadados",
+
+  "admin.registries.metadata.form.edit": "Editar esquema de metadados",
+
+  "admin.registries.metadata.form.name": "Nome",
+
+  "admin.registries.metadata.form.namespace": "Namespace",
+
+  "admin.registries.metadata.head": "Registo de Metadados",
+
+  "admin.registries.metadata.schemas.no-items": "Nenhum esquema de metadados para mostrar.",
+
+  "admin.registries.metadata.schemas.table.delete": "Apagar selecionado(s)",
+
+  "admin.registries.metadata.schemas.table.id": "ID",
+
+  "admin.registries.metadata.schemas.table.name": "Nome",
+
+  "admin.registries.metadata.schemas.table.namespace": "Namespace",
+
+  "admin.registries.metadata.title": "DSpace :: Registo de Metadados",
+
+  "admin.registries.schema.breadcrumbs": "Esquema de Metadados",
+
+  "admin.registries.schema.description": "Este é o esquema de metadados para \"{{namespace}}\".",
+
+  "admin.registries.schema.fields.head": "Campos do Esquema de Metadados",
+
+  "admin.registries.schema.fields.no-items": "Nenhum campo de metadado para exibir.",
+
+  "admin.registries.schema.fields.table.delete": "Apagar selecionado(s)",
+
+  "admin.registries.schema.fields.table.field": "Campo",
+
+  "admin.registries.schema.fields.table.scopenote": "Descrição",
+
+  "admin.registries.schema.form.create": "Criar Elemento de Metadado",
+
+  "admin.registries.schema.form.edit": "Editar Campo de Metadados",
+
+  "admin.registries.schema.form.element": "Elemento",
+
+  "admin.registries.schema.form.qualifier": "Qualificador",
+
+  "admin.registries.schema.form.scopenote": "Nota de Âmbito",
+
+  "admin.registries.schema.head": "Esquema de Metadados",
+
+  "admin.registries.schema.notification.created": "Criou o esquema de metadados \"{{prefix}}\" com sucesso",
+
+  "admin.registries.schema.notification.deleted.failure": "Falhou ao apagar {{amount}} esquema(s) de metadados",
+
+  "admin.registries.schema.notification.deleted.success": "Apagou {{amount}} esquema(s) de metadados com sucesso",
+
+  "admin.registries.schema.notification.edited": "Editou o esquema de metadados \"{{prefix}}\" com sucesso",
+
+  "admin.registries.schema.notification.failure": "Erro",
+
+  "admin.registries.schema.notification.field.created": "Criou o campo de metadado \"{{field}}\" com sucesso",
+
+  "admin.registries.schema.notification.field.deleted.failure": "Falhou ao apagar {{amount}} campo(s) de metadados",
+
+  "admin.registries.schema.notification.field.deleted.success": "Apagou {{amount}} campo(s) de metadados com sucesso",
+
+  "admin.registries.schema.notification.field.edited": "Editou o campo de metadodo \"{{field}}\" com sucesso",
+
+  "admin.registries.schema.notification.success": "Sucesso",
+
+  "admin.registries.schema.return": "Voltar",
+
+  "admin.registries.schema.title": "DSpace :: Registo de Esquema de Metadados",
+
+  "admin.access-control.epeople.actions.delete": "Apagar Utilizador",
+
+  "admin.access-control.epeople.actions.impersonate": "Assumir o papel do Utilizador",
+
+  "admin.access-control.epeople.actions.reset": "Redefinir password",
+
+  "admin.access-control.epeople.actions.stop-impersonating": "Deixar de assumir o papel do Utilizador",
+
+  "admin.access-control.epeople.title": "DSpace :: Utilizador",
+
+  "admin.access-control.epeople.head": "Utilizador",
+
+  "admin.access-control.epeople.search.head": "Pesquisar",
+
+  "admin.access-control.epeople.button.see-all": "Pesquisar Todos",
+
+  "admin.access-control.epeople.search.scope.metadata": "Metadados",
+
+  "admin.access-control.epeople.search.scope.email": "Email (exato)",
+
+  "admin.access-control.epeople.search.button": "Pesquisar",
+
+  "admin.access-control.epeople.button.add": "Adicionar Utilizador",
+
+  "admin.access-control.epeople.table.id": "ID",
+
+  "admin.access-control.epeople.table.name": "Nome",
+
+  "admin.access-control.epeople.table.email": "Email (exato)",
+
+  "admin.access-control.epeople.table.edit": "Editar",
+
+  "admin.access-control.epeople.table.edit.buttons.edit": "Editar \"{{name}}\"",
+
+  "admin.access-control.epeople.table.edit.buttons.remove": "Apagar \"{{name}}\"",
+
+  "admin.access-control.epeople.no-items": "Sem Utilizadores para mostrar.",
+
+  "admin.access-control.epeople.form.create": "Criar Utilizador",
+
+  "admin.access-control.epeople.form.edit": "Editar Utilizador",
+
+  "admin.access-control.epeople.form.firstName": "Nome",
+
+  "admin.access-control.epeople.form.lastName": "Apelido",
+
+  "admin.access-control.epeople.form.email": "Email",
+
+  "admin.access-control.epeople.form.emailHint": "Deve conter um email válido",
+
+  "admin.access-control.epeople.form.canLogIn": "Pode iniciar sessão",
+
+  "admin.access-control.epeople.form.requireCertificate": "Requer certificado",
+
+  "admin.access-control.epeople.form.notification.created.success": "Utilizador criado com sucesso \"{{name}}\"",
+
+  "admin.access-control.epeople.form.notification.created.failure": "Falha ao criar o Utilizador \"{{name}}\"",
+
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Falha ao criar o Utilizador \"{{name}}\", o email \"{{email}}\" já está registado no repositório.",
+
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Falha ao editar o Utilizador \"{{name}}\", o email \"{{email}}\" já está registado no repositório.",
+
+  "admin.access-control.epeople.form.notification.edited.success": "Utilizador editado com successo \"{{name}}\"",
+
+  "admin.access-control.epeople.form.notification.edited.failure": "Falha ao editor Utilizador \"{{name}}\"",
+
+  "admin.access-control.epeople.form.notification.deleted.success": "Utilizador apagado com sucesso \"{{name}}\"",
+
+  "admin.access-control.epeople.form.notification.deleted.failure": "Falha ao apagar Utilizador \"{{name}}\"",
+
+  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Membro dos grupos:",
+
+  "admin.access-control.epeople.form.table.id": "ID",
+
+  "admin.access-control.epeople.form.table.name": "Nome",
+
+  "admin.access-control.epeople.form.memberOfNoGroups": "Este Utilizador não é membro de nenhum grupo",
+
+  "admin.access-control.epeople.form.goToGroups": "Adicionar a grupos",
+
+  "admin.access-control.epeople.notification.deleted.failure": "Falha ao apagar Utilizador: \"{{name}}\"",
+
+  "admin.access-control.epeople.notification.deleted.success": "Utilizador apagado com sucesso: \"{{name}}\"",
+
+  "admin.access-control.groups.title": "DSpace :: Grupos",
+
+  "admin.access-control.groups.title.singleGroup": "DSpace :: Editar Grupo",
+
+  "admin.access-control.groups.title.addGroup": "DSpace :: Novo Grupo",
+
+  "admin.access-control.groups.head": "Grupos",
+
+  "admin.access-control.groups.button.add": "Adicionar grupo",
+
+  "admin.access-control.groups.search.head": "Pesquisar grupos",
+
+  "admin.access-control.groups.button.see-all": "Percorrer todos",
+
+  "admin.access-control.groups.search.button": "Pesquisar",
+
+  "admin.access-control.groups.table.id": "ID",
+
+  "admin.access-control.groups.table.name": "Nome",
+
+  "admin.access-control.groups.table.members": "Membros",
+
+  "admin.access-control.groups.table.edit": "Editar",
+
+  "admin.access-control.groups.table.edit.buttons.edit": "Editar \"{{name}}\"",
+
+  "admin.access-control.groups.table.edit.buttons.remove": "Apagar \"{{name}}\"",
+
+  "admin.access-control.groups.no-items": "Não foram encontrados grupos através do nome ou o UUID",
+
+  "admin.access-control.groups.notification.deleted.success": "Grupo apagado com sucesso \"{{name}}\"",
+
+  "admin.access-control.groups.notification.deleted.failure.title": "Falha ao apagar grupo \"{{name}}\"",
+
+  "admin.access-control.groups.notification.deleted.failure.content": "Causa: \"{{cause}}\"",
+
+  "admin.access-control.groups.form.alert.permanent": "Este grupo é permanente, não pode ser editado ou apagado. Pode adicionar ou remover membros do grupo nesta página.",
+
+  "admin.access-control.groups.form.alert.workflowGroup": "Este grupo não pode ser editado ou apagado porque corresponde a um papel no workflow de submissão em \"{{name}}\" {{comcol}}. Pode apagá-lo na aba <a href='{{comcolEditRolesRoute}}'>\"Atribuir Papéis\"</a> na edição da página {{comcol}}. Pode adicionar ou remover membros nesta página.",
+
+  "admin.access-control.groups.form.head.create": "Criar grupo",
+
+  "admin.access-control.groups.form.head.edit": "Editar grupo",
+
+  "admin.access-control.groups.form.groupName": "Nome do grupo",
+
+  "admin.access-control.groups.form.groupDescription": "Descrição",
+
+  "admin.access-control.groups.form.notification.created.success": "Grupo criado com sucesso \"{{name}}\"",
+
+  "admin.access-control.groups.form.notification.created.failure": "Falha ao criar grupo \"{{name}}\"",
+
+  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Falha ao criar o grupo com o nome: \"{{name}}\", verifique se o nome do grupo já está a ser utilizado.",
+
+  "admin.access-control.groups.form.notification.edited.failure": "Falha ao editar grupo \"{{name}}\"",
+
+  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Nome \"{{name}}\" já utilizado!",
+
+  "admin.access-control.groups.form.notification.edited.success": "Grupo editado com sucesso \"{{name}}\"",
+
+  "admin.access-control.groups.form.actions.delete": "Apagar grupo",
+
+  "admin.access-control.groups.form.delete-group.modal.header": "Apagar grupo \"{{ dsoName }}\"",
+
+  "admin.access-control.groups.form.delete-group.modal.info": "Pretende mesmo apagar o grupo \"{{ dsoName }}\"",
+
+  "admin.access-control.groups.form.delete-group.modal.cancel": "Cancelar",
+
+  "admin.access-control.groups.form.delete-group.modal.confirm": "Apagar",
+
+  "admin.access-control.groups.form.notification.deleted.success": "Grupo apagado com sucesso \"{{ name }}\"",
+
+  "admin.access-control.groups.form.notification.deleted.failure.title": "Falha ao apagar grupo \"{{ name }}\"",
+
+  "admin.access-control.groups.form.notification.deleted.failure.content": "Causa: \"{{ cause }}\"",
+
+  "admin.access-control.groups.form.members-list.head": "Utilizador",
+
+  "admin.access-control.groups.form.members-list.search.head": "Adicionar Utilizador",
+
+  "admin.access-control.groups.form.members-list.button.see-all": "Percorrer TODOS",
+
+  "admin.access-control.groups.form.members-list.headMembers": "Membros atuais",
+
+  "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadados",
+
+  "admin.access-control.groups.form.members-list.search.scope.email": "Email (exato)",
+
+  "admin.access-control.groups.form.members-list.search.button": "Pesquisar",
+
+  "admin.access-control.groups.form.members-list.table.id": "ID",
+
+  "admin.access-control.groups.form.members-list.table.name": "Nome",
+
+  "admin.access-control.groups.form.members-list.table.edit": "Remover / Adicionar",
+
+  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remover o membro com nome \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.success.addMember": "Membro adicionado com sucesso: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Falha ao adicionar membro: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Membro apagado com sucesso: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Falha ao apagar membro: \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Adicionar membro com o nome \"{{name}}\"",
+
+  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "Sem grupos ativos, indique um nome primeiro.",
+
+  "admin.access-control.groups.form.members-list.no-members-yet": "Grupo sem membros, pesquise e adicione novos membros.",
+
+  "admin.access-control.groups.form.members-list.no-items": "Não foram encontrados Utilizadores nesta pesquisa",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure": "Algo correu mal: \"{{cause}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.head": "Grupos",
+
+  "admin.access-control.groups.form.subgroups-list.search.head": "Adicionar um subgrupo",
+
+  "admin.access-control.groups.form.subgroups-list.button.see-all": "Percorrer Todos",
+
+  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Subgrupos atuais",
+
+  "admin.access-control.groups.form.subgroups-list.search.button": "Pesquisar",
+
+  "admin.access-control.groups.form.subgroups-list.table.id": "ID",
+
+  "admin.access-control.groups.form.subgroups-list.table.name": "Nome",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit": "Remover / Adicionar",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remover subgrupo com o nome \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Adicionar subgrupo com o nome \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Grupo atual",
+
+  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Subgrupo adicionado com sucesso: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Falha ao adicionar subgrupo: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Subgrupo apagado com sucesso: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Falha ao apagar subgrupo: \"{{name}}\"",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "Sem grupo ativo, indique um nome primeiro.",
+
+  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "Este é o grupo atual, não pode ser adicionado.",
+
+  "admin.access-control.groups.form.subgroups-list.no-items": "Não foram encontrados grupos com este nome ou UUID",
+
+  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "Este grupo não tem ainda subgrupos.",
+
+  "admin.access-control.groups.form.return": "Retornar aos grupos",
+
+  "admin.search.breadcrumbs": "Pesquisa administrativa",
+
+  "admin.search.collection.edit": "Editar",
+
+  "admin.search.community.edit": "Editar",
+
+  "admin.search.item.delete": "Apagar",
+
+  "admin.search.item.edit": "Editar",
+
+  "admin.search.item.make-private": "Tornar Privado",
+
+  "admin.search.item.make-public": "Tornar Público",
+
+  "admin.search.item.move": "Mover",
+
+  "admin.search.item.reinstate": "Reintegrar",
+
+  "admin.search.item.withdraw": "Retirar",
+
+  "admin.search.title": "Pesquisa Administrativa",
+
+  "administrativeView.search.results.head": "Pesquisa Administrativa",
+
+  "admin.workflow.breadcrumbs": "Gestão do Workflow",
+
+  "admin.workflow.title": "Gestão do Workflow",
+
+  "admin.workflow.item.workflow": "Workflow",
+
+  "admin.workflow.item.delete": "Apagar",
+
+  "admin.workflow.item.send-back": "Devolver",
+
+  "admin.metadata-import.breadcrumbs": "Importação de Metadados",
+
+  "admin.metadata-import.title": "Importação de Metadados",
+
+  "admin.metadata-import.page.header": "Importação de Metadados",
+
+  "admin.metadata-import.page.help": "Pode arrastar ou procurar ficheiros CSV que contenham operações em lote de metadados",
+
+  "admin.metadata-import.page.dropMsg": "Arraste um ficheiro CSV com metadados para importar",
+
+  "admin.metadata-import.page.dropMsgReplace": "Arraste um ficheiro CSV para substituir o atual",
+
+  "admin.metadata-import.page.button.return": "Voltar",
+
+  "admin.metadata-import.page.button.proceed": "Continuar",
+
+  "admin.metadata-import.page.error.addFile": "Selecione um ficheiro!",
+
+  "auth.errors.invalid-user": "Endereço de email ou palavra-chave inválidos.",
+
+  "auth.messages.expired": "Sua sessão expirou. Por favor entre novamente.",
+
+  "bitstream.edit.bitstream": "Ficheiros: ",
+
+  "bitstream.edit.form.description.hint": "Opcionalmente, pode indicar uma breve descrição do ficheiro, por exemplo \"<i>Texto Principal</i>\" ou \"<i>Dados da experiência</i>\".",
+
+  "bitstream.edit.form.description.label": "Descrição",
+
+  "bitstream.edit.form.embargo.hint": "O primeiro dia a partir do qual o acesso é permitido. <b>A data não pode ser alterada neste formulário.</b> Para definir uma data de embargo para um ficheiro, vá à aba <i>Estdo do Item</i>, clique em <i>Autorizações...</i>, crie ou edite a política <i>READ</i> do ficheiro, e definda uma <i>Data de Início</i>.",
+
+  "bitstream.edit.form.embargo.label": "Embargo até uma data específica",
+
+  "bitstream.edit.form.fileName.hint": "Altere o nome do ficheiro. Isto vai alterar o endereço de apresentação do ficheiro, mas o link antigo redireciona para o novo desde que não seja alterada a sequência dos identificadores.",
+
+  "bitstream.edit.form.fileName.label": "Nome do ficheiro",
+
+  "bitstream.edit.form.newFormat.label": "Descreva o novo formato",
+
+  "bitstream.edit.form.newFormat.hint": "A aplicação usada para criar o ficheiro e a respetiva versão (por exemplo, \"<i>ACMESoft SuperApp versão 1.5</i>\").",
+
+  "bitstream.edit.form.primaryBitstream.label": "Ficheiro primário",
+
+  "bitstream.edit.form.selectedFormat.hint": "Se o formato não está na lista abaixo, <b>escolha \"Formato não está na lista\" </b> e desreva-o em \"Descreva o novo formato\".",
+
+  "bitstream.edit.form.selectedFormat.label": "Formato Selecionado",
+
+  "bitstream.edit.form.selectedFormat.unknown": "Formato não está na lista",
+
+  "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao guardar o formto do ficheiro",
+
+  "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
+
+  "bitstream.edit.notifications.saved.title": "Ficheiro guardado",
+
+  "bitstream.edit.title": "Editar ficheiro",
+
+  "browse.comcol.by.author": "Por Autor",
+
+  "browse.comcol.by.dateissued": "Por Data de Publicação",
+
+  "browse.comcol.by.subject": "Por Assunto",
+
+  "browse.comcol.by.title": "Por Título",
+
+  "browse.comcol.head": "Navegar",
+
+  "browse.empty": "Sem itens a exibir.",
+
+  "browse.metadata.author": "Autor",
+
+  "browse.metadata.dateissued": "Data de Publicação",
+
+  "browse.metadata.subject": "Assunto",
+
+  "browse.metadata.title": "Título",
+
+  "browse.metadata.author.breadcrumbs": "Pesquisar por Autor",
+
+  "browse.metadata.dateissued.breadcrumbs": "Pesquisar por Data",
+
+  "browse.metadata.subject.breadcrumbs": "Pesquisar por Assunto",
+
+  "browse.metadata.title.breadcrumbs": "Pesquisar por Título",
+
+  "browse.startsWith.choose_start": "(Escolha o início)",
+
+  "browse.startsWith.choose_year": "(Escolha o ano)",
+
+  "browse.startsWith.jump": "Pular para um ponto do índice:",
+
+  "browse.startsWith.months.april": "Abril",
+
+  "browse.startsWith.months.august": "Agosto",
+
+  "browse.startsWith.months.december": "Dezembro",
+
+  "browse.startsWith.months.february": "Fevereiro",
+
+  "browse.startsWith.months.january": "Janeiro",
+
+  "browse.startsWith.months.july": "Julho",
+
+  "browse.startsWith.months.june": "Junho",
+
+  "browse.startsWith.months.march": "Março",
+
+  "browse.startsWith.months.may": "Maio",
+
+  "browse.startsWith.months.none": "(escolha o mês)",
+
+  "browse.startsWith.months.november": "Novembro",
+
+  "browse.startsWith.months.october": "Outubro",
+
+  "browse.startsWith.months.september": "Setembro",
+
+  "browse.startsWith.submit": "Pesquisar",
+
+  "browse.startsWith.type_date": "Ou indique uma data (ano-mês):",
+
+  "browse.startsWith.type_text": "Ou indique as primeiras letras:",
+
+  "browse.title": "Percorrer {{ collection }} por {{ field }} {{ value }}",
+
+  "chips.remove": "Remover chip",
+
+  "collection.create.head": "Criar uma coleção",
+
+  "collection.create.notifications.success": "Coleção criado com sucesso",
+
+  "collection.create.sub-head": "Criar uma Coleção na Comunidade {{ parent }}",
+
+  "collection.curate.header": "Curadoria da coleção: {{collection}}",
+
+  "collection.delete.cancel": "Cancelar",
+
+  "collection.delete.confirm": "Confirmar",
+
+  "collection.delete.head": "Apagar Coleção",
+
+  "collection.delete.notification.fail": "Coleção não pôde ser apagada",
+
+  "collection.delete.notification.success": "Apagou a coleção com sucesso",
+
+  "collection.delete.text": "Você tem certeza que deseja apagar a coleção \"{{ dso }}?\"",
+
+  "collection.edit.delete": "Apagar esta coleção",
+
+  "collection.edit.head": "Editar Coleção",
+
+  "collection.edit.breadcrumbs": "Editar Coleção",
+
+  "collection.edit.tabs.mapper.head": "Mapeamentos",
+
+  "collection.edit.tabs.item-mapper.title": "Editar Coleção - Mapeamentos",
+
+  "collection.edit.item-mapper.cancel": "Cancelar",
+
+  "collection.edit.item-mapper.collection": "Coleção: \"<b>{{name}}</b>\"",
+
+  "collection.edit.item-mapper.confirm": "Mapear itens selecionados",
+
+  "collection.edit.item-mapper.description": "Esta é a ferramenta de mapeamento de itens que permite aos administradores de coleções mapear itens de outras coleções nesta. Pode pesquisá-los noutras coleções para mapeá-los, ou navegar na lista dos itens atualmente mapeados.",
+
+  "collection.edit.item-mapper.head": "Mapeador de Itens - Mapear itens noutras Coleções",
+
+  "collection.edit.item-mapper.no-search": "Por favor introduza um termo para pesquisar",
+
+  "collection.edit.item-mapper.notifications.map.error.content": "Ocorreu erros ao mapear {{amount}} itens.",
+
+  "collection.edit.item-mapper.notifications.map.error.head": "Erros de mapeamento",
+
+  "collection.edit.item-mapper.notifications.map.success.content": "Mapeou {{amount}} itens com sucesso.",
+
+  "collection.edit.item-mapper.notifications.map.success.head": "Mapeamento completo",
+
+  "collection.edit.item-mapper.notifications.unmap.error.content": "Ocorreram erros ao tentar remover os mapeamentos de {{amount}} item(ns).",
+
+  "collection.edit.item-mapper.notifications.unmap.error.head": "Erros de remoção de mapeamento",
+
+  "collection.edit.item-mapper.notifications.unmap.success.content": "Removeu os mapeamentps de {{amount}} item(ns) com sucesso.",
+
+  "collection.edit.item-mapper.notifications.unmap.success.head": "Remoção de mapeamentos completa",
+
+  "collection.edit.item-mapper.remove": "Remover mapeamentos selecionados",
+
+  "collection.edit.item-mapper.tabs.browse": "Navegar por itens mapeados",
+
+  "collection.edit.item-mapper.tabs.map": "Mapear novos itens",
+
+  "collection.edit.logo.label": "Logotipo da Coleção",
+
+  "collection.edit.logo.notifications.add.error": "Falha ao carregar o logotipo da coleção. Verifique o ficheiro antes de tentar de novo.",
+
+  "collection.edit.logo.notifications.add.success": "O logotipo da coleção foi carregado com sucesso.",
+
+  "collection.edit.logo.notifications.delete.success.title": "Logo removido",
+
+  "collection.edit.logo.notifications.delete.success.content": "O logotipo da coleção foi apagado com sucesso",
+
+  "collection.edit.logo.notifications.delete.error.title": "Erro ao apagar o logotipo",
+
+  "collection.edit.logo.upload": "Arraste um logotipo da coleção para carregar",
+
+  "collection.edit.notifications.success": "Coleção editada com sucesso",
+
+  "collection.edit.return": "Voltar",
+
+  "collection.edit.tabs.curate.head": "Curadoria",
+
+  "collection.edit.tabs.curate.title": "Editar Coleção - Curadoria",
+
+  "collection.edit.tabs.authorizations.head": "Autorizações",
+
+  "collection.edit.tabs.authorizations.title": "Editar Coleção - Autorizações",
+
+  "collection.edit.tabs.metadata.head": "Editar Metadados",
+
+  "collection.edit.tabs.metadata.title": "Editar Coleção - Metadados",
+
+  "collection.edit.tabs.roles.head": "Atribuir Papéis",
+
+  "collection.edit.tabs.roles.title": "Editar Coleção - Papéis",
+
+  "collection.edit.tabs.source.external": "Esta coleção agrega conteúdo de uma fonte externa",
+
+  "collection.edit.tabs.source.form.errors.oaiSource.required": "Deve indicar o identificador da coleção a ser agregado (set).",
+
+  "collection.edit.tabs.source.form.harvestType": "Os conteúdo estão a ser agregados",
+
+  "collection.edit.tabs.source.form.head": "Configure uma fonte externa",
+
+  "collection.edit.tabs.source.form.metadataConfigId": "Formato de Metadados",
+
+  "collection.edit.tabs.source.form.oaiSetId": "ID do set OAI-PMH",
+
+  "collection.edit.tabs.source.form.oaiSource": "Endereço OAI-PMH base",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_BITSTREAMS": "Agregar metadados e ficheiros (requer suporet ORE)",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_AND_REF": "Agregar metadados e referência aos ficheiros (requer suporte ORE)",
+
+  "collection.edit.tabs.source.form.options.harvestType.METADATA_ONLY": "Agregar apenas metadados",
+
+  "collection.edit.tabs.source.head": "Conteúdo fonte",
+
+  "collection.edit.tabs.source.notifications.discarded.content": "As alterações foram ignoradas. Para regravar as alterações clique no botão ´Voltar'",
+
+  "collection.edit.tabs.source.notifications.discarded.title": "Alterações descartadas",
+
+  "collection.edit.tabs.source.notifications.invalid.content": "As suas alterações não foram guardadas. Confirme se todos os campos estão válidos antes de guardar.",
+
+  "collection.edit.tabs.source.notifications.invalid.title": "Metadados inválidos",
+
+  "collection.edit.tabs.source.notifications.saved.content": "As alterações neta coleção foram guardadas.",
+
+  "collection.edit.tabs.source.notifications.saved.title": "Conteúdo fonte guardado",
+
+  "collection.edit.tabs.source.title": "Editar Coleção - Conteúdo fonte",
+
+  "collection.edit.template.add-button": "Adicionar",
+
+  "collection.edit.template.breadcrumbs": "Template do Item",
+
+  "collection.edit.template.cancel": "Cancelar",
+
+  "collection.edit.template.delete-button": "Apagar",
+
+  "collection.edit.template.edit-button": "Editar",
+
+  "collection.edit.template.head": "Editar Modelo do Item para a Coleção \"{{ collection }}\"",
+
+  "collection.edit.template.label": "Modelo do item",
+
+  "collection.edit.template.notifications.delete.error": "Erro ao apagar o template do item",
+
+  "collection.edit.template.notifications.delete.success": "Template do Item apagado com sucesso",
+
+  "collection.edit.template.title": "Editar Modelo do Item",
+
+  "collection.form.abstract": "Descrição curta",
+
+  "collection.form.description": "Texto introdutório (HTML)",
+
+  "collection.form.errors.title.required": "Por favor indique o nome da coleção",
+
+  "collection.form.license": "Licença",
+
+  "collection.form.provenance": "Proveniência",
+
+  "collection.form.rights": "Texto sobre direitos de autor (HTML)",
+
+  "collection.form.tableofcontents": "Notícias (HTML)",
+
+  "collection.form.title": "Nome",
+
+  "collection.listelement.badge": "Coleção",
+
+  "collection.page.browse.recent.head": "Submissões Recentes",
+
+  "collection.page.browse.recent.empty": "Nenhum item a exibir",
+
+  "collection.page.edit": "Editar esta coleção",
+
+  "collection.page.handle": "URI Permanente para esta coleção",
+
+  "collection.page.license": "Licença",
+
+  "collection.page.news": "Notícias",
+
+  "collection.select.confirm": "Confirmar seleção",
+
+  "collection.select.empty": "Nenhuma coleção a mostrar",
+
+  "collection.select.table.title": "Título",
+
+  "collection.source.update.notifications.error.content": "As configurações providenciadas foram testadas mas não funcionam.",
+
+  "collection.source.update.notifications.error.title": "Erro no Servidor",
+
+  "communityList.tabTitle": "DSpace - Lista de Comunidades",
+
+  "communityList.title": "Lista de Comunidades",
+
+  "communityList.showMore": "Mostrar Mais",
+
+  "community.create.head": "Criar uma comunidade",
+
+  "community.create.notifications.success": "Comunidade criada com sucesso",
+
+  "community.create.sub-head": "Criar uma Sub-Comunidade para Comunidade {{ parent }}",
+
+  "community.curate.header": "Curar Comunidade: {{community}}",
+
+  "community.delete.cancel": "Cancelar",
+
+  "community.delete.confirm": "Confirmar",
+
+  "community.delete.head": "Apagar Comunidade",
+
+  "community.delete.notification.fail": "Não foi possível apagar a Comunidade",
+
+  "community.delete.notification.success": "Comunidade apagada com sucesso",
+
+  "community.delete.text": "Você tem certeza que quer apagar a comunidade \"{{ dso }}\"?",
+
+  "community.edit.delete": "Apagar esta comunidade",
+
+  "community.edit.head": "Editar Comunidade",
+
+  "community.edit.breadcrumbs": "Editar Comunidade",
+
+  "community.edit.logo.label": "Logo da Comunidade",
+
+  "community.edit.logo.notifications.add.error": "Falha ao carregar o logotipo da comunidade. Verifique o conteúdo antes de tentar de novo.",
+
+  "community.edit.logo.notifications.add.success": "Logotipo da comunindade carregado com sucesso.",
+
+  "community.edit.logo.notifications.delete.success.title": "Logotipo apagado",
+
+  "community.edit.logo.notifications.delete.success.content": "O logotipo da comuindade foi apagado com sucesso",
+
+  "community.edit.logo.notifications.delete.error.title": "Erro ao apagar o logotipo",
+
+  "community.edit.logo.upload": "Arraste um logotipo da comunidade para carregar",
+
+  "community.edit.notifications.success": "Comunidade editada com sucesso",
+
+  "community.edit.notifications.unauthorized": "Não tem os privilégios necessários para efetuar esta alteração",
+
+  "community.edit.notifications.error": "Ocorreu um erro ao editar a comunidade",
+
+  "community.edit.return": "Voltar",
+
+  "community.edit.tabs.curate.head": "Curadoria",
+
+  "community.edit.tabs.curate.title": "Editar Comunidade - Curadoria",
+
+  "community.edit.tabs.metadata.head": "Editar Metadados",
+
+  "community.edit.tabs.metadata.title": "Editar Comunidade - Metadados",
+
+  "community.edit.tabs.roles.head": "Atribuir Papéis",
+
+  "community.edit.tabs.roles.title": "Editar Comunidade - Papéis",
+
+  "community.edit.tabs.authorizations.head": "Autorizações",
+
+  "community.edit.tabs.authorizations.title": "Editar Comunidade - Autorizações",
+
+  "community.listelement.badge": "Comunidade",
+
+  "comcol-role.edit.no-group": "Nenhum",
+
+  "comcol-role.edit.create": "Criar",
+
+  "comcol-role.edit.restrict": "Restrito",
+
+  "comcol-role.edit.delete": "Apagar",
+
+  "comcol-role.edit.community-admin.name": "Administradores",
+
+  "comcol-role.edit.collection-admin.name": "Administradores",
+
+  "comcol-role.edit.community-admin.description": "Os administradores de Comunidade podem criar sub-comunidades e coleções, assim como gerir ou delegar a gestão dessas sub-comunidade ou coleções. Além disso, decidem quem pode submeter itens em qualquer coleção, editar metadados (após submissão), e mapear itens de outras coleções (sujeito a autorização).",
+
+  "comcol-role.edit.collection-admin.description": "Os administradores de coleção decidem quem pode submeter itens a uma coleção, editar metadados (após submissão), e mapear itens de outras coleções (sujeito a autorização para essa coleção).",
+
+  "comcol-role.edit.submitters.name": "Depositantes",
+
+  "comcol-role.edit.submitters.description": "Os Utilizadores e Grupos que possuem permissões de depósito nesta coleção.",
+
+  "comcol-role.edit.item_read.name": "acesso de Leitura Padrão ao item",
+
+  "comcol-role.edit.item_read.description": "Utilizadores e Grupos que podem ver itens submetidos nesta coleção. As alterações a este papel não são retroativas. Os itens existentes no sistema ainda poderão ser vistos por aqueles que tiveram acesso de leitura no momento de sua adição.",
+
+  "comcol-role.edit.item_read.anonymous-group": "A definição de Leitura padrão de novos itens está definida para Utilizadores Anónimos.",
+
+  "comcol-role.edit.bitstream_read.name": "Leitura padrão de ficheiros",
+
+  "comcol-role.edit.bitstream_read.description": "Os administradores de Comunidade podem criar sub-comunidades e coleções, assim como gerir ou delegar a gestão dessas sub-comunidade ou coleções. Além disso, decidem quem pode submeter itens em qualquer coleção, editar metadados (após submissão), e mapear itens de outras coleções (sujeito a autorização).",
+
+  "comcol-role.edit.bitstream_read.anonymous-group": "A definição de Leitura padrão de novos ficheiros está definida para Utilizadores Anónimos.",
+
+  "comcol-role.edit.editor.name": "Editores",
+
+  "comcol-role.edit.editor.description": "Os Editores podem editar os metadados, e depois aceitar ou rejeitar as submissões.",
+
+  "comcol-role.edit.finaleditor.name": "Editores Finais",
+
+  "comcol-role.edit.finaleditor.description": "Os Editores Finais podem editar os metadados de uma submissão, mas não os podem rejeitar.",
+
+  "comcol-role.edit.reviewer.name": "Revisores",
+
+  "comcol-role.edit.reviewer.description": "Os Revisores podem aceitar ou rejeitar as submissões enviadas. Contudo, não podem editar os metadados das submissões.",
+
+  "community.form.abstract": "Descrição curta",
+
+  "community.form.description": "Texto introdutório (HTML)",
+
+  "community.form.errors.title.required": "Por favor indique um nome para a comunidade",
+
+  "community.form.rights": "Texto de direito de cópia (HTML)",
+
+  "community.form.tableofcontents": "Notícias (HTML)",
+
+  "community.form.title": "Nome",
+
+  "community.page.edit": "Editar esta comunidade",
+
+  "community.page.handle": "URI Permanente desta comunidade",
+
+  "community.page.license": "Licença",
+
+  "community.page.news": "Notícias",
+
+  "community.all-lists.head": "Sub-Comunidade e Coleções",
+
+  "community.sub-collection-list.head": "Coleções desta Comunidade",
+
+  "community.sub-community-list.head": "Comunidades desta Comunidade",
+
+  "cookies.consent.accept-all": "Aceitar todos",
+
+  "cookies.consent.accept-selected": "Aceitar selecionados",
+
+  "cookies.consent.app.opt-out.description": "Esta aplicação é carregada por padrão (mas pode excluí-la)",
+
+  "cookies.consent.app.opt-out.title": "(excluir)",
+
+  "cookies.consent.app.purpose": "propósito",
+
+  "cookies.consent.app.required.description": "Esta aplicação é sempre necessária",
+
+  "cookies.consent.app.required.title": "(sempre necessária)",
+
+  "cookies.consent.update": "Existem alterações desde a sua última visita, atualize o seu consentimento.",
+
+  "cookies.consent.close": "Fechar",
+
+  "cookies.consent.decline": "Rejeitar",
+
+  "cookies.consent.content-notice.description": "Coletamos e processamos informação pessoal para os seguintes propósitos: <strong>Autenticação, Guardar Preferências, Termos de Uso e Estatísticas</strong>. <br/> To learn more, please read our {privacyPolicy}.",
+
+  "cookies.consent.content-notice.learnMore": "Pesonalizar",
+
+  "cookies.consent.content-modal.description": "Aqui pode ver e personalizar a informação pessoal que coletamos sobre si.",
+
+  "cookies.consent.content-modal.privacy-policy.name": "política de privacidade",
+
+  "cookies.consent.content-modal.privacy-policy.text": "Para saber mais, leia a {privacyPolicy}.",
+
+  "cookies.consent.content-modal.title": "Informação que coletamos",
+
+  "cookies.consent.app.title.authentication": "Autenticação",
+
+  "cookies.consent.app.description.authentication": "Obrigatório para iniciar sessão",
+
+  "cookies.consent.app.title.preferences": "Preferências",
+
+  "cookies.consent.app.description.preferences": "Obrigatório para guardar as suas preferências",
+
+  "cookies.consent.app.title.acknowledgement": "Termos de Uso",
+
+  "cookies.consent.app.description.acknowledgement": "Requerido para guardar os Termos de uso e Consentimento",
+
+  "cookies.consent.app.title.google-analytics": "Google Analytics",
+
+  "cookies.consent.app.description.google-analytics": "Permite-nos rastrear dados estatísticos",
+
+  "cookies.consent.purpose.functional": "Funcional",
+
+  "cookies.consent.purpose.statistical": "Estatísticos",
+
+  "curation-task.task.checklinks.label": "Verifica ligações nos metadados",
+
+  "curation-task.task.noop.label": "NOOP",
+
+  "curation-task.task.profileformats.label": "Perfil dos Formatos de Ficheiro",
+
+  "curation-task.task.requiredmetadata.label": "Verifica metadados obrigatórios",
+
+  "curation-task.task.translate.label": "Tradutor Microsoft",
+
+  "curation-task.task.vscan.label": "Scan de Vírus",
+
+  "curation.form.task-select.label": "Tarefa:",
+
+  "curation.form.submit": "Início",
+
+  "curation.form.submit.success.head": "A tarefa de curadoria iniciou com sucesso",
+
+  "curation.form.submit.success.content": "Será redirecionado para a página correspondente ao processo.",
+
+  "curation.form.submit.error.head": "Falha ao executar a tarefa de curadoria",
+
+  "curation.form.submit.error.content": "Ocorreu um erro ao tentar iniciar a tarefa de curadoria.",
+
+  "curation.form.handle.label": "Handle:",
+
+  "curation.form.handle.hint": "Dica: Introduza [o-seu-prefixo-handle]/0 para executar a tarefa em todo o repositório (nem todas as tarefas são compatíveis com esta opção)",
+
+  "dso-selector.create.collection.head": "Nova coleção",
+
+  "dso-selector.create.collection.sub-level": "Criar nova coleção em",
+
+  "dso-selector.create.community.head": "Nova comunidade",
+
+  "dso-selector.create.community.sub-level": "Criar uma nova coleção em",
+
+  "dso-selector.create.community.top-level": "Criar uma nova comunidade no nível superior",
+
+  "dso-selector.create.item.head": "Novo item",
+
+  "dso-selector.create.item.sub-level": "Criar um novo item em",
+
+  "dso-selector.create.submission.head": "Nova submissão",
+
+  "dso-selector.edit.collection.head": "Editar coleção",
+
+  "dso-selector.edit.community.head": "Editar comunidade",
+
+  "dso-selector.edit.item.head": "Editar item",
+
+  "dso-selector.export-metadata.dspaceobject.head": "Exportar metadados de ",
+
+  "dso-selector.no-results": "Nenhum(a) {{ type }} encontrado(a)",
+
+  "dso-selector.placeholder": "Pesquisar por um(a) {{ type }}",
+
+  "confirmation-modal.export-metadata.header": "Exportar metadados para {{ dsoName }}",
+
+  "confirmation-modal.export-metadata.info": "Pretende exportar metadados para {{ dsoName }}",
+
+  "confirmation-modal.export-metadata.cancel": "Cancelar",
+
+  "confirmation-modal.export-metadata.confirm": "Exportar",
+
+  "confirmation-modal.delete-eperson.header": "Apagar Utilizador \"{{ dsoName }}\"",
+
+  "confirmation-modal.delete-eperson.info": "Pretende apagar o utilizar \"{{ dsoName }}\"",
+
+  "confirmation-modal.delete-eperson.cancel": "Cancelar",
+
+  "confirmation-modal.delete-eperson.confirm": "Apagar",
+
+  "error.bitstream": "Erro ao aceder ao ficheiro",
+
+  "error.browse-by": "Erro ao carregar itens",
+
+  "error.collection": "Erro ao carregar coleção",
+
+  "error.collections": "Erro ao carregar coleções",
+
+  "error.community": "Erro ao carregar comunidade",
+
+  "error.identifier": "Nenhum item encontrado para o identificador",
+
+  "error.default": "Erro",
+
+  "error.item": "Erro ao carregar item",
+
+  "error.items": "Erro ao carregar itens",
+
+  "error.objects": "Erro ao carregar objetos",
+
+  "error.recent-submissions": "Erro ao carregar as submissões recentes",
+
+  "error.search-results": "Erro ao carregar os resultados da pesquisa",
+
+  "error.sub-collections": "Erro ao carregar sub-coleções",
+
+  "error.sub-communities": "Erro ao carregar sub-comunidade",
+
+  "error.submission.sections.init-form-error": "Ocorreu um erro durante a Secção de inicialização, por favor verifique sua configuração de input-form. Detalhes estão abaixo : <br> <br>",
+
+  "error.top-level-communities": "Erro ao carregar as comunidade de nível superior",
+
+  "error.validation.license.notgranted": "Você deve concordar com esta licença para completar sua submissão. Se vocẽ não estiver de acordo com esta licença neste momento você pode salvar seu trabalho para continuar depois ou remover a submissão.",
+
+  "error.validation.pattern": "Este campo está restrito ao seguinte padrão: {{ pattern }}.",
+
+  "error.validation.filerequired": "O carregamento de ficheiros é obrigatório",
+
+  "file-section.error.header": "Erro ao obter ficheiros para este item",
+
+  "footer.copyright": "copyright © 2002-{{ year }}",
+
+  "footer.link.dspace": "Software DSpace",
+
+  "footer.link.lyrasis": "LYRASIS",
+
+  "footer.link.cookies": "Configurações de Cookies",
+
+  "footer.link.privacy-policy": "Política de Privacidade",
+
+  "footer.link.end-user-agreement": "Termos de uso",
+
+  "forgot-email.form.header": "Esqueci a palavra-chave",
+
+  "forgot-email.form.info": "Registe-se para subscrever notificações de novos itens nas coleções por email assim como submeter itens no repositório.",
+
+  "forgot-email.form.email": "Endereço Eletrónico *",
+
+  "forgot-email.form.email.error.required": "Indique um endereço de correio eletrónico",
+
+  "forgot-email.form.email.error.pattern": "Indique um endereço de correio eletrónico válido",
+
+  "forgot-email.form.email.hint": "Este endereço de correio eletrónico será validado e usado como o seu nome de Utilizador para autenticação.",
+
+  "forgot-email.form.submit": "Guardar",
+
+  "forgot-email.form.success.head": "Email de Confirmação enviado",
+
+  "forgot-email.form.success.content": "Foi enviado uma mensagem para {{ email }} com instruções e um endereço de validação da sua conta de Utilizador.",
+
+  "forgot-email.form.error.head": "Erro ao tentar registar este email",
+
+  "forgot-email.form.error.content": "Ocorreu um erro ao tentar registar o seguinte endereço de correio eletrónico: {{ email }}",
+
+  "forgot-password.title": "Esqueci a palavra-chave",
+
+  "forgot-password.form.head": "Esqueci a palavra-chave",
+
+  "forgot-password.form.info": "Introduza uma nova palavra-chave na caixa abaixo, e depois confirme introduzindo de novo na segunda caixa. Deverá ter pelo menos 6 caracteres.",
+
+  "forgot-password.form.card.security": "Segurança",
+
+  "forgot-password.form.identification.header": "Identificação",
+
+  "forgot-password.form.identification.email": "Endereço eletrónico: ",
+
+  "forgot-password.form.label.password": "Palavra-chave",
+
+  "forgot-password.form.label.passwordrepeat": "Digite novamente para confirmar",
+
+  "forgot-password.form.error.empty-password": "Indique uma palavra-chave na caixa abaixo.",
+
+  "forgot-password.form.error.matching-passwords": "As palavras-chave não coincidem.",
+
+  "forgot-password.form.error.password-length": "A palavra-chave deve ter pelo menos 6 caracteres.",
+
+  "forgot-password.form.notification.error.title": "Erro ao submeter nova palavra-chave",
+
+  "forgot-password.form.notification.success.content": "A recuperação da palavra-chave foi efetuada com sucesso. Foi iniciada sessão com o Utilizador criado.",
+
+  "forgot-password.form.notification.success.title": "recuperação da palavra-chave efetuada com sucesso",
+
+  "forgot-password.form.submit": "Enviar palavra-chave",
+
+  "form.add": "Adicionar",
+
+  "form.add-help": "Clique aqui para submeter esta entrada e adicionar uma nova",
+
+  "form.cancel": "Cancelar",
+
+  "form.clear": "Limpar",
+
+  "form.clear-help": "Clique aqui para apagar o valor selecionado",
+
+  "form.edit": "Editar",
+
+  "form.edit-help": "Clique aqui para editar o valor selecionado",
+
+  "form.first-name": "Primeiro nome",
+
+  "form.group-collapse": "Esconder",
+
+  "form.group-collapse-help": "Clique aqui para esconder",
+
+  "form.group-expand": "Expandir",
+
+  "form.group-expand-help": "Clique aqui para expandir e adicionar mais elementos",
+
+  "form.last-name": "Último nome",
+
+  "form.loading": "Carregando...",
+
+  "form.lookup": "Consulta",
+
+  "form.lookup-help": "Clique para consultar as relações existentes",
+
+  "form.no-results": "Nenhum resultado encontrado",
+
+  "form.no-value": "Nenhum valor informado",
+
+  "form.other-information": {},
+
+  "form.remove": "Apagar",
+
+  "form.save": "Salvar",
+
+  "form.save-help": "Salvar alterações",
+
+  "form.search": "Pesquisar",
+
+  "form.search-help": "Clique aqui para procurar por uma correspondência",
+
+  "form.submit": "Guardar",
+
+  "home.description": "",
+
+  "home.breadcrumbs": "Principal",
+
+  "home.title": "DSpace :: Início",
+
+  "home.top-level-communities.head": "Comunidades",
+
+  "home.top-level-communities.help": "Selecione uma comunidade para navegar nas suas coleções",
+
+  "info.end-user-agreement.accept": "Li e aceito os Termos de Uso",
+
+  "info.end-user-agreement.accept.error": "Ocorreu um erro ao aceitar os Termos de Uso",
+
+  "info.end-user-agreement.accept.success": "Termos de Uso atualizados com sucesso",
+
+  "info.end-user-agreement.breadcrumbs": "Termos de Uso",
+
+  "info.end-user-agreement.buttons.cancel": "Cancelar",
+
+  "info.end-user-agreement.buttons.save": "Guardar",
+
+  "info.end-user-agreement.head": "Termos de Uso",
+
+  "info.end-user-agreement.title": "Termos de Uso",
+
+  "info.privacy.breadcrumbs": "Política de Privacidade",
+
+  "info.privacy.head": "Política de Privacidade",
+
+  "info.privacy.title": "Política de Privacidade",
+
+  "item.alerts.private": "Este item é privado",
+
+  "item.alerts.withdrawn": "Este item foi retirado",
+
+  "item.edit.authorizations.heading": "Com este editor pode ver e alterar as políticas de um item, assim como alterar políticas de componentes individuais do item: pacotes e ficheiros. Em resumo, um item contém pacotes, e os pacotes contêm de ficheiros. Os pacotes possuem usualmente políticas de ADICIONAR/REMOVER/LER/ESCREVER enquanto que os ficheiros apenas políticas de LER/ESCREVER.",
+
+  "item.edit.authorizations.title": "Editar políticas dos itens",
+
+  "item.badge.private": "Privado",
+
+  "item.badge.withdrawn": "Retirado",
+
+  "item.bitstreams.upload.bundle": "Pacote",
+
+  "item.bitstreams.upload.bundle.placeholder": "Selecione um pacote",
+
+  "item.bitstreams.upload.bundle.new": "Criar um pacote",
+
+  "item.bitstreams.upload.bundles.empty": "Este item não possui um pacote para poder receber os ficheiros.",
+
+  "item.bitstreams.upload.cancel": "Cancelar",
+
+  "item.bitstreams.upload.drop-message": "Arraste um ficheiro para carregar",
+
+  "item.bitstreams.upload.item": "Item: ",
+
+  "item.bitstreams.upload.notifications.bundle.created.content": "O pacote foi criado com sucesso.",
+
+  "item.bitstreams.upload.notifications.bundle.created.title": "Pacote criado",
+
+  "item.bitstreams.upload.notifications.upload.failed": "O carregamento falhou. Verifique o ficheiro antes de tentar carregar de novo.",
+
+  "item.bitstreams.upload.title": "Carregar ficheiro",
+
+  "item.edit.bitstreams.bundle.edit.buttons.upload": "Carregar",
+
+  "item.edit.bitstreams.bundle.displaying": "A apresentar atualmente {{ amount }} ficheiros de {{ total }}.",
+
+  "item.edit.bitstreams.bundle.load.all": "Carregar todos ({{ total }})",
+
+  "item.edit.bitstreams.bundle.load.more": "Carregar mais",
+
+  "item.edit.bitstreams.bundle.name": "PACOTE: {{ name }}",
+
+  "item.edit.bitstreams.discard-button": "Descartar",
+
+  "item.edit.bitstreams.edit.buttons.download": "Descarregar",
+
+  "item.edit.bitstreams.edit.buttons.drag": "Arrastar",
+
+  "item.edit.bitstreams.edit.buttons.edit": "Editar",
+
+  "item.edit.bitstreams.edit.buttons.remove": "Remover",
+
+  "item.edit.bitstreams.edit.buttons.undo": "Descartar alterações",
+
+  "item.edit.bitstreams.empty": "Este item não possui ficheiros. Carregue um novo ficheiro.",
+
+  "item.edit.bitstreams.headers.actions": "Ações",
+
+  "item.edit.bitstreams.headers.bundle": "Pacote",
+
+  "item.edit.bitstreams.headers.description": "Descrição",
+
+  "item.edit.bitstreams.headers.format": "Formato",
+
+  "item.edit.bitstreams.headers.name": "Nome",
+
+  "item.edit.bitstreams.notifications.discarded.content": "As alterações foram descartadas. Para restabelecer as alterações clique no botão 'Voltar'",
+
+  "item.edit.bitstreams.notifications.discarded.title": "Alterações descartadas",
+
+  "item.edit.bitstreams.notifications.move.failed.title": "Erro ao mover ficheiros",
+
+  "item.edit.bitstreams.notifications.move.saved.content": "A alteração dos ficheiros e pacotes foi guardada com sucesso.",
+
+  "item.edit.bitstreams.notifications.move.saved.title": "Alteração guardada",
+
+  "item.edit.bitstreams.notifications.outdated.content": "O item em que está a trabalhar foi alterado por outro Utilizador. As suas alterações serão descartadas para evitar conflitos",
+
+  "item.edit.bitstreams.notifications.outdated.title": "Alterações desatualizadas",
+
+  "item.edit.bitstreams.notifications.remove.failed.title": "Erro ao apagar ficheiro",
+
+  "item.edit.bitstreams.notifications.remove.saved.content": "A alteração de remoção do ficheiro deste item foram guardadas.",
+
+  "item.edit.bitstreams.notifications.remove.saved.title": "Alterações de remoção guardadas",
+
+  "item.edit.bitstreams.reinstate-button": "Descartar",
+
+  "item.edit.bitstreams.save-button": "Guardar",
+
+  "item.edit.bitstreams.upload-button": "Carregar",
+
+  "item.edit.delete.cancel": "Cancelar",
+
+  "item.edit.delete.confirm": "Apagar",
+
+  "item.edit.delete.description": "Você tem certeza que deseja apagar completamento este item? Atenção: No momento, nenhum vestígio restará.",
+
+  "item.edit.delete.error": "Ocorreu um erro ao apagar o item",
+
+  "item.edit.delete.header": "Apagar item: {{ id }}",
+
+  "item.edit.delete.success": "O item foi apagado",
+
+  "item.edit.head": "Editar Item",
+
+  "item.edit.breadcrumbs": "Editar Item",
+
+  "item.edit.tabs.mapper.head": "Mapeamento de Coleção",
+
+  "item.edit.tabs.item-mapper.title": "Editar Item - Mapeamento de Coleção",
+
+  "item.edit.item-mapper.buttons.add": "Mapear item na(s) coleção(ões) seleciona(s)",
+
+  "item.edit.item-mapper.buttons.remove": "Remover mapeamento(s) do item da(s) coleção(ões) seleciona(s)",
+
+  "item.edit.item-mapper.cancel": "Cancelar",
+
+  "item.edit.item-mapper.description": "Essa é a ferramenta de mapeamento de itens que permite que os administradores mapeiem esse item para outras coleções. Você pode procurar coleções e mapeá-las ou navegar na lista de coleções para as quais o item está atualmente mapeado.",
+
+  "item.edit.item-mapper.head": "Mapeador de Item - Mapear Itens em Coleções",
+
+  "item.edit.item-mapper.item": "Item: \"<b>{{name}}</b>\"",
+
+  "item.edit.item-mapper.no-search": "Insira um termo para efetuar a pesquisa",
+
+  "item.edit.item-mapper.notifications.add.error.content": "Ocorreram erros ao mapear o item em {{amount}} coleções.",
+
+  "item.edit.item-mapper.notifications.add.error.head": "Erros de mapeamento",
+
+  "item.edit.item-mapper.notifications.add.success.content": "Mapeou o item em {{amount}} coleções com sucesso.",
+
+  "item.edit.item-mapper.notifications.add.success.head": "Mapeamento complesto",
+
+  "item.edit.item-mapper.notifications.remove.error.content": "Ocorreram erros ao remover mapeamento do item em {{amount}} coleções.",
+
+  "item.edit.item-mapper.notifications.remove.error.head": "Erros de remoção de mapeamento",
+
+  "item.edit.item-mapper.notifications.remove.success.content": "Successfully removed mapping of item to {{amount}} collections.",
+
+  "item.edit.item-mapper.notifications.remove.success.head": "Completou a remoção de mapeamento",
+
+  "item.edit.item-mapper.tabs.browse": "Navegar nas coleções mapeadas",
+
+  "item.edit.item-mapper.tabs.map": "Mapear novas coleções",
+
+  "item.edit.metadata.add-button": "Adicionar",
+
+  "item.edit.metadata.discard-button": "Descartar",
+
+  "item.edit.metadata.edit.buttons.edit": "Editar",
+
+  "item.edit.metadata.edit.buttons.remove": "Apagar",
+
+  "item.edit.metadata.edit.buttons.undo": "Desfazer alterações",
+
+  "item.edit.metadata.edit.buttons.unedit": "Parar edição",
+
+  "item.edit.metadata.empty": "O item não possui metadados. Clique 'Adicionar' para adicionar metadados.",
+
+  "item.edit.metadata.headers.edit": "Editar",
+
+  "item.edit.metadata.headers.field": "Campo",
+
+  "item.edit.metadata.headers.language": "Idioma",
+
+  "item.edit.metadata.headers.value": "Valor",
+
+  "item.edit.metadata.metadatafield.invalid": "Por favor escolha um campo de metadados válido",
+
+  "item.edit.metadata.notifications.discarded.content": "Suas alterações foram descartadas. Para restabelecer suas alterações, clique no botão 'Desfazer'",
+
+  "item.edit.metadata.notifications.discarded.title": "Mudança descartada",
+
+  "item.edit.metadata.notifications.error.title": "Ocorreu um erro",
+
+  "item.edit.metadata.notifications.invalid.content": "Suas alterações não foram salvas. Verifique se todos os campos são válidos antes de salvar.",
+
+  "item.edit.metadata.notifications.invalid.title": "Metadado inválido",
+
+  "item.edit.metadata.notifications.outdated.content": "O item em que você está trabalhando foi alterado por outro usuário. Suas alterações atuais são descartadas para evitar conflitos",
+
+  "item.edit.metadata.notifications.outdated.title": "Alteração desatualizada",
+
+  "item.edit.metadata.notifications.saved.content": "Suas alterações nos metadados deste item foram salvas.",
+
+  "item.edit.metadata.notifications.saved.title": "Metadados salvos",
+
+  "item.edit.metadata.reinstate-button": "Desfazer",
+
+  "item.edit.metadata.save-button": "Salvar",
+
+  "item.edit.modify.overview.field": "Campo",
+
+  "item.edit.modify.overview.language": "Idioma",
+
+  "item.edit.modify.overview.value": "Valor",
+
+  "item.edit.move.cancel": "Cancelar",
+
+  "item.edit.move.description": "Selecione a coleção para a qual você deseja mover este item. Para restringir a lista de coleções exibidas, você pode inserir uma consulta de pesquisa na caixa.",
+
+  "item.edit.move.error": "Ocorreu um erro ao tentar mover o item",
+
+  "item.edit.move.head": "Mover item: {{id}}",
+
+  "item.edit.move.inheritpolicies.checkbox": "Herdar politicas",
+
+  "item.edit.move.inheritpolicies.description": "Herdar as politicas padrões da coleção destino",
+
+  "item.edit.move.move": "Mover",
+
+  "item.edit.move.processing": "Movendo...",
+
+  "item.edit.move.search.placeholder": "Insira uma consulta para procurar coleções",
+
+  "item.edit.move.success": "O item foi movido com sucesso",
+
+  "item.edit.move.title": "Mover item",
+
+  "item.edit.private.cancel": "Cancelar",
+
+  "item.edit.private.confirm": "Tornar Privado",
+
+  "item.edit.private.description": "Tem certeza de que este item deve ser tornado privado?",
+
+  "item.edit.private.error": "Ocorreu um erro ao tornar o item privado",
+
+  "item.edit.private.header": "Tornar privado o item: {{ id }}",
+
+  "item.edit.private.success": "O item agora é privado",
+
+  "item.edit.public.cancel": "Cancelar",
+
+  "item.edit.public.confirm": "Tornar público",
+
+  "item.edit.public.description": "Você tem certeza que deseja tornar este item público?",
+
+  "item.edit.public.error": "Ocorreu um erro ao tornar o item público",
+
+  "item.edit.public.header": "Tornar público o item: {{ id }}",
+
+  "item.edit.public.success": "O item agora é público",
+
+  "item.edit.reinstate.cancel": "Cancelar",
+
+  "item.edit.reinstate.confirm": "Restabelecer",
+
+  "item.edit.reinstate.description": "Tem certeza de que este item deve ser restabelecido no repositório?",
+
+  "item.edit.reinstate.error": "Ocorreu um erro ao restabelecer o item",
+
+  "item.edit.reinstate.header": "Restabelecer item: {{ id }}",
+
+  "item.edit.reinstate.success": "O item foi restabelecido com sucesso",
+
+  "item.edit.relationships.discard-button": "Descartar",
+
+  "item.edit.relationships.edit.buttons.add": "Adicionar",
+
+  "item.edit.relationships.edit.buttons.remove": "Apagar",
+
+  "item.edit.relationships.edit.buttons.undo": "Desfazer alterações",
+
+  "item.edit.relationships.no-relationships": "Sem relações",
+
+  "item.edit.relationships.notifications.discarded.content": "Suas alterações foram descartadas. Para restabelecer suas alterações, clique no botão 'Desfazer'",
+
+  "item.edit.relationships.notifications.discarded.title": "Alterações descartadas",
+
+  "item.edit.relationships.notifications.failed.title": "Erro ao apagar relação",
+
+  "item.edit.relationships.notifications.outdated.content": "O item em que você está trabalhando foi alterado por outro usuário. Suas alterações atuais são descartadas para evitar conflitos",
+
+  "item.edit.relationships.notifications.outdated.title": "Alterações desatualizadas",
+
+  "item.edit.relationships.notifications.saved.content": "Suas alterações nos relacionamentos deste item foram salvas.",
+
+  "item.edit.relationships.notifications.saved.title": "Relacionamentos salvos",
+
+  "item.edit.relationships.reinstate-button": "Desfazer",
+
+  "item.edit.relationships.save-button": "Salvar",
+
+  "item.edit.relationships.no-entity-type": "Adicione o metadado 'dspace.entity.type' para ativar relações neste item",
+
+  "item.edit.tabs.bitstreams.head": "Ficheiros do Item",
+
+  "item.edit.tabs.bitstreams.title": "Editar Item - Ficheiros",
+
+  "item.edit.tabs.curate.head": "Curadoria",
+
+  "item.edit.tabs.curate.title": "Editar Item - Curadoria",
+
+  "item.edit.tabs.metadata.head": "Metadados do Item",
+
+  "item.edit.tabs.metadata.title": "Editar Item -  Metadados",
+
+  "item.edit.tabs.relationships.head": "Relações do Item",
+
+  "item.edit.tabs.relationships.title": "Editar Item - Relacionamentos",
+
+  "item.edit.tabs.status.buttons.authorizations.button": "Autorizações...",
+
+  "item.edit.tabs.status.buttons.authorizations.label": "Editar politicas de autorizações de item",
+
+  "item.edit.tabs.status.buttons.delete.button": "Apagar permanentemente",
+
+  "item.edit.tabs.status.buttons.delete.label": "Eliminar completamente o item",
+
+  "item.edit.tabs.status.buttons.mappedCollections.button": "Coleções mapeadas",
+
+  "item.edit.tabs.status.buttons.mappedCollections.label": "Gerenciar coleções mapeadas",
+
+  "item.edit.tabs.status.buttons.move.button": "Mover...",
+
+  "item.edit.tabs.status.buttons.move.label": "Mover item para outra coleção",
+
+  "item.edit.tabs.status.buttons.private.button": "Tornar o item privado ...",
+
+  "item.edit.tabs.status.buttons.private.label": "Tornar o item privado",
+
+  "item.edit.tabs.status.buttons.public.button": "Tornar público o item...",
+
+  "item.edit.tabs.status.buttons.public.label": "Tornar público o item",
+
+  "item.edit.tabs.status.buttons.reinstate.button": "Restabelecer...",
+
+  "item.edit.tabs.status.buttons.reinstate.label": "Restabelecer item no repositório",
+
+  "item.edit.tabs.status.buttons.withdraw.button": "Retirar...",
+
+  "item.edit.tabs.status.buttons.withdraw.label": "Retirar item do repositório",
+
+  "item.edit.tabs.status.description": "Bem-vindo à página de gerenciamento de itens. A partir daqui, você pode retirar, restabelecer, mover ou apagar o item. Você também pode atualizar ou adicionar novos metadados / bitstream nas outras guias.",
+
+  "item.edit.tabs.status.head": "Estado do Item",
+
+  "item.edit.tabs.status.labels.handle": "Handle",
+
+  "item.edit.tabs.status.labels.id": "ID Interno do Item",
+
+  "item.edit.tabs.status.labels.itemPage": "Página do Item",
+
+  "item.edit.tabs.status.labels.lastModified": "Ultima alteração",
+
+  "item.edit.tabs.status.title": "Editar Item -  Estado",
+
+  "item.edit.tabs.versionhistory.head": "Histórico de Versões",
+
+  "item.edit.tabs.versionhistory.title": "Edições do Item - Histórico de Versões",
+
+  "item.edit.tabs.versionhistory.under-construction": "Editar ou adicionar novas versões ainda não é possível neste interface de Utilizador.",
+
+  "item.edit.tabs.view.head": "Visualizar Item",
+
+  "item.edit.tabs.view.title": "Editar Item -  Visualizar",
+
+  "item.edit.withdraw.cancel": "Cancelar",
+
+  "item.edit.withdraw.confirm": "Retirar",
+
+  "item.edit.withdraw.description": "Tem certeza de que este item deve ser retirado do repositório?",
+
+  "item.edit.withdraw.error": "Ocorreu um erro ao retirar o item",
+
+  "item.edit.withdraw.header": "Retirar item: {{ id }}",
+
+  "item.edit.withdraw.success": "O item foi retirado com sucesso",
+
+  "item.listelement.badge": "Item",
+
+  "item.page.description": "Descrição",
+
+  "item.page.edit": "Editar este item",
+
+  "item.page.journal-issn": "ISSN da Revista",
+
+  "item.page.journal-title": "Título da Revista",
+
+  "item.page.publisher": "Editora",
+
+  "item.page.titleprefix": "Item: ",
+
+  "item.page.volume-title": "Título do Volume",
+
+  "item.search.results.head": "Resultados da Pesquisa de Item",
+
+  "item.search.title": "DSpace :: Pesquisa de Item",
+
+  "item.page.abstract": "Resumo",
+
+  "item.page.author": "Autores",
+
+  "item.page.citation": "Citação",
+
+  "item.page.collections": "Coleções",
+
+  "item.page.date": "Data",
+
+  "item.page.files": "Ficheiros",
+
+  "item.page.filesection.description": "Descrição:",
+
+  "item.page.filesection.download": "Baixar",
+
+  "item.page.filesection.format": "Formato:",
+
+  "item.page.filesection.name": "Nome:",
+
+  "item.page.filesection.size": "Tamanho:",
+
+  "item.page.journal.search.title": "Articles in this journal",
+
+  "item.page.link.full": "Ver registo completo",
+
+  "item.page.link.simple": "Ver registo simples",
+
+  "item.page.person.search.title": "Artigos deste autor",
+
+  "item.page.related-items.view-more": "Mostrar mais {{ amount }}",
+
+  "item.page.related-items.view-less": "Ocultar último {{ amount }}",
+
+  "item.page.relationships.isAuthorOfPublication": "Publicações",
+
+  "item.page.relationships.isJournalOfPublication": "Publicações",
+
+  "item.page.relationships.isOrgUnitOfPerson": "Autores",
+
+  "item.page.relationships.isOrgUnitOfProject": "Projetos",
+
+  "item.page.subject": "Palavras-chave",
+
+  "item.page.uri": "URI",
+
+  "item.page.bitstreams.view-more": "Ver mais",
+
+  "item.page.bitstreams.collapse": "Fechar",
+
+  "item.page.filesection.original.bundle": "Principais",
+
+  "item.page.filesection.license.bundle": "Licença",
+
+  "item.preview.dc.identifier.uri": "Identificador:",
+
+  "item.preview.dc.contributor.author": "Autores:",
+
+  "item.preview.dc.date.issued": "Data de publicação:",
+
+  "item.preview.dc.description.abstract": "Resumo:",
+
+  "item.preview.dc.identifier.other": "Outro identificador:",
+
+  "item.preview.dc.language.iso": "Idioma:",
+
+  "item.preview.dc.subject": "Assunto:",
+
+  "item.preview.dc.title": "Título:",
+
+  "item.preview.person.familyName": "Apelido:",
+
+  "item.preview.person.givenName": "Nome:",
+
+  "item.preview.person.identifier.orcid": "ORCID:",
+
+  "item.select.confirm": "Confirmar seleção",
+
+  "item.select.empty": "Nenhum item para mostrar",
+
+  "item.select.table.author": "Autor",
+
+  "item.select.table.collection": "Coleção",
+
+  "item.select.table.title": "Título",
+
+  "item.version.history.empty": "Não existem ainda outras versões deste item.",
+
+  "item.version.history.head": "Histórico de Versões",
+
+  "item.version.history.return": "Voltar",
+
+  "item.version.history.selected": "Versão selecionada",
+
+  "item.version.history.table.version": "Versão",
+
+  "item.version.history.table.item": "Item",
+
+  "item.version.history.table.editor": "Editor",
+
+  "item.version.history.table.date": "Data",
+
+  "item.version.history.table.summary": "Sumário",
+
+  "item.version.notice": "Esta não é a última versão deste item. A última versão pode ser encontrada <a href='{{destination}}'>aqui</a>.",
+
+  "journal.listelement.badge": "Revista",
+
+  "journal.page.description": "Descrição",
+
+  "journal.page.edit": "Editar este item",
+
+  "journal.page.editor": "Editor Chefe",
+
+  "journal.page.issn": "ISSN",
+
+  "journal.page.publisher": "Editora",
+
+  "journal.page.titleprefix": "Revista: ",
+
+  "journal.search.results.head": "Resultado da Pesquisa de Revistas",
+
+  "journal.search.title": "DSpace :: Pesquisa de Revistas",
+
+  "journalissue.listelement.badge": "Número",
+
+  "journalissue.page.description": "Descrição",
+
+  "journalissue.page.edit": "Editar este item",
+
+  "journalissue.page.issuedate": "Data de Publicação",
+
+  "journalissue.page.journal-issn": "ISSN da Revista",
+
+  "journalissue.page.journal-title": "Título da Revista",
+
+  "journalissue.page.keyword": "Palavras-chave",
+
+  "journalissue.page.number": "Número de Páginas",
+
+  "journalissue.page.titleprefix": "Número da Revista: ",
+
+  "journalvolume.listelement.badge": "Volume da Revista",
+
+  "journalvolume.page.description": "Descrição",
+
+  "journalvolume.page.edit": "Editar este item",
+
+  "journalvolume.page.issuedate": "Data de Publicação",
+
+  "journalvolume.page.titleprefix": "Volume da Revista: ",
+
+  "journalvolume.page.volume": "Volume",
+
+  "loading.bitstream": "A carregar ficheiro...",
+
+  "loading.bitstreams": "A carregar ficheiros...",
+
+  "loading.browse-by": "A carregar itens...",
+
+  "loading.browse-by-page": "A carregar página...",
+
+  "loading.collection": "A carregar coleção...",
+
+  "loading.collections": "A carregar coleções...",
+
+  "loading.content-source": "A carregar conteúdo da fonte...",
+
+  "loading.community": "A carregar comunidade...",
+
+  "loading.default": "A carregar...",
+
+  "loading.item": "A carregar item...",
+
+  "loading.items": "A carregar itens...",
+
+  "loading.mydspace-results": "A carregar itens...",
+
+  "loading.objects": "A carregar...",
+
+  "loading.recent-submissions": "A carregar submissões recentes...",
+
+  "loading.search-results": "A carregar resultados de pesquisa...",
+
+  "loading.sub-collections": "A carregar sub-coleções...",
+
+  "loading.sub-communities": "A carregar sub-comunidades...",
+
+  "loading.top-level-communities": "A carregar comunidades de nível superior...",
+
+  "login.form.email": "Endereço de email",
+
+  "login.form.forgot-password": "Esqueceu a palavra-chave?",
+
+  "login.form.header": "Por favor entre no repositório",
+
+  "login.form.new-user": "Novo Utilizador? Clique aqui para se registar.",
+
+  "login.form.or-divider": "ou",
+
+  "login.form.password": "Palavra-chave",
+
+  "login.form.shibboleth": "Entrar com Autenticação Federada",
+
+  "login.form.submit": "Entrar",
+
+  "login.title": "Entrar",
+
+  "login.breadcrumbs": "Entrar",
+
+  "logout.form.header": "Sair do DSpace",
+
+  "logout.form.submit": "Sair",
+
+  "logout.title": "Sair",
+
+  "menu.header.admin": "Administração",
+
+  "menu.header.image.logo": "Logo do repositório",
+
+  "menu.section.access_control": "Controle de Acesso",
+
+  "menu.section.access_control_authorizations": "Autorizações",
+
+  "menu.section.access_control_groups": "Grupos",
+
+  "menu.section.access_control_people": "Pessoas",
+
+  "menu.section.admin_search": "Pesquisa Administrativa",
+
+  "menu.section.browse_community": "Esta Comunidade",
+
+  "menu.section.browse_community_by_author": "Por Autor",
+
+  "menu.section.browse_community_by_issue_date": "Por Data de Publicação",
+
+  "menu.section.browse_community_by_title": "Por Título",
+
+  "menu.section.browse_global": "Percorrer",
+
+  "menu.section.browse_global_by_author": "Por Autor",
+
+  "menu.section.browse_global_by_dateissued": "Por Data de Publicação",
+
+  "menu.section.browse_global_by_subject": "Por Assunto",
+
+  "menu.section.browse_global_by_title": "Por Título",
+
+  "menu.section.browse_global_communities_and_collections": "Comunidades e Coleções",
+
+  "menu.section.control_panel": "Painel de Controle",
+
+  "menu.section.curation_task": "Tarefas de Curadoria",
+
+  "menu.section.edit": "Editar",
+
+  "menu.section.edit_collection": "Coleção",
+
+  "menu.section.edit_community": "Comunidade",
+
+  "menu.section.edit_item": "Item",
+
+  "menu.section.export": "Exportar",
+
+  "menu.section.export_collection": "Coleção",
+
+  "menu.section.export_community": "Comunidade",
+
+  "menu.section.export_item": "Item",
+
+  "menu.section.export_metadata": "Metadados",
+
+  "menu.section.icon.access_control": "Secção do menu Controle de Acesso",
+
+  "menu.section.icon.admin_search": "Secção do menu de Pesquisa Administrativa",
+
+  "menu.section.icon.control_panel": "Secção do menu Painel de Controlo",
+
+  "menu.section.icon.curation_task": "Secção do menu Tarefas de Curadoria",
+
+  "menu.section.icon.edit": "Secção do menu Editar",
+
+  "menu.section.icon.export": "Secção do menu Exportar",
+
+  "menu.section.icon.find": "Secção do menu Pesquisar",
+
+  "menu.section.icon.import": "Secção do menu Importar",
+
+  "menu.section.icon.new": "Secção do menu Novo",
+
+  "menu.section.icon.pin": "Fixar barra lateral",
+
+  "menu.section.icon.processes": "Secção do menu Processos",
+
+  "menu.section.icon.registries": "Secção do menu Registos",
+
+  "menu.section.icon.statistics_task": "Secção do menu Tarefas de Estatísticas",
+
+  "menu.section.icon.unpin": "Soltar barra lateral",
+
+  "menu.section.import": "Importar",
+
+  "menu.section.import_batch": "Importação em Lote (ZIP)",
+
+  "menu.section.import_metadata": "Metadados",
+
+  "menu.section.new": "Novo",
+
+  "menu.section.new_collection": "Coleção",
+
+  "menu.section.new_community": "Comunidade",
+
+  "menu.section.new_item": "Item",
+
+  "menu.section.new_item_version": "Versão do Item",
+
+  "menu.section.new_process": "Processos",
+
+  "menu.section.pin": "Fixar barra lateral",
+
+  "menu.section.unpin": "Soltar barra lateral",
+
+  "menu.section.processes": "Processos",
+
+  "menu.section.registries": "Registos",
+
+  "menu.section.registries_format": "Formatos",
+
+  "menu.section.registries_metadata": "Metadados",
+
+  "menu.section.statistics": "Estatísticas",
+
+  "menu.section.statistics_task": "Tarefas de Estatísticas",
+
+  "menu.section.toggle.access_control": "Alternar Secção Controle de Acesso",
+
+  "menu.section.toggle.control_panel": "Alternar Secção Painel de COntrole",
+
+  "menu.section.toggle.curation_task": "Alternar Secção Tarefas de Curadoria",
+
+  "menu.section.toggle.edit": "Alternar Secção Editar",
+
+  "menu.section.toggle.export": "Alternar Secção Exportar",
+
+  "menu.section.toggle.find": "Alternar Secção Pesquisa",
+
+  "menu.section.toggle.import": "Alternar Secção Importar",
+
+  "menu.section.toggle.new": "Alternar Nova Secção",
+
+  "menu.section.toggle.registries": "Alternar Secção Registos",
+
+  "menu.section.toggle.statistics_task": "Alternar Secção Tarefas de Estatísticas",
+
+  "menu.section.workflow": "Gestão do Workflow",
+
+  "mydspace.description": "",
+
+  "mydspace.general.text-here": "aqui",
+
+  "mydspace.messages.controller-help": "Selecione esta opção para enviar uma mensagem para o depositante do item.",
+
+  "mydspace.messages.description-placeholder": "Insira sua mensagem aqui...",
+
+  "mydspace.messages.hide-msg": "Ocultar mensagem",
+
+  "mydspace.messages.mark-as-read": "Marcar como lida",
+
+  "mydspace.messages.mark-as-unread": "Marcar como não lida",
+
+  "mydspace.messages.no-content": "Sem conteúdo",
+
+  "mydspace.messages.no-messages": "Nenhuma mensagem ainda",
+
+  "mydspace.messages.send-btn": "Enviar",
+
+  "mydspace.messages.show-msg": "Mostrar mensagem",
+
+  "mydspace.messages.subject-placeholder": "Assunto...",
+
+  "mydspace.messages.submitter-help": "Selecione esta opção para enviar uma mensagem ao controlador.",
+
+  "mydspace.messages.title": "Mensagens",
+
+  "mydspace.messages.to": "Para",
+
+  "mydspace.new-submission": "Nova submissão",
+
+  "mydspace.new-submission-external": "Importar metadados de fontes externas",
+
+  "mydspace.new-submission-external-short": "Importar metadados",
+
+  "mydspace.results.head": "Minhas submissões",
+
+  "mydspace.results.no-abstract": "Sem Resumo",
+
+  "mydspace.results.no-authors": "Sem Autores",
+
+  "mydspace.results.no-collections": "Sem Coleções",
+
+  "mydspace.results.no-date": "Sem Data",
+
+  "mydspace.results.no-files": "Sem Ficheiros",
+
+  "mydspace.results.no-results": "Não havia itens a mostrar",
+
+  "mydspace.results.no-title": "Sem título",
+
+  "mydspace.results.no-uri": "Sem Uri",
+
+  "mydspace.show.workflow": "Todas as tarefas",
+
+  "mydspace.show.workspace": "Minhas Submissões",
+
+  "mydspace.status.archived": "Arquivado",
+
+  "mydspace.status.validation": "Validação",
+
+  "mydspace.status.waiting-for-controller": "Esperando pelo controlador",
+
+  "mydspace.status.workflow": "Fluxo de trabalho",
+
+  "mydspace.status.workspace": "Espaço de trabalho",
+
+  "mydspace.title": "Área Pessoal",
+
+  "mydspace.upload.upload-failed": "Erro ao criar novo espaço de trabalho. Por favor verifique o conteúdo enviado antes de tentar novamente.",
+
+  "mydspace.upload.upload-failed-manyentries": "Fichiero não processado. Detetadas demasiadas entradas quando apenas é permitido um para ficheiros.",
+
+  "mydspace.upload.upload-failed-moreonefile": "Pedido não processado. Apenas é permitido um ficheiro.",
+
+  "mydspace.upload.upload-multiple-successful": "{{qty}} novo(s) item(ns) de espaço de trabalho criados.",
+
+  "mydspace.upload.upload-successful": "Novo item de espaço de trabalho criado. Clique {{here}} para o editar.",
+
+  "mydspace.view-btn": "Ver",
+
+  "nav.browse.header": "Tudo no DSpace",
+
+  "nav.community-browse.header": "Por Comunidade",
+
+  "nav.language": "Escolha de idioma",
+
+  "nav.login": "Entrar",
+
+  "nav.logout": "Sair",
+
+  "nav.mydspace": "Área Pessoal",
+
+  "nav.profile": "Perfil",
+
+  "nav.search": "Pesquisar",
+
+  "nav.statistics.header": "Estatísticas",
+
+  "nav.stop-impersonating": "Deixar de assumir o papel do Utilizador",
+
+  "orgunit.listelement.badge": "Organização",
+
+  "orgunit.page.city": "Cidade",
+
+  "orgunit.page.country": "País",
+
+  "orgunit.page.dateestablished": "Data estabelecida",
+
+  "orgunit.page.description": "Descrição",
+
+  "orgunit.page.edit": "Editar registo",
+
+  "orgunit.page.id": "ID",
+
+  "orgunit.page.titleprefix": "Organização: ",
+
+  "pagination.results-per-page": "Resultados por página",
+
+  "pagination.showing.detail": "{{ range }} de {{ total }}",
+
+  "pagination.showing.label": "A mostrar ",
+
+  "pagination.sort-direction": "Opções de Ordenação",
+
+  "person.listelement.badge": "Pessoa",
+
+  "person.listelement.no-title": "Nome não encontrado",
+
+  "person.page.birthdate": "Data de nascimento",
+
+  "person.page.edit": "Editar este registo",
+
+  "person.page.email": "Endereço de Email",
+
+  "person.page.firstname": "Primeiro Nome",
+
+  "person.page.jobtitle": "Cargo",
+
+  "person.page.lastname": "Último Nome",
+
+  "person.page.link.full": "Mostrar todos os metadados",
+
+  "person.page.orcid": "ORCID",
+
+  "person.page.staffid": "ID",
+
+  "person.page.titleprefix": "Pessoa: ",
+
+  "person.search.results.head": "Resultado da pesquisa de Pessoa",
+
+  "person.search.title": "DSpace :: Pesquisar Pessoa",
+
+  "process.new.select-parameters": "Parâmetros",
+
+  "process.new.cancel": "Cancelar",
+
+  "process.new.submit": "Guardar",
+
+  "process.new.select-script": "Script",
+
+  "process.new.select-script.placeholder": "Escolha um script...",
+
+  "process.new.select-script.required": "É necessário um Script",
+
+  "process.new.parameter.file.upload-button": "Selecionar ficheiro...",
+
+  "process.new.parameter.file.required": "Selecione um ficheiro",
+
+  "process.new.parameter.string.required": "É necessário um valor no parâmetro",
+
+  "process.new.parameter.type.value": "valor",
+
+  "process.new.parameter.type.file": "ficheiro",
+
+  "process.new.parameter.required.missing": "Falta indicar os seguintes parâmetros obrigatórios:",
+
+  "process.new.notification.success.title": "Successo",
+
+  "process.new.notification.success.content": "O processo foi criado com successo",
+
+  "process.new.notification.error.title": "Erro",
+
+  "process.new.notification.error.content": "Ocorreu um erro ao criar este processo",
+
+  "process.new.header": "Criar um novo processo",
+
+  "process.new.title": "Criar um novo processo",
+
+  "process.new.breadcrumbs": "Criar um novo processo",
+
+  "process.detail.arguments": "Argumentos",
+
+  "process.detail.arguments.empty": "Este processo não contém argumentos",
+
+  "process.detail.back": "Voltar",
+
+  "process.detail.output": "Output do Processo",
+
+  "process.detail.logs.button": "Recuperar output do processo",
+
+  "process.detail.logs.loading": "A recuperar",
+
+  "process.detail.logs.none": "Este processo não tem output",
+
+  "process.detail.output-files": "Ficheiros do Output",
+
+  "process.detail.output-files.empty": "Este processo não possui nenhum ficheiro de output",
+
+  "process.detail.script": "Script",
+
+  "process.detail.title": "Processo: {{ id }} - {{ name }}",
+
+  "process.detail.start-time": "Início",
+
+  "process.detail.end-time": "Fim",
+
+  "process.detail.status": "Estado",
+
+  "process.detail.create": "Criar processo similar",
+
+  "process.overview.table.finish": "Tempo de término",
+
+  "process.overview.table.id": "ID do Processo",
+
+  "process.overview.table.name": "Nome",
+
+  "process.overview.table.start": "Início",
+
+  "process.overview.table.status": "Estado",
+
+  "process.overview.table.user": "Utilizador",
+
+  "process.overview.title": "Resumo dos Processos",
+
+  "process.overview.breadcrumbs": "Resumo dos Processos",
+
+  "process.overview.new": "Novo",
+
+  "profile.breadcrumbs": "Atualizar Perfil",
+
+  "profile.card.identify": "Identificação",
+
+  "profile.card.security": "Segurança",
+
+  "profile.form.submit": "Atualizar Perfil",
+
+  "profile.groups.head": "Os seus grupos",
+
+  "profile.head": "Atualizar Perfil",
+
+  "profile.metadata.form.error.firstname.required": "O Nome é obrigatório",
+
+  "profile.metadata.form.error.lastname.required": "O Apelido é obrigatório",
+
+  "profile.metadata.form.label.email": "Endereço de correio eletrónico",
+
+  "profile.metadata.form.label.firstname": "Nome",
+
+  "profile.metadata.form.label.language": "Idioma",
+
+  "profile.metadata.form.label.lastname": "Apelido",
+
+  "profile.metadata.form.label.phone": "Contacto telefónico",
+
+  "profile.metadata.form.notifications.success.content": "As alterações ao perfil foram guardadas.",
+
+  "profile.metadata.form.notifications.success.title": "Perfil guardado",
+
+  "profile.notifications.warning.no-changes.content": "Não foram efetuadas alterações ao perfil.",
+
+  "profile.notifications.warning.no-changes.title": "Sem alterações",
+
+  "profile.security.form.error.matching-passwords": "As palavras-chave não coincidem.",
+
+  "profile.security.form.error.password-length": "A palavra-chave deve ter pelo menos 6 caracteres.",
+
+  "profile.security.form.info": "Opcionalmente, pode incluir a nova palavra-chave na primeira caixa de texto e confirmar a mesma incluindo-a novamente na segunda caixa de texto. Deverá possuir pelo menos 6 caracteres.",
+
+  "profile.security.form.label.password": "Palavra-chave",
+
+  "profile.security.form.label.passwordrepeat": "Insira novamente para confirmar",
+
+  "profile.security.form.notifications.success.content": "As alterações à palavra-chave foram guardadas.",
+
+  "profile.security.form.notifications.success.title": "Palavra-chave guardada",
+
+  "profile.security.form.notifications.error.title": "Erro ao mudar a palavra-chave",
+
+  "profile.security.form.notifications.error.not-long-enough": "A palavra-chave deve ter pelo menos 6 caracteres.",
+
+  "profile.security.form.notifications.error.not-same": "As palavras-chave fornecidas não coincidem.",
+
+  "profile.title": "Atualizar Perfil",
+
+  "project.listelement.badge": "Projeto de Investigação",
+
+  "project.page.contributor": "Contribuidores",
+
+  "project.page.description": "Descrição",
+
+  "project.page.edit": "Editar este item",
+
+  "project.page.expectedcompletion": "Conclusão esperada",
+
+  "project.page.funder": "Financiadores",
+
+  "project.page.id": "ID",
+
+  "project.page.keyword": "Palavras-chave",
+
+  "project.page.status": "Estado",
+
+  "project.page.titleprefix": "Projeto de Investigação: ",
+
+  "project.search.results.head": "Resultado da Pesquisa de Projetos",
+
+  "publication.listelement.badge": "Publicação",
+
+  "publication.page.description": "Descrição",
+
+  "publication.page.edit": "Editar este item",
+
+  "publication.page.journal-issn": "ISSN do Periódico",
+
+  "publication.page.journal-title": "Título do Periódico",
+
+  "publication.page.publisher": "Editora",
+
+  "publication.page.titleprefix": "Publicação: ",
+
+  "publication.page.volume-title": "Título do Volume",
+
+  "publication.search.results.head": "Resultados da Busca de Publicação",
+
+  "publication.search.title": "DSpace :: Busca de Publicações",
+
+  "register-email.title": "Registo de Novo Utilizador",
+
+  "register-page.create-profile.header": "Criar perfil",
+
+  "register-page.create-profile.identification.header": "Identificação",
+
+  "register-page.create-profile.identification.email": "Endereço de Correio Eletrónico",
+
+  "register-page.create-profile.identification.first-name": "Nome *",
+
+  "register-page.create-profile.identification.first-name.error": "Inclua um Nome",
+
+  "register-page.create-profile.identification.last-name": "Apelido *",
+
+  "register-page.create-profile.identification.last-name.error": "Inclua um Apelido",
+
+  "register-page.create-profile.identification.contact": "Contacto Telefónico",
+
+  "register-page.create-profile.identification.language": "Idioma",
+
+  "register-page.create-profile.security.header": "Segurança",
+
+  "register-page.create-profile.security.info": "Insira uma palavra-chave na caixa abaixo, e confirme colocando-a de novo da segunda caixa. Deverá ter pelo menos 6 caracteres.",
+
+  "register-page.create-profile.security.label.password": "Palavra-chave *",
+
+  "register-page.create-profile.security.label.passwordrepeat": "Escreva novamente para confirmar *",
+
+  "register-page.create-profile.security.error.empty-password": "Inclua uma palavra-chave na caixa de texto abaixo.",
+
+  "register-page.create-profile.security.error.matching-passwords": "As palavras-chave não coincidem.",
+
+  "register-page.create-profile.security.error.password-length": "A palavra-chave deve possuir pelo menos 6 caracteres.",
+
+  "register-page.create-profile.submit": "Finalizar Registo",
+
+  "register-page.create-profile.submit.error.content": "Ocorreu um erro ao registar o Utilizador.",
+
+  "register-page.create-profile.submit.error.head": "Falha no Registo",
+
+  "register-page.create-profile.submit.success.content": "O registo foi criado com sucesso. Foi iniciada sessão com o Utilizador criado.",
+
+  "register-page.create-profile.submit.success.head": "Registo Finalizado com Sucesso",
+
+  "register-page.registration.header": "Registo de Novo Utilizador",
+
+  "register-page.registration.info": "Registe uma conta de Utilizador para subscrever novos conteúdos das coleções e depositar itens no repositório.",
+
+  "register-page.registration.email": "Endereço de Correio Eletrónico *",
+
+  "register-page.registration.email.error.required": "Insira um endereço de email",
+
+  "register-page.registration.email.error.pattern": "Insira um endereço de email válido",
+
+  "register-page.registration.email.hint": "Este endereço de correio eletrónico será verificado e usado para iniciar sessão.",
+
+  "register-page.registration.submit": "Registo",
+
+  "register-page.registration.success.head": "Email de verificação enviado",
+
+  "register-page.registration.success.content": "Foi enviado um email para {{ email }} com instruções e um endereço especial para confirmação.",
+
+  "register-page.registration.error.head": "Erro ao registar o endereço de correio eletrónico",
+
+  "register-page.registration.error.content": "Ocorreu um erro ao registar o seguinte endereço de correio eletrónico: {{ email }}",
+
+  "relationships.add.error.relationship-type.content": "Não foi encontrado uma licação adequada no tipo de relação {{ type }} entre os dois itens",
+
+  "relationships.add.error.server.content": "O servidor devolveu um erro",
+
+  "relationships.add.error.title": "Não foi possível adicionar um relação",
+
+  "relationships.isAuthorOf": "Autores",
+
+  "relationships.isAuthorOf.Person": "Autores (pessoas)",
+
+  "relationships.isAuthorOf.OrgUnit": "Autores (Unidades organizacionais)",
+
+  "relationships.isIssueOf": "Fascículo",
+
+  "relationships.isJournalIssueOf": "Fascículo",
+
+  "relationships.isJournalOf": "Periódicos",
+
+  "relationships.isOrgUnitOf": "Unidades Organizacionais",
+
+  "relationships.isPersonOf": "Autores",
+
+  "relationships.isProjectOf": "Projetos de Investigação",
+
+  "relationships.isPublicationOf": "Publicações",
+
+  "relationships.isPublicationOfJournalIssue": "Artigos",
+
+  "relationships.isSingleJournalOf": "Periódico",
+
+  "relationships.isSingleVolumeOf": "Volume do Periódico",
+
+  "relationships.isVolumeOf": "Volumes do Periódico",
+
+  "relationships.isContributorOf": "Contribuidores",
+
+  "resource-policies.add.button": "Adicionar",
+
+  "resource-policies.add.for.": "Adicionar nova política",
+
+  "resource-policies.add.for.bitstream": "Adicionar uma nova política de fichiero",
+
+  "resource-policies.add.for.bundle": "Adicionar uma nova política de pacote",
+
+  "resource-policies.add.for.item": "Adicionar uma nova política de Item",
+
+  "resource-policies.add.for.community": "Adicionar uma nova política de Comunidade",
+
+  "resource-policies.add.for.collection": "Adicionar uma nova política de Coleção",
+
+  "resource-policies.create.page.heading": "Criar uma nova política de recursos para ",
+
+  "resource-policies.create.page.failure.content": "Ocorreu um erro ao criar uma política de recursos.",
+
+  "resource-policies.create.page.success.content": "Operação bem sucedida",
+
+  "resource-policies.create.page.title": "Criar uma nova política de recursos",
+
+  "resource-policies.delete.btn": "Apagar selecionado",
+
+  "resource-policies.delete.btn.title": "Apagar política de recurso selecionada",
+
+  "resource-policies.delete.failure.content": "Ocorreu um erro ao apagar a política de recurso selecionada.",
+
+  "resource-policies.delete.success.content": "Operação bem sucedida",
+
+  "resource-policies.edit.page.heading": "Editar política de recurso ",
+
+  "resource-policies.edit.page.failure.content": "Ocorreu um erro ao editar a política de recurso.",
+
+  "resource-policies.edit.page.success.content": "Operação bem sucedida",
+
+  "resource-policies.edit.page.title": "Editar política de recurso",
+
+  "resource-policies.form.action-type.label": "Seleccione o tipo de ação",
+
+  "resource-policies.form.action-type.required": "Deve selecionar a ação da política de recurso.",
+
+  "resource-policies.form.eperson-group-list.label": "O Utilizador ou grupo ao qual serão atribuídas as permissões",
+
+  "resource-policies.form.eperson-group-list.select.btn": "Seleccionar",
+
+  "resource-policies.form.eperson-group-list.tab.eperson": "Pesquisar um Utilizador",
+
+  "resource-policies.form.eperson-group-list.tab.group": "Pesquisar um grupo",
+
+  "resource-policies.form.eperson-group-list.table.headers.action": "Ação",
+
+  "resource-policies.form.eperson-group-list.table.headers.id": "ID",
+
+  "resource-policies.form.eperson-group-list.table.headers.name": "Nome",
+
+  "resource-policies.form.date.end.label": "Data de Fim",
+
+  "resource-policies.form.date.start.label": "Data de Início",
+
+  "resource-policies.form.description.label": "Descrição",
+
+  "resource-policies.form.name.label": "Nome",
+
+  "resource-policies.form.policy-type.label": "Seleccione o tipo de política",
+
+  "resource-policies.form.policy-type.required": "Deve selecionar um tipo de política de recurso.",
+
+  "resource-policies.table.headers.action": "Ação",
+
+  "resource-policies.table.headers.date.end": "Data de Fim",
+
+  "resource-policies.table.headers.date.start": "Data de Início",
+
+  "resource-policies.table.headers.edit": "Editar",
+
+  "resource-policies.table.headers.edit.group": "Editar grupo",
+
+  "resource-policies.table.headers.edit.policy": "Editar política",
+
+  "resource-policies.table.headers.eperson": "Utilizador",
+
+  "resource-policies.table.headers.group": "Grupo",
+
+  "resource-policies.table.headers.id": "ID",
+
+  "resource-policies.table.headers.name": "Nome",
+
+  "resource-policies.table.headers.policyType": "tipo",
+
+  "resource-policies.table.headers.title.for.bitstream": "Política de Ficheiros",
+
+  "resource-policies.table.headers.title.for.bundle": "Políticas para Pacote",
+
+  "resource-policies.table.headers.title.for.item": "Políticas para Item",
+
+  "resource-policies.table.headers.title.for.community": "Políticas para Comunidades",
+
+  "resource-policies.table.headers.title.for.collection": "Políticas para Coleção",
+
+  "search.description": "",
+
+  "search.switch-configuration.title": "Mostrar",
+
+  "search.title": "DSpace :: Pesquisa",
+
+  "search.breadcrumbs": "Pesquisar",
+
+  "search.filters.applied.f.author": "Autor",
+
+  "search.filters.applied.f.dateIssued.max": "Data final",
+
+  "search.filters.applied.f.dateIssued.min": "Data inicial",
+
+  "search.filters.applied.f.dateSubmitted": "Data de submissão",
+
+  "search.filters.applied.f.discoverable": "Privado",
+
+  "search.filters.applied.f.entityType": "Tipo de Item",
+
+  "search.filters.applied.f.has_content_in_original_bundle": "Tem ficheiros",
+
+  "search.filters.applied.f.itemtype": "Tipo",
+
+  "search.filters.applied.f.namedresourcetype": "Estado",
+
+  "search.filters.applied.f.subject": "Assunto",
+
+  "search.filters.applied.f.submitter": "Depositante",
+
+  "search.filters.applied.f.jobTitle": "Cargo",
+
+  "search.filters.applied.f.birthDate.max": "Fim data de nascimento",
+
+  "search.filters.applied.f.birthDate.min": "Início data de nascimento",
+
+  "search.filters.applied.f.withdrawn": "Retirado",
+
+  "search.filters.filter.author.head": "Autor",
+
+  "search.filters.filter.author.placeholder": "Nome do autor",
+
+  "search.filters.filter.birthDate.head": "Data de nascimento",
+
+  "search.filters.filter.birthDate.placeholder": "Data de nascimento",
+
+  "search.filters.filter.creativeDatePublished.head": "Data de publicação",
+
+  "search.filters.filter.creativeDatePublished.placeholder": "Data de publicação",
+
+  "search.filters.filter.creativeWorkEditor.head": "Editor",
+
+  "search.filters.filter.creativeWorkEditor.placeholder": "Editor",
+
+  "search.filters.filter.creativeWorkKeywords.head": "Assunto",
+
+  "search.filters.filter.creativeWorkKeywords.placeholder": "Assunto",
+
+  "search.filters.filter.creativeWorkPublisher.head": "Editora",
+
+  "search.filters.filter.creativeWorkPublisher.placeholder": "Editora",
+
+  "search.filters.filter.dateIssued.head": "Data",
+
+  "search.filters.filter.dateIssued.max.placeholder": "Data Mínima",
+
+  "search.filters.filter.dateIssued.min.placeholder": "Data Máxima",
+
+  "search.filters.filter.dateSubmitted.head": "Data de submissão",
+
+  "search.filters.filter.dateSubmitted.placeholder": "Data de submissão",
+
+  "search.filters.filter.discoverable.head": "Privado",
+
+  "search.filters.filter.withdrawn.head": "Retirado",
+
+  "search.filters.filter.entityType.head": "Tipo de Item",
+
+  "search.filters.filter.entityType.placeholder": "Tipo de Item",
+
+  "search.filters.filter.has_content_in_original_bundle.head": "Tem Ficheiros",
+
+  "search.filters.filter.itemtype.head": "Tipo",
+
+  "search.filters.filter.itemtype.placeholder": "Tipo",
+
+  "search.filters.filter.jobTitle.head": "Cargo",
+
+  "search.filters.filter.jobTitle.placeholder": "Cargo",
+
+  "search.filters.filter.knowsLanguage.head": "Idioma conhecido",
+
+  "search.filters.filter.knowsLanguage.placeholder": "Idioma conhecido",
+
+  "search.filters.filter.namedresourcetype.head": "Estado",
+
+  "search.filters.filter.namedresourcetype.placeholder": "Estado",
+
+  "search.filters.filter.objectpeople.head": "Pessoas",
+
+  "search.filters.filter.objectpeople.placeholder": "Pessoas",
+
+  "search.filters.filter.organizationAddressCountry.head": "País",
+
+  "search.filters.filter.organizationAddressCountry.placeholder": "País",
+
+  "search.filters.filter.organizationAddressLocality.head": "Cidade",
+
+  "search.filters.filter.organizationAddressLocality.placeholder": "Cidade",
+
+  "search.filters.filter.organizationFoundingDate.head": "Data de Fundação",
+
+  "search.filters.filter.organizationFoundingDate.placeholder": "Data de Fundação",
+
+  "search.filters.filter.scope.head": "Âmbito",
+
+  "search.filters.filter.scope.placeholder": "Filtrar Ãmbito",
+
+  "search.filters.filter.show-less": "Mostrar menos",
+
+  "search.filters.filter.show-more": "Mostrar mais",
+
+  "search.filters.filter.subject.head": "Assunto",
+
+  "search.filters.filter.subject.placeholder": "Assunto",
+
+  "search.filters.filter.submitter.head": "Depositante",
+
+  "search.filters.filter.submitter.placeholder": "Depositante",
+
+  "search.filters.entityType.JournalIssue": "Número de Revista",
+
+  "search.filters.entityType.JournalVolume": "Volume de Revista",
+
+  "search.filters.entityType.OrgUnit": "Organização",
+
+  "search.filters.has_content_in_original_bundle.true": "Sim",
+
+  "search.filters.has_content_in_original_bundle.false": "Não",
+
+  "search.filters.discoverable.true": "Não",
+
+  "search.filters.discoverable.false": "Sim",
+
+  "search.filters.withdrawn.true": "Sim",
+
+  "search.filters.withdrawn.false": "Não",
+
+  "search.filters.head": "Filtros",
+
+  "search.filters.reset": "Limpar filtros",
+
+  "search.form.search": "Pesquisar",
+
+  "search.form.search_dspace": "Pesquisar",
+
+  "search.form.search_mydspace": "Pesquisar na Área Pessoal",
+
+  "search.results.head": "Resultados de Busca",
+
+  "search.results.no-results": "Sua pesquisa não retornou resultados. Tem dificuldade em encontrar o que procura? Tente incluir ",
+
+  "search.results.no-results-link": "os termos entre aspas",
+
+  "search.results.empty": "A sua pesquisa não retornou resultados.",
+
+  "search.sidebar.close": "Voltar para os resultados",
+
+  "search.sidebar.filters.title": "Filtros",
+
+  "search.sidebar.open": "Ferramentas de pesquisa",
+
+  "search.sidebar.results": "resultados",
+
+  "search.sidebar.settings.rpp": "Resultados por página",
+
+  "search.sidebar.settings.sort-by": "Ordenar por",
+
+  "search.sidebar.settings.title": "Configurações",
+
+  "search.view-switch.show-detail": "Mostrar detalhes",
+
+  "search.view-switch.show-grid": "Mostrar como grade",
+
+  "search.view-switch.show-list": "Mostrar como lista",
+
+  "sorting.ASC": "Ascendente",
+
+  "sorting.DESC": "Descendente",
+
+  "sorting.dc.title.ASC": "Título Ascendente",
+
+  "sorting.dc.title.DESC": "Título Descendente",
+
+  "sorting.score.DESC": "Relevância",
+
+  "statistics.title": "Estatísticas",
+
+  "statistics.header": "Estatísticas para {{ scope }}",
+
+  "statistics.breadcrumbs": "Estatísticas",
+
+  "statistics.page.no-data": "Sem dados disponíveis",
+
+  "statistics.table.no-data": "Sem dados disponíveis",
+
+  "statistics.table.title.TotalVisits": "Total de Visitas",
+
+  "statistics.table.title.TotalVisitsPerMonth": "Total de Visitas por Mês",
+
+  "statistics.table.title.TotalDownloads": "Downloads",
+
+  "statistics.table.title.TopCountries": "Top de Consultas por País",
+
+  "statistics.table.title.TopCities": "Top de Consultas por Cidade",
+
+  "statistics.table.header.views": "Consultas",
+
+  "submission.edit.title": "Editar Submissão",
+
+  "submission.general.cannot_submit": "Você não tem privilégios para fazer uma nova submissão.",
+
+  "submission.general.deposit": "Depositar",
+
+  "submission.general.discard.confirm.cancel": "Cancelar",
+
+  "submission.general.discard.confirm.info": "Esta operação não pode ser desfeita. Tem certeza?",
+
+  "submission.general.discard.confirm.submit": "Sim, tenho certeza",
+
+  "submission.general.discard.confirm.title": "Cancelar submissão",
+
+  "submission.general.discard.submit": "Cancelar",
+
+  "submission.general.save": "Guardar",
+
+  "submission.general.save-later": "Guardar para continuar depois",
+
+  "submission.import-external.page.title": "Importar metadados de uma fonte externa",
+
+  "submission.import-external.title": "Importar metadados de uma fonte externa",
+
+  "submission.import-external.page.hint": "Pesquise itens abaixo disponíveis na internet para que sejam importados para o repositório.",
+
+  "submission.import-external.back-to-my-dspace": "Voltar à Minha Área",
+
+  "submission.import-external.search.placeholder": "Pesquisar em fonte externa",
+
+  "submission.import-external.search.button": "Pesquisar",
+
+  "submission.import-external.search.button.hint": "Escreva algumas palavras para pesquisar",
+
+  "submission.import-external.search.source.hint": "Selecione uma fonte externa",
+
+  "submission.import-external.source.arxiv": "arXiv",
+
+  "submission.import-external.source.loading": "A Carregar ...",
+
+  "submission.import-external.source.sherpaJournal": "Revistas do SHERPA",
+
+  "submission.import-external.source.sherpaPublisher": "Editores do SHERPA",
+
+  "submission.import-external.source.orcid": "ORCID",
+
+  "submission.import-external.source.pubmed": "Pubmed",
+
+  "submission.import-external.source.lcname": "Nomes da Library of Congress",
+
+  "submission.import-external.preview.title": "Prévisualização do Item",
+
+  "submission.import-external.preview.subtitle": "Os metadados abaixo foram importados de uma fonte externa. Serão  pré-preenchidos quando iniciar a submissão.",
+
+  "submission.import-external.preview.button.import": "Iniciar submissão",
+
+  "submission.import-external.preview.error.import.title": "Erro na submissão",
+
+  "submission.import-external.preview.error.import.body": "Ocorreu um erro durante o processo de importação de metadados de uma fonte externa.",
+
+  "submission.sections.describe.relationship-lookup.close": "Fechar",
+
+  "submission.sections.describe.relationship-lookup.external-source.added": "Adicionada com sucesso uma entrada local à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.isAuthorOfPublication": "Importar autor remoto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal": "Importar Informação Remota",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Issue": "Importar Número de revista remoto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Volume": "Importar Volume de revista remoto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.title": "Importar Autor remoto",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.local-entity": "Adicionado com sucesso um autor local à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.new-entity": "Importado com sucesso e adicionado autor à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority": "Autoridade",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority.new": "Importar como nova autoridade local",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.cancel": "Cancelar",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.collection": "Seleccione a coleção para onde pretende importar as novas entradas",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities": "Entidades",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities.new": "Importar como nova entidade local",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "A Importar de LC Name",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcid": "A Importar do ORCID",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "A Importar Revista do Sherpa",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "A Importar Editora do Sherpa",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.pubmed": "A Importar da PubMed",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.arxiv": "A Importar do arXiv",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.import": "Importar",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.title": "Importar Revista Remota",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.local-entity": "Revista local adicionada com sucesso à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.new-entity": "Importado e adicionada com sucesso uma revista externa à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.title": "Importar número de revista remota",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.local-entity": "Número de Revista Local adicionado com sucesso à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.new-entity": "Importado e adicionado um Número de Revista externa com sucesso à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.title": "Importar volume de revista remota",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.local-entity": "Volume de Revista Local adicionado com sucesso à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.new-entity": "Importado e adicionado um volume de Revista externa com sucesso à seleção",
+
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.select": "Seleccione uma correspondência local:",
+
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-all": "Deseleccionar todos",
+
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Deseleccionar página",
+
+  "submission.sections.describe.relationship-lookup.search-tab.loading": "A Carregar...",
+
+  "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Termos da pesquisa",
+
+  "submission.sections.describe.relationship-lookup.search-tab.search": "Pesquisar",
+
+  "submission.sections.describe.relationship-lookup.search-tab.select-all": "Selecionar todos",
+
+  "submission.sections.describe.relationship-lookup.search-tab.select-page": "Selecionar página",
+
+  "submission.sections.describe.relationship-lookup.selected": "Selecionados {{ size }} itens",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isAuthorOfPublication": "Autores Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalOfPublication": "Revistas Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Project": "Projetos Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Publication": "Publicações Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Person": "Autores Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.OrgUnit": "Unidades Organizacionais Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataPackage": "Pacotes de Dados Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataFile": "Ficheiros de Dados Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Journal": "Revistas Locais ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalIssueOfPublication": "Números de Revista Local ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalIssue": "Números de Revista Local ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalVolumeOfPublication": "Volumes de Revista Local ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalVolume": "Volume de revista Local ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaJournal": "Revistas do Sherpa ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaPublisher": "Editoras do Sherpa ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.orcid": "ORCID ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.lcname": "Nomes LC ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.pubmed": "PubMed ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.arxiv": "arXiv ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfPublication": "Pesquisar Agências de Financiamento",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Pesquisar Financiamento",
+
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Pesquisar Unidades Organizacionais",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Seleção Atual ({{ count }})",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalIssueOfPublication": "Números de Revista",
+
+  "submission.sections.describe.relationship-lookup.title.JournalIssue": "Números de Revista",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalVolumeOfPublication": "Volumes de Revistas",
+
+  "submission.sections.describe.relationship-lookup.title.JournalVolume": "Volumes de Revistas",
+
+  "submission.sections.describe.relationship-lookup.title.isJournalOfPublication": "Revistas",
+
+  "submission.sections.describe.relationship-lookup.title.isAuthorOfPublication": "Autores",
+
+  "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfPublication": "Agência de Financiamento",
+
+  "submission.sections.describe.relationship-lookup.title.Project": "Projetos",
+
+  "submission.sections.describe.relationship-lookup.title.Publication": "Publicações",
+
+  "submission.sections.describe.relationship-lookup.title.Person": "Autores",
+
+  "submission.sections.describe.relationship-lookup.title.OrgUnit": "Unidades Organizacionais",
+
+  "submission.sections.describe.relationship-lookup.title.DataPackage": "Pacote de Dados",
+
+  "submission.sections.describe.relationship-lookup.title.DataFile": "Ficheiros de Dados",
+
+  "submission.sections.describe.relationship-lookup.title.Funding Agency": "Agência de Financiamento",
+
+  "submission.sections.describe.relationship-lookup.title.isFundingOfPublication": "Financiamento",
+
+  "submission.sections.describe.relationship-lookup.title.isChildOrgUnitOf": "Organização Principal",
+
+  "submission.sections.describe.relationship-lookup.search-tab.toggle-dropdown": "Alternar menu dropdown",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.settings": "Configurações",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.no-selection": "Não selecionou nenhum item.",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Autores Selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Revistas Selecionadas",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalVolumeOfPublication": "Volume de Revista Selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Project": "Projetos Selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Publication": "Publicações Selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Person": "Autores Selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.OrgUnit": "Unidades Organizacionais Selecionadas",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataPackage": "Pacotes de dados selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataFile": "Ficheiros de dados selecionados",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Journal": "Revistas Selecionadas",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalIssueOfPublication": "Número Selecionado",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalVolume": "Volume de Revista Selecionado",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingAgencyOfPublication": "Agência de Financiamento selecionada",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingOfPublication": "Financiamento selecionado",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalIssue": "Número Selecionado",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isChildOrgUnitOf": "Organização Selecionada",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Resultados da Pesquisa",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Pretende guardar \"{{ value }}\" como um nome alternativo para esta pessoa permitindo a sua reutilização por outros em futuras submissões? Se não, pode usar apenas nesta submissão.",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Guardar um Nome alternativo",
+
+  "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Usar apenas para esta submissão",
+
+  "submission.sections.ccLicense.type": "Tipo de licença",
+
+  "submission.sections.ccLicense.select": "Selecionar o tipo de licença…",
+
+  "submission.sections.ccLicense.change": "Alterar o tipo de licença…",
+
+  "submission.sections.ccLicense.none": "Sem licenças disponíveis",
+
+  "submission.sections.ccLicense.option.select": "Escolher uma opção…",
+
+  "submission.sections.ccLicense.link": "Escolheu a seguinte licença:",
+
+  "submission.sections.ccLicense.confirmation": "Consedo a licença abaixo indicada",
+
+  "submission.sections.general.add-more": "Adicionar mais",
+
+  "submission.sections.general.collection": "Coleção",
+
+  "submission.sections.general.deposit_error_notice": "Houve um problema durante a submissão do item, por favor tente novamente mais tarde.",
+
+  "submission.sections.general.deposit_success_notice": "Submissão depositada com sucesso.",
+
+  "submission.sections.general.discard_error_notice": "Houve um problema ao descartar o item, por favor tente novamente mais tarde.",
+
+  "submission.sections.general.discard_success_notice": "Submissão descartada com sucesso.",
+
+  "submission.sections.general.metadata-extracted": "Novos metadados foram extraídos e adicionados a Secção <strong>{{sectionId}}</strong>.",
+
+  "submission.sections.general.metadata-extracted-new-section": "Nova Secção <strong>{{sectionId}}</strong> foi adicionada a dubmissão.",
+
+  "submission.sections.general.no-collection": "Nenhuma coleção encontrada",
+
+  "submission.sections.general.no-sections": "Sem opções disponíveis",
+
+  "submission.sections.general.save_error_notice": "Houve um problema ao salvar o item, por favor tente novamente mais tarde.",
+
+  "submission.sections.general.save_success_notice": "Submissão salva com sucesso.",
+
+  "submission.sections.general.search-collection": "Pesquisar uma coleção",
+
+  "submission.sections.general.sections_not_valid": "Há seções incompletas.",
+
+  "submission.sections.submit.progressbar.CClicense": "Licença Creative commons",
+
+  "submission.sections.submit.progressbar.describe.recycle": "Reciclar",
+
+  "submission.sections.submit.progressbar.describe.stepcustom": "Descrever",
+
+  "submission.sections.submit.progressbar.describe.stepone": "Descrever",
+
+  "submission.sections.submit.progressbar.describe.steptwo": "Descrever",
+
+  "submission.sections.submit.progressbar.detect-duplicate": "Duplicados em potencial",
+
+  "submission.sections.submit.progressbar.license": "Depositar licença",
+
+  "submission.sections.submit.progressbar.upload": "Enviar ficheiros",
+
+  "submission.sections.upload.delete.confirm.cancel": "Cancelar",
+
+  "submission.sections.upload.delete.confirm.info": "Esta operação é irreversível. Tem certeza?",
+
+  "submission.sections.upload.delete.confirm.submit": "Sim, tenho certeza",
+
+  "submission.sections.upload.delete.confirm.title": "Remover bitstream",
+
+  "submission.sections.upload.delete.submit": "Remover",
+
+  "submission.sections.upload.drop-message": "Arraste ficheiros para os anexar a este item",
+
+  "submission.sections.upload.form.access-condition-label": "Tipo de condição de acesso",
+
+  "submission.sections.upload.form.date-required": "Data necessária.",
+
+  "submission.sections.upload.form.from-label": "Acesso permitido a partir de",
+
+  "submission.sections.upload.form.from-placeholder": "De",
+
+  "submission.sections.upload.form.group-label": "Grupo",
+
+  "submission.sections.upload.form.group-required": "Grupo é necessário.",
+
+  "submission.sections.upload.form.until-label": "Acesso permitido até",
+
+  "submission.sections.upload.form.until-placeholder": "Até",
+
+  "submission.sections.upload.header.policy.default.nolist": "Arquivos enviados na coleção {{collectionName}} serão acessiveis de acordo com o(s) seguinte(s) grupo(s):",
+
+  "submission.sections.upload.header.policy.default.withlist": "Por favor note que os ficheiros enviados à coleção {{collectionName}} serão acessíveis, de acordo com o que está explicitamente definido no ficheiro, no(s) seguinte(s) grupo(s):",
+
+  "submission.sections.upload.info": "Aqui encontra todos os ficheiros que estão atualmente no item. Pode atualizar os metadados do ficheiro e condições de acesso ou <strong>carregar ficheiros adicionais arrastando os ficheiros em qualquer lugar desta página</strong>",
+
+  "submission.sections.upload.no-entry": "Não",
+
+  "submission.sections.upload.no-file-uploaded": "Nenhum ficheiro enviado ainda.",
+
+  "submission.sections.upload.save-metadata": "Guardar metadados",
+
+  "submission.sections.upload.undo": "Cancelar",
+
+  "submission.sections.upload.upload-failed": "Falha no envio",
+
+  "submission.sections.upload.upload-successful": "Enviado com sucesso",
+
+  "submission.submit.title": "Submissão",
+
+  "submission.workflow.generic.delete": "Apagar",
+
+  "submission.workflow.generic.delete-help": "Se você gostaria de descartar este item, selecione \"Apagar\".  Você será questionado para confirmar.",
+
+  "submission.workflow.generic.edit": "Editar",
+
+  "submission.workflow.generic.edit-help": "Selecione esta opção para modificar os metadados do item.",
+
+  "submission.workflow.generic.view": "Visualizar",
+
+  "submission.workflow.generic.view-help": "Selecione esta opção para ver o metadados do item.",
+
+  "submission.workflow.tasks.claimed.approve": "Aprovar",
+
+  "submission.workflow.tasks.claimed.approve_help": "Se você revisou o item e este está adequado para inclusão na coleção, selecione \"Aprovar\".",
+
+  "submission.workflow.tasks.claimed.edit": "Editar",
+
+  "submission.workflow.tasks.claimed.edit_help": "Selecione esta opção para modificar os metadados do item.",
+
+  "submission.workflow.tasks.claimed.reject.reason.info": "Informe o motivo da rejeição da submissão na caixa abaixo, indicando se o depositante pode corrigir algum problema e reenviar.",
+
+  "submission.workflow.tasks.claimed.reject.reason.placeholder": "Descreva o motivo da rejeição",
+
+  "submission.workflow.tasks.claimed.reject.reason.submit": "Rejeitar item",
+
+  "submission.workflow.tasks.claimed.reject.reason.title": "Motivo",
+
+  "submission.workflow.tasks.claimed.reject.submit": "Rejeitar",
+
+  "submission.workflow.tasks.claimed.reject_help": "Se reviu o item e achou que ele <strong>não</strong> é adequado para inclusão na coleção, selecione \"Rejeitar\".  Deverá indicar numa mensagem o motivo da rejeição e se o depositante deve modificar algo e reenviar.",
+
+  "submission.workflow.tasks.claimed.return": "Voltar para a listagem",
+
+  "submission.workflow.tasks.claimed.return_help": "Enviar a tarefa para a lista para que outra pessoa possa executar.",
+
+  "submission.workflow.tasks.generic.error": "Ocorreu um erro durante a operação...",
+
+  "submission.workflow.tasks.generic.processing": "Processando...",
+
+  "submission.workflow.tasks.generic.submitter": "Submetedor",
+
+  "submission.workflow.tasks.generic.success": "Operação realizada com sucesso",
+
+  "submission.workflow.tasks.pool.claim": "Requerer",
+
+  "submission.workflow.tasks.pool.claim_help": "Atribua esta tarefa a si mesmo.",
+
+  "submission.workflow.tasks.pool.hide-detail": "Ocultar detalhes",
+
+  "submission.workflow.tasks.pool.show-detail": "Mostrar detalhes",
+
+  title: "DSpace",
+
+  "vocabulary-treeview.header": "Vista hierárquica",
+
+  "vocabulary-treeview.load-more": "Carregar mais",
+
+  "vocabulary-treeview.search.form.reset": "Redefinir",
+
+  "vocabulary-treeview.search.form.search": "Pesquisar",
+
+  "vocabulary-treeview.search.no-result": "Não existem itens para mostrar",
+
+  "vocabulary-treeview.tree.description.nsi": "O Norwegian Science Index",
+
+  "vocabulary-treeview.tree.description.srsc": "Categorias de Assuntos de Investigação",
+
+  "uploader.browse": "Navegar",
+
+  "uploader.drag-message": "Clique e arraste os seus ficheiros aqui",
+
+  "uploader.or": ", ou",
+
+  "uploader.processing": "A Processar",
+
+  "uploader.queue-length": "Tamanho da fila",
+
+  "virtual-metadata.delete-item.info": "Selecione os tipos para os quais pretende guardar os metadados virtuais como metadados reais",
+
+  "virtual-metadata.delete-item.modal-head": "Os metadados virtuais desta relação",
+
+  "virtual-metadata.delete-relationship.modal-head": "Selecione os tipos para os quais pretende guardar os metadados virtuais como metadados reais",
+
+  "workflowAdmin.search.results.head": "Gestão do Workflow",
+
+  "workflow-item.delete.notification.success.title": "Apagado",
+
+  "workflow-item.delete.notification.success.content": "Este item do workflow foi apagado com sucesso",
+
+  "workflow-item.delete.notification.error.title": "Algo correu mal",
+
+  "workflow-item.delete.notification.error.content": "Não foi possível apagar o item do workflow",
+
+  "workflow-item.delete.title": "Apagar Item do Workflow",
+
+  "workflow-item.delete.header": "Apagar Item do Workflow",
+
+  "workflow-item.delete.button.cancel": "Cancelar",
+
+  "workflow-item.delete.button.confirm": "Apagar",
+
+  "workflow-item.send-back.notification.success.title": "Devolver ao depositante",
+
+  "workflow-item.send-back.notification.success.content": "Este item foi devolvido ao depositante com sucesso",
+
+  "workflow-item.send-back.notification.error.title": "Alguma coisa correu mal",
+
+  "workflow-item.send-back.notification.error.content": "Não foi pos´sivel enviar ao depositante este item do workflow",
+
+  "workflow-item.send-back.title": "Enviar item do workflow para o depositante",
+
+  "workflow-item.send-back.header": "Enviar item do workflow para o depositante",
+
+  "workflow-item.send-back.button.cancel": "Cancelar",
+
+  "workflow-item.send-back.button.confirm": "Devolver",
+}

@@ -1,0 +1,9 @@
+a{
+    color:var(--cs-a-col);
+    :focus :focus{
+        color:var(--cs-a-col-hover);
+    }
+}
+.thumbnail {
+    min-width: var(--ds-thumbnail-max-width);
+}

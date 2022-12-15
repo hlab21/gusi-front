@@ -1,0 +1,50 @@
+::ng-deep .bg-info{
+    background-color: white !important;
+  }
+:host {
+  font-family: Sen;
+  display: block;
+  margin-top: calc(var(--ds-content-spacing) * -1);
+  .container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+  }
+   .jumbotron {
+    background-color: white;
+  }
+  
+  @media (max-width: 578px) {
+    .container-home {
+      max-width: 540px;
+    }
+
+  }
+  @media (min-width: 768px) {
+    .container-home {
+      max-width: 720px;
+    }
+
+  }
+  @media (min-width: 992px) {
+    .container-home {
+      max-width: 960px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .container-home {
+      max-width: 1140px;
+    }
+  }
+  @media (min-width: 1400px) {
+    .container-home {
+      max-width: 90%;
+    }
+    @media (min-width: 2000px) {
+      .container-home {
+        max-width: 1920px;
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+
+<div class="container-fluid" style="background-color: blue;">
+  <footer class="text-lg-start" style="background-color: #DA1212;">
+    <!-- <ds-browse-by-metadata-page></ds-browse-by-metadata-page> -->
+      <div style="display:flex; height:auto; width: 100%;">
+        <div style="display: flex; height:inherit">
+          <div class="n-line" style="background-color: #DA1212; height:100%;position:relative;top:0;">
+          </div>
+          <div class="n-line" style="background-color: #000000; height:100%;position:relative;top:0;">
+          </div>
+          <div class="n-line" style="background-color: #322B2B; height:100%;position:relative;top:0;">
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div *ngIf="showTopFooter" class="top-footer pb-1">
+            <div class="row">
+              <div class="col-lg-4 col-md-6 mb-0 mb-lg-0 align-items-center" >
+                  <div>
+                    <a class="navbar-brand my-2" routerLink="/home">
+                      <img src="assets/images/GUSI-CIRCLE.png" [attr.alt]="'menu.header.image.logo' | translate" />
+                    </a>
+                    <div class="text-center px-5">
+                      <p>Follow Us</p>
+                      <div class="d-flex text-center align-items-center justify-content-center">
+                        <div class="px-1">
+                          <a routerLink="./home"><i class="fab fa-facebook-square fa-2x"></i></a>
+                        </div>
+                        <div class="px-1">
+                          <a routerLink="./home"><i class="fab fa-twitter-square fa-2x"></i></a>
+                        </div>
+                        <div class="px-1">
+                          <a routerLink="./home"><i class="fab fa-linkedin fa-2x"></i></a>
+                        </div>
+                        <div class="px-1">
+                          <a routerLink="./home"><i class="fab fa-instagram fa-2x"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                    
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-6 mb-0 mb-lg-0 pl-4 pt-4 align-items-center">
+                <div class="text-left">
+                  <h5 class="text-uppercase">Quick Links</h5>
+                  <ul class="list-unstyled mb-0">
+                    <li>
+                      <a routerLink="./home" class="">Home</a>
+                    </li>
+                    <li>
+                      <a routerLink="./community-list" class="">Communities and Collections</a>
+                    </li>
+
+                    <li *ngIf="showFAQs">
+                      <a routerLink="info/faqs" class="">FAQs</a>
+                    </li>
+                    <li *ngIf="showPrivacyPolicy">
+                      <a class="text-white"
+                        routerLink="info/privacy">{{ 'footer.link.privacy-policy' | translate}}</a>
+                    </li>
+                    <li>
+                      <a class="text-white"
+                        routerLink="info/feedback">{{ 'footer.link.feedback' | translate}}</a>
+                    </li> 
+                    <li>
+                      <a class="text-white" href="javascript:void(0);"
+                        (click)="showCookieSettings()">{{ 'footer.link.cookies' | translate}}</a>
+                    </li>
+                  </ul>
+                </div>
+                
+              </div>
+              <div class="col-lg-4 col-md-12 mb-0 mb-md-0 pl-4 pt-4 align-items-center">
+                <div>
+                  <h5 class="text-uppercase">Get in Touch</h5>
+                  <div class="loc-phone-pos">
+                    <div style="display:flex;">
+                      <div class="pr-4 justify-content-center align-items-start" >
+                        <i class="fas fa-map-marker-alt"></i>
+                      </div>
+                      <div class="align-items-start justify-content-start text-left pr-4">
+                        <p>
+                          Engineering Bldg., University of the East - Caloocan, 105 Samson Road 1400 Caloocan, Philippines
+                        </p>
+                      </div>  
+                    </div>
+                    <div style="display:flex;">
+                      <div class="pr-4 justify-content-center align-items-start " >
+                        <i class="fas fa-phone"></i>
+                      </div>
+                      <div class="container-fluid align-items-start justify-content-start text-left pr-4">
+                        <p>
+                          (632) 8367-45-72
+                        </p>
+                      </div> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="bottom-footer d-flex justify-content-center align-items-center text-white">
+            <div class="content-container">
+              <p class="m-0">
+                Copyrights Ⓒ 2022 GUSI. All Rights Reserved.
+                
+                <!-- <a class="text-white"
+                  href="http://www.dspace.org/">{{ 'footer.link.dspace' | translate}}</a>
+                {{ 'footer.copyright' | translate:{year: dateObj | date:'y'} }}
+                <a class="text-white"
+                  href="https://www.lyrasis.org/">{{ 'footer.link.lyrasis' | translate}}</a> -->
+              
+              <!-- <ul class="footer-info list-unstyled small d-flex justify-content-center mb-0">
+                <li>
+                  <a class="text-white" href="javascript:void(0);"
+                    (click)="showCookieSettings()">{{ 'footer.link.cookies' | translate}}</a>
+                </li>
+                <li *ngIf="showPrivacyPolicy">
+                  <a class="text-white"
+                    routerLink="info/privacy">{{ 'footer.link.privacy-policy' | translate}}</a>
+                </li>
+                <li *ngIf="showEndUserAgreement">
+                  <a class="text-white"
+                    routerLink="info/end-user-agreement">{{ 'footer.link.end-user-agreement' | translate}}</a>
+                </li>
+                <li>
+                  <a class="text-white"
+                    routerLink="info/feedback">{{ 'footer.link.feedback' | translate}}</a>
+                </li> 
+              </ul> -->
+            </div>
+          </div>
+        </div>
+      </div>
+  </footer>
+</div>

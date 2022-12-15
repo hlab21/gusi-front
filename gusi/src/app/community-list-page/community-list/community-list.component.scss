@@ -1,0 +1,6 @@
+a{
+    color: var(--cs-a-col);
+    :focus :hover{
+        color: var(--cs-a-col-hover);
+    }
+}

@@ -1,0 +1,42 @@
+// @import '~node_modules/mdb-ui-kit/src/scss/mdb.free.scss';
+
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+}
+h2{
+    font-weight: bold;
+}
+.btn-link{
+  color:#DA1212;
+}
+.btn-link:hover, .btn-link:focus{
+  color:#DA1212;
+}
+.btn-link:focus, .btn-link.focus {
+  text-decoration: underline;
+  box-shadow: none;
+}
+.btn-link:disabled{
+  color:#DA1212;
+}
+::ng-deep{
+  .bg-info{
+    background-color: white !important;
+  }
+  .btn-link{
+    color:#DA1212;
+  }
+  .btn-link:hover, .btn-link:focus{
+    color:#DA1212;
+  }
+  .btn-link:focus, .btn-link.focus {
+    text-decoration: underline;
+    box-shadow: none;
+  }
+  .btn-link:disabled{
+    color:#DA1212;
+  }
+}

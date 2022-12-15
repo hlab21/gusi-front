@@ -1,0 +1,32 @@
+.btn-link{
+  color:#DA1212;
+}
+.btn-link:hover, .btn-link:focus{
+  color:#DA1212;
+}
+.btn-link:focus, .btn-link.focus {
+  text-decoration: underline;
+  box-shadow: none;
+}
+.btn-link:disabled{
+  color:#DA1212;
+}
+
+::ng-deep{
+  .bg-info{
+    background-color: white !important;
+  }
+  .btn-link{
+    color:#DA1212;
+  }
+  .btn-link:hover, .btn-link:focus{
+    color:#DA1212;
+  }
+  .btn-link:focus, .btn-link.focus {
+    text-decoration: underline;
+    box-shadow: none;
+  }
+  .btn-link:disabled{
+    color:#DA1212;
+  }
+}

@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-start">
+    <div class="thumbnail mr-3">
+      <ds-thumbnail [thumbnail]="(object.logo | async)?.payload">
+      </ds-thumbnail>
+    </div>
+    <div class="">
+      <a *ngIf="linkType != linkTypes.None" [target]="(linkType == linkTypes.ExternalLink) ? '_blank' : '_self'" rel="noopener noreferrer" [routerLink]="['/communities/' + object.id]" class="lead">
+        {{object.name}}
+      </a>
+      <span *ngIf="linkType == linkTypes.None" class="lead">
+        {{object.name}}
+    </span>
+      <div *ngIf="object.shortDescription" class="text-muted abstract-text">
+        {{object.shortDescription}}
+      </div>
+    </div>
+</div>
